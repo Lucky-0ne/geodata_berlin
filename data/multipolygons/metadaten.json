@@ -1,0 +1,111 @@
+{
+    "dcat:Catalog": {
+        "dct:title": [
+            "Daten"
+        ],
+        "dct:description": [
+            "Offene Daten zur Verfügung gestellt durch die Open Data Informationsstelle (ODIS)"
+        ],
+        "dct:publisher": {
+            "foaf:name": "Technologiestiftung Berlin"
+        },
+        "dct:issued": "2021-09-09",
+        "dcat:dataset": [
+            "https://daten.odis-berlin.de/dataset/lor_planungsgraeume_2021/"
+        ],
+        "dct:isPartOf": [
+            "https://daten.odis-berlin.de"
+        ]
+    },
+    "dcat:Dataset": [
+        {
+            "dct:identifier": [
+                "https://daten.odis-berlin.de/dataset/lor_planungsgraeume_2021/"
+            ],
+            "dct:title": [
+                "Lebensweltlich orientierte Räume (LOR) - Planungsräume (seit 2021)"
+            ],
+            "dct:description": [
+                "Dargestellt werden die aktuellen, seit 2021 verwendeten, 542 Planungsräume, die die unterste Beobachtungs- und Planungsebene der lebensweltlich orientierten Raumhierarchie (LOR) im RBS abbilden. Durchschnittlich umfaßt ein Planungsraum 7.500 Einwohner.  Mehr Infos finden Sie hier: https://www.stadtentwicklung.berlin.de/planen/basisdaten_stadtentwicklung/lor/ <br />Original WFS URL: https://fbinter.stadt-berlin.de/fb/wfs/data/senstadt/s_lor_plr_2021"
+            ],
+            "dcatde:originator": [
+                {
+                    "foaf:name": "ODIS (Open Data Informationsstelle Berlin)",
+                    "dct:type": "http://inspire.ec.europa.eu/metadata-codelist/ResponsiblePartyRole/processor"
+                }
+            ],
+            "dcat:contactPoint": [
+                {
+                    "vcard:fn": "ODIS (Open Data Informationsstelle Berlin)",
+                    "vcard:hasEmail": "mailto:odis@technologiestiftung-berlin.de"
+                }
+            ],
+            "dcat:keyword": [
+                
+                "geo",
+                "basisdaten",
+                "polygon",
+                "LOR"
+            ],
+            "dct:spatial": [
+                {
+                    "type": "Polygon",
+                    "crs": "urn:ogc:def:crs:OGC:1.3:CRS84",
+                    "coordinates": [
+                        [
+                            [
+                                13.088347614730992,
+                                52.338245549997296
+                            ],
+                            [
+                                13.761159145035254,
+                                52.338245549997296
+                            ],
+                            [
+                                13.761159145035254,
+                                52.67550765972353
+                            ],
+                            [
+                                13.088347614730992,
+                                52.67550765972353
+                            ],
+                            [
+                                13.088347614730992,
+                                52.338245549997296
+                            ]
+                        ]
+                    ]
+                }
+            ],
+            "dct:temporal": [
+            
+            ],
+            "dct:modified": "2021-09-09",
+            "dcat:distribution": [
+                
+                "https://tsb-opendata.s3.eu-central-1.amazonaws.com/lor_planungsgraeume_2021/lor_planungsraeume_2021.csv",
+                "https://tsb-opendata.s3.eu-central-1.amazonaws.com/lor_planungsgraeume_2021/lor_planungsraeume_2021.geojson",
+                "https://tsb-opendata.s3.eu-central-1.amazonaws.com/lor_planungsgraeume_2021/lor_planungsraeume_2021.gml",
+                "https://tsb-opendata.s3.eu-central-1.amazonaws.com/lor_planungsgraeume_2021/lor_planungsraeume_2021.kml",
+                "https://tsb-opendata.s3.eu-central-1.amazonaws.com/lor_planungsgraeume_2021/lor_planungsraeume_2021.shp.zip",
+                "https://tsb-opendata.s3.eu-central-1.amazonaws.com/lor_planungsgraeume_2021/lor_planungsraeume_2021.sqlite"
+            ],
+            "dct:license": [
+                "Nutzungsbedingungen: Der Datenbestand wird unter der Lizenz CC-BY-3.0-Namensnennung veröffentlicht (vgl. https://creativecommons.org/licenses/by/3.0/de/). Als Urheber ist dabei zu nennen: Amt für Statistik Berlin-Brandenburg"
+            ],
+            "dcatde:politicalGeocodingLevelURI": [
+                "http://dcat-ap.de/def/politicalGeocoding/Level/state",
+                "http://dcat-ap.de/def/politicalGeocoding/Level/administrativeDistrict",
+                "http://dcat-ap.de/def/politicalGeocoding/Level/municipality",
+                "lor_planungsraeume"
+            ],
+            "dcatde:politicalGeocodingURI": [
+                "http://dcat-ap.de/def/politicalGeocoding/stateKey/11",
+                "http://dcat-ap.de/def/politicalGeocoding/regionalKey/110000000000"
+            ],
+            "dcatde:geocodingText": [
+                "Berlin, Stadt"
+            ]
+        }
+    ]
+}
