@@ -1,6 +1,5 @@
 from tqdm import tqdm
 tqdm.pandas()
-from datetime import datetime, timedelta
 from utils import *
 
 # load new data to add geodata to
@@ -13,12 +12,8 @@ save_file_name = f'{YEAR}_bikethefts_map.html'
 df = open_new_data(new_data_path=new_data_path+load_file_name, PLR_ID_column_name='LOR', encoding='ISO-8859-1')
 
 # TODO transform new data to effectively add geodata (e.g. group by PLR_ID and/or timestamp before adding geodata to each row)
-df_ts = df.copy()
-df_ts['theft_start'] = pd.to_datetime(df_ts['theft_start'])
-df_ts.loc[:,'theft_start_year'] = df_ts['theft_start'].dt.year
-df_ts.loc[:,'theft_start_month'] = df_ts['theft_start'].dt.month
-df_ts.loc[:,'theft_start_day'] = df_ts['theft_start'].dt.day
-df_ts.loc[:,'theft_start_hour'] = df_ts['theft_start'].dt.hour
+df_ts = extract_timestamps(df.copy(), 'theft_start', '%Y-%m-%d %H')
+
 # groupby PLR_ID and year
 df_thefts_per_year = df_ts.groupby(['PLR_ID', 'theft_start_year']).size().reset_index(name='Bike_Thefts').sort_values('theft_start_year')
 df_thefts_2022 = df_thefts_per_year[df_thefts_per_year['theft_start_year'] == YEAR]
@@ -32,8 +27,10 @@ geojson_data = gpd.read_file(geojson_path)
 # add geodata
 explore_df = get_geodata(df_thefts_2022, geojson_data)
 
-# fill NaNs with 0
+# fill NaNs
 explore_df['Bike_Thefts'] = explore_df['Bike_Thefts'].fillna(0)
+explore_df['theft_start_year'] = explore_df['theft_start_year'].fillna(YEAR)
+
 
 # Transfrom to GeoDataFrame
 explore_df = gpd.GeoDataFrame(explore_df)
