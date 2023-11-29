@@ -1,7 +1,7 @@
-# geodata_berlin
-A brief compilation of geodata for the Berlin area
+# Geodata Berlin
+A brief compilation of Geodata for the Berlin Area
 
-## Some examples for the contained data sets:
+## Some Examples for the Contained Data Sets:
 
 ### Bike Thefts in Berlin (01.2022 - 05.2023):
 - [the data set](https://github.com/Lucky-0ne/geodata_berlin/tree/main/data/2022-2023_bikethefts)
