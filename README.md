@@ -10,4 +10,7 @@ A brief compilation of Geodata for the Berlin Area
   
 ![heatmap](https://github.com/Lucky-0ne/geodata_berlin/blob/main/data/2022-2023_bikethefts/results/further_results/gifs/bikethefts_heatmap.gif)
 
-### Further ...
+### Further Data Sets ...
+
+## TODOs:
+- create venv and add requirements.txt
