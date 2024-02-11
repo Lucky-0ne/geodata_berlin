@@ -13,4 +13,6 @@ A brief compilation of Geodata for the Berlin Area
 ### Further Data Sets ...
 
 ## TODOs:
-- create venv and add requirements.txt
+- add lat/long transformation
+- check for multipolygon importation options - implement it yourself?
+- add more data sets
