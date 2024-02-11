@@ -22,7 +22,7 @@ def open_new_data(new_data_path, PLR_ID_column_name, encoding='ISO-8859-1'):
 def get_geodata(new_data, geojson_data):
     return geojson_data.merge(new_data, on='PLR_ID', how='left')
 
-def extract_timestamps(df, timestamp_column_name, timestamp_format='%Y-%m-%d %H:%M:%S'):
+def extract_timestamps(df, timestamp_column_name, timestamp_format='mixed'):
     """
     Extract the year, month, day and hour from the timestamp column and add them as new columns to the DataFrame.
 
