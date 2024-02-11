@@ -4,8 +4,8 @@ from utils import *
 
 # load new data to add geodata to
 YEAR = 2022
-new_data_path ='data/2022-2023_bikethefts/results/data_preprocessed/'
-save_data_path = 'data/2022-2023_bikethefts/results/further_results/'
+new_data_path ='../results/data_preprocessed/'
+save_data_path = '../results/further_results/'
 load_file_name = '2022-2023_bikethefts_preprocessed.csv'
 save_file_name = f'{YEAR}_bikethefts_map.html'
 
@@ -19,7 +19,7 @@ df_thefts_per_year = df_ts.groupby(['PLR_ID', 'theft_start_year']).size().reset_
 df_thefts_2022 = df_thefts_per_year[df_thefts_per_year['theft_start_year'] == YEAR]
 
 # load geojson containing geodata
-geojson_path = 'data/multipolygons/lor_planungsraeume_2021.geojson'
+geojson_path = '../../multipolygons/lor_planungsraeume_2021.geojson'
 geojson_data = gpd.read_file(geojson_path)
 ## TODO check if transform is still nessecary (i don't think so)
 # geojson_data = geojson_data.to_crs(3857)
