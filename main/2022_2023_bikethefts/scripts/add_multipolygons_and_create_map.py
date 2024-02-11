@@ -37,7 +37,7 @@ explore_df = gpd.GeoDataFrame(explore_df)
 
 map = explore_df.explore("Bike_Thefts", cmap="Reds")
 
-map.save(save_data_path + save_file_name)
+# map.save(save_data_path + save_file_name)
 
 # Save as GeoJSON
 # explore_df.to_file(new_data_path + load_file_name[:-4] + '.geojson', driver='GeoJSON')
