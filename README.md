@@ -8,7 +8,7 @@ A brief compilation of Geodata for the Berlin Area
  
 - an [Example](https://github.com/Lucky-0ne/geodata_berlin/tree/main/data/2022-2023_bikethefts/results/further_results/gifs) for the Informations available:
   
-![heatmap](https://github.com/Lucky-0ne/geodata_berlin/main/data/2022-2023_bikethefts/results/further_results/gifs/bikethefts_heatmap.gif)
+![heatmap](https://github.com/Lucky-0ne/geodata_berlin/blob/main/main/2022_2023_bikethefts/results/further_results/gifs/bikethefts_heatmap.gif)
 
 ### Further Data Sets ...
 
