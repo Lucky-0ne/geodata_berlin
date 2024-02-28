@@ -5,7 +5,7 @@ import warnings
 ## general TODO's:
 # - add further features to return_columns_map/shp files, e.g. size, geo-correct centroid, population, etc.
 # - fix duplicate PLZs in the shapefile
-# - fix duplicate PLR_NAME for "Schloßstraße" in the shapefile
+# - fix duplicate PLR_NAME/BZR_NAME for "Schloßstraße"/"Heerstraße" in the shapefile
 # - revise class, method and parameter names
 # - revise docstrings
 # - add further functionalities, e.g. CT's "neighbourhood" idea, etc.
@@ -29,47 +29,39 @@ class LookupTableManager:
             lookup_table_df_duplicates = gpd.read_file(data_path + 'plz_shp/plz.shp')
             self.lookup_table_df = lookup_table_df_duplicates.drop_duplicates(subset='plz')
         elif resolution_mode == 'LOR_BZR':
-            self.lookup_table_df = gpd.read_file(data_path + 'lor_shp_2021/lor_bzr.shp')
+            # self.lookup_table_df = gpd.read_file(data_path + 'lor_post2021_BZR/lor_bezirksregionen_2021.shp')
+            # TODO fix duplicate BZR_NAME for "Heerstraße" in the shapefile, then remove self.lookup_table_df declaration in the following if statements
             if map_by == 'ID':
+
+                ### remove when duplicate todo is fixed
+                self.lookup_table_df = gpd.read_file(data_path + 'lor_post2021_BZR/lor_bezirksregionen_2021.shp')
+                ###
+
                 self.id_column = 'BZR_ID'
-                self.return_columns_map = {'name':'BZR_NAME', 'geometry':'geometry'}
+                self.return_columns_map = {'name':'BZR_NAME', 'district':'BEZ', 'state':'STAND', 'size_m2':'GROESSE_m2', 'geometry':'geometry'}
             elif map_by == 'NAME':
+
+                ### remove when duplicate todo is fixed
+                warnings.warn("For now the BZR IDs '042002' & '052005' ('Heerstraße') will return NaN due to a pending bug fix!", UserWarning)
+                lookup_table_df_duplicates = gpd.read_file(data_path + 'lor_post2021_BZR/lor_bezirksregionen_2021.shp')
+                self.lookup_table_df = lookup_table_df_duplicates[~lookup_table_df_duplicates.duplicated(subset='BZR_NAME', keep=False)]
+                ###
+
                 self.id_column = 'BZR_NAME'
-                self.return_columns_map = {'id':'BZR_ID', 'geometry':'geometry'}
+                self.return_columns_map = {'id':'BZR_ID', 'district':'BEZ', 'state':'STAND', 'size_m2':'GROESSE_m2', 'geometry':'geometry'}
             else:
                 raise ValueError(f"Invalid mapping type: '{map_by}' - must be one of 'ID' or 'NAME'!")
         elif resolution_mode == 'LOR_PGR':
-            self.lookup_table_df = gpd.read_file(data_path + 'lor_shp_2021/lor_pgr.shp')
+            self.lookup_table_df = gpd.read_file(data_path + 'lor_post2021_PGR/lor_prognoseraeume_2021.shp')
             if map_by == 'ID':
                 self.id_column = 'PGR_ID'
-                self.return_columns_map = {'name':'PGR_NAME', 'geometry':'geometry'}
+                self.return_columns_map = {'name':'PGR_NAME', 'district':'BEZ', 'state':'STAND', 'size_m2':'GROESSE_M2', 'geometry':'geometry'}
             elif map_by == 'NAME':
                 self.id_column = 'PGR_NAME'
-                self.return_columns_map = {'id':'PGR_ID', 'geometry':'geometry'}
+                self.return_columns_map = {'id':'PGR_ID', 'district':'BEZ', 'state':'STAND', 'size_m2':'GROESSE_M2', 'geometry':'geometry'}
             else:
                 raise ValueError(f"Invalid mapping type: '{map_by}' - must be one of 'ID' or 'NAME'!")
         elif resolution_mode == 'LOR_PLR':
-            # self.lookup_table_df = gpd.read_file(data_path + 'lor_shp_2021/lor_plr.shp')
-            # TODO fix duplicate PLR_NAME for "Schloßstraße" in the shapefile, then remove self.lookup_table_df declaration in the following if statements
-            if map_by == 'ID':
-
-                ### remove when duplicate todo is fixed
-                self.lookup_table_df = gpd.read_file(data_path + 'lor_shp_2021/lor_plr.shp')
-                ###
-
-                self.id_column = 'PLR_ID'
-                self.return_columns_map = {'name':'PLR_NAME', 'geometry':'geometry'}
-            elif map_by == 'NAME':
-
-                ### remove when duplicate todo is fixed
-                warnings.warn("For now the PLR IDs '06100102' & '04300414' ('Schloßstraße') will return NaN due to a pending bug fix!", UserWarning)
-                lookup_table_df_duplicates = gpd.read_file(data_path + 'lor_shp_2021/lor_plr.shp')
-                self.lookup_table_df = lookup_table_df_duplicates[~lookup_table_df_duplicates.duplicated(subset='PLR_NAME', keep=False)]
-                ###
-
-                self.id_column = 'PLR_NAME'
-                self.return_columns_map = {'id':'PLR_ID', 'geometry':'geometry'}
-        elif resolution_mode == 'LOR_PLR_odis':
             # self.lookup_table_df = gpd.read_file(data_path + 'lor_shp_2021/lor_plr.shp')
             # TODO fix duplicate PLR_NAME for "Schloßstraße" in the shapefile, then remove self.lookup_table_df declaration in the following if statements
             if map_by == 'ID':
@@ -93,7 +85,7 @@ class LookupTableManager:
             else:
                 raise ValueError(f"Invalid mapping type: '{map_by}' - must be one of 'ID' or 'NAME'!")
         else:
-            raise ValueError(f"Invalid Resolution Mode: '{resolution_mode}' - must be one of 'PLZ', 'LOR_BZR', 'LOR_PGR', 'LOR_PLR' or 'LOR_PLR_odis'!")
+            raise ValueError(f"Invalid Resolution Mode: '{resolution_mode}' - must be one of 'PLZ', 'LOR_BZR', 'LOR_PGR' or 'LOR_PLR'!")
         
     def get_meta_data(self, input_df, id_col, exclude_column=['district', 'state'], df_type='geopandas'):
         """
