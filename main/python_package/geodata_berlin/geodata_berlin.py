@@ -9,6 +9,8 @@ import warnings
 # - revise class, method and parameter names
 # - revise docstrings
 # - add further functionalities, e.g. CT's "neighbourhood" idea, etc.
+# - summarise raise ValueError(f"Invalid mapping type: '{map_by}' - must be one of 'ID' or 'NAME'!") in one place
+# - review exclude_column
 
 class LookupTableManager:
     def __init__(self, resolution_mode, map_by='ID'):
@@ -17,6 +19,7 @@ class LookupTableManager:
         
         :param shapefile_path: Path to the shapefile repository.
         """
+        self.resolution_mode = resolution_mode
         data_path = 'geodata_berlin/data/'
         if resolution_mode == 'PLZ':
             if map_by in ['ID', 'NAME']:
@@ -84,10 +87,18 @@ class LookupTableManager:
                 self.return_columns_map = {'id':'PLR_ID', 'district':'BEZ', 'state':'STAND', 'size_m2':'GROESSE_M2', 'geometry':'geometry'}
             else:
                 raise ValueError(f"Invalid mapping type: '{map_by}' - must be one of 'ID' or 'NAME'!")
+        elif resolution_mode == 'DISTRICTS':
+            self.lookup_table_df = gpd.read_file(data_path + 'districts/ODIS_base_dataset/bezirksgrenzen.shp')
+            if map_by == 'ID':
+                self.id_column = 'Gemeinde_s'
+                self.return_columns_map = {'name':'Gemeinde_n', 'geometry':'geometry'}
+            elif map_by == 'NAME':
+                self.id_column = 'Gemeinde_n'
+                self.return_columns_map = {'id':'Gemeinde_s', 'geometry':'geometry'}
         else:
-            raise ValueError(f"Invalid Resolution Mode: '{resolution_mode}' - must be one of 'PLZ', 'LOR_BZR', 'LOR_PGR' or 'LOR_PLR'!")
+            raise ValueError(f"Invalid Resolution Mode: '{resolution_mode}' - must be one of 'PLZ', 'LOR_BZR', 'LOR_PGR', 'LOR_PLR' or 'DISTRICTS'!")
         
-    def get_meta_data(self, input_df, id_col, exclude_column=['district', 'state'], df_type='geopandas'):
+    def get_meta_data(self, input_df, id_col, exclude_column=[], df_type='geopandas'):
         """
 
         """
@@ -121,7 +132,11 @@ class LookupTableManager:
         # Convert the updated pandas DataFrame to a GeoDataFrame
         if df_type == 'geopandas':
             if 'geometry' in df.columns:
-                df = gpd.GeoDataFrame(df, geometry='geometry', crs="EPSG:25833")
+                if self.resolution_mode == 'DISTRICTS':
+                    crs = "EPSG:4326"
+                else:
+                    crs = "EPSG:25833"
+                df = gpd.GeoDataFrame(df, geometry='geometry', crs=crs)
             else:
                 warnings.warn("Returning a geopandas DataFrame without a geometry column! It is recommended to use df_type='pandas' instead.", UserWarning)
                 df = gpd.GeoDataFrame(df)
