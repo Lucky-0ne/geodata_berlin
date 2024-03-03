@@ -1,0 +1,2 @@
+content: "Die Statistik gibt einen Überblick über die wichtigsten demografischen Grunddaten auf Ebene der Berliner Bezirke und Ortsteile. Dazu gehören zum Beispiel Alter, Geschlecht, Staatsangehörigkeit und Konfession sowie Migrationshintergrund, ausgewählte Herkunftsgebiete und die Wohnlage." - Quote from source  
+source: (01.03.2024) https://www.statistik-berlin-brandenburg.de/a-i-5-hj
