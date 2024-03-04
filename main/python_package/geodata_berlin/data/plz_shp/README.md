@@ -4,4 +4,5 @@ content: "Die Postleitzahlgebietsgrenzen des Regionalen Bezugssystems wurden ons
 Original WFS URL: http://fbinter.stadt-berlin.de/fb/wfs/geometry/senstadt/re_postleit" - Quote from source  
 shape: (194, 2)  
 columns: ['plz', 'geometry']  
-source: (28.02.2024) https://daten.odis-berlin.de/de/dataset/plz/
+source: (28.02.2024) https://daten.odis-berlin.de/de/dataset/plz/  
+preprocessed data on population - original source: (01.03.2024) https://www.statistik-berlin-brandenburg.de/a-i-5-hj
