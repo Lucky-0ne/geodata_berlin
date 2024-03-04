@@ -11,6 +11,7 @@ import warnings
 # - add further functionalities, e.g. CT's "neighbourhood" idea, etc.
 # - summarise raise ValueError(f"Invalid mapping type: '{map_by}' - must be one of 'ID' or 'NAME'!") in one place
 # - review exclude_column
+# - reformat CRS of "districts" and "local districts" shapefiles from "EPSG:4326" to "EPSG:25833"
 
 ## big TODO:
 # - strip all meta infos except for geometry, id and name from shapefiles and add the rest to a separate csv file
