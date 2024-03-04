@@ -94,7 +94,7 @@ class LookupTableManager:
                 raise ValueError(f"Invalid mapping type: '{map_by}' - must be one of 'ID' or 'NAME'!")
             
         elif resolution_mode == 'DISTRICTS':
-            self.lookup_table_df = gpd.read_file(data_path + 'districts/ODIS_base_dataset/bezirksgrenzen.shp')
+            self.lookup_table_df = gpd.read_file(data_path + 'districts/bezirksgrenzen.shp')
             if map_by == 'ID':
                 self.id_column = 'Gemeinde_s'
                 self.return_columns_map = {'name':'Gemeinde_n', 'geometry':'geometry'}
