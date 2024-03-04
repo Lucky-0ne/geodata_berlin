@@ -13,6 +13,7 @@ import warnings
 # - review exclude_column
 
 class LookupTableManager:
+
     def __init__(self, resolution_mode, map_by='ID'):
         """
         Initializes the lookup table manager by loading the shapefile data into memory.
@@ -21,6 +22,7 @@ class LookupTableManager:
         """
         self.resolution_mode = resolution_mode
         data_path = 'geodata_berlin/data/'
+
         if resolution_mode == 'PLZ':
             if map_by in ['ID', 'NAME']:
                 self.id_column = 'plz'
@@ -31,6 +33,7 @@ class LookupTableManager:
             # TODO fix duplicate PLZs in the shapefile
             lookup_table_df_duplicates = gpd.read_file(data_path + 'plz_shp/plz.shp')
             self.lookup_table_df = lookup_table_df_duplicates.drop_duplicates(subset='plz')
+
         elif resolution_mode == 'LOR_BZR':
             # self.lookup_table_df = gpd.read_file(data_path + 'lor_post2021_BZR/lor_bezirksregionen_2021.shp')
             # TODO fix duplicate BZR_NAME for "Heerstraße" in the shapefile, then remove self.lookup_table_df declaration in the following if statements
@@ -54,6 +57,7 @@ class LookupTableManager:
                 self.return_columns_map = {'id':'BZR_ID', 'district':'BEZ', 'state':'STAND', 'size_m2':'GROESSE_m2', 'geometry':'geometry'}
             else:
                 raise ValueError(f"Invalid mapping type: '{map_by}' - must be one of 'ID' or 'NAME'!")
+            
         elif resolution_mode == 'LOR_PGR':
             self.lookup_table_df = gpd.read_file(data_path + 'lor_post2021_PGR/lor_prognoseraeume_2021.shp')
             if map_by == 'ID':
@@ -64,6 +68,7 @@ class LookupTableManager:
                 self.return_columns_map = {'id':'PGR_ID', 'district':'BEZ', 'state':'STAND', 'size_m2':'GROESSE_M2', 'geometry':'geometry'}
             else:
                 raise ValueError(f"Invalid mapping type: '{map_by}' - must be one of 'ID' or 'NAME'!")
+            
         elif resolution_mode == 'LOR_PLR':
             # self.lookup_table_df = gpd.read_file(data_path + 'lor_shp_2021/lor_plr.shp')
             # TODO fix duplicate PLR_NAME for "Schloßstraße" in the shapefile, then remove self.lookup_table_df declaration in the following if statements
@@ -87,6 +92,7 @@ class LookupTableManager:
                 self.return_columns_map = {'id':'PLR_ID', 'district':'BEZ', 'state':'STAND', 'size_m2':'GROESSE_M2', 'geometry':'geometry'}
             else:
                 raise ValueError(f"Invalid mapping type: '{map_by}' - must be one of 'ID' or 'NAME'!")
+            
         elif resolution_mode == 'DISTRICTS':
             self.lookup_table_df = gpd.read_file(data_path + 'districts/ODIS_base_dataset/bezirksgrenzen.shp')
             if map_by == 'ID':
@@ -95,8 +101,18 @@ class LookupTableManager:
             elif map_by == 'NAME':
                 self.id_column = 'Gemeinde_n'
                 self.return_columns_map = {'id':'Gemeinde_s', 'geometry':'geometry'}
+
+        elif resolution_mode == 'LOCAL_DISTRICTS':
+            self.lookup_table_df = gpd.read_file(data_path + 'local_districts/lor_ortsteile.shp')
+            if map_by == 'ID':
+                self.id_column = 'spatial_na'
+                self.return_columns_map = {'name':'OTEIL', 'district':'BEZIRK', 'size_ha':'FLAECHE_HA', 'geometry':'geometry'}
+            elif map_by == 'NAME':
+                self.id_column = 'OTEIL'
+                self.return_columns_map = {'id':'spatial_na', 'district':'BEZIRK', 'size_ha':'FLAECHE_HA', 'geometry':'geometry'}
+
         else:
-            raise ValueError(f"Invalid Resolution Mode: '{resolution_mode}' - must be one of 'PLZ', 'LOR_BZR', 'LOR_PGR', 'LOR_PLR' or 'DISTRICTS'!")
+            raise ValueError(f"Invalid Resolution Mode: '{resolution_mode}' - must be one of 'PLZ', 'LOR_BZR', 'LOR_PGR', 'LOR_PLR', 'DISTRICTS' or 'LOCAL_DISTRICTS'!")
         
     def get_meta_data(self, input_df, id_col, exclude_column=[], df_type='geopandas'):
         """
@@ -132,7 +148,7 @@ class LookupTableManager:
         # Convert the updated pandas DataFrame to a GeoDataFrame
         if df_type == 'geopandas':
             if 'geometry' in df.columns:
-                if self.resolution_mode == 'DISTRICTS':
+                if self.resolution_mode in ('DISTRICTS', 'LOCAL_DISTRICTS'):
                     crs = "EPSG:4326"
                 else:
                     crs = "EPSG:25833"
