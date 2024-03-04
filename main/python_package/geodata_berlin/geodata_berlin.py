@@ -12,6 +12,10 @@ import warnings
 # - summarise raise ValueError(f"Invalid mapping type: '{map_by}' - must be one of 'ID' or 'NAME'!") in one place
 # - review exclude_column
 
+## big TODO:
+# - strip all meta infos except for geometry, id and name from shapefiles and add the rest to a separate csv file
+# --> then create new meta data handler
+
 class LookupTableManager:
 
     def __init__(self, resolution_mode, map_by='ID'):
@@ -103,6 +107,7 @@ class LookupTableManager:
                 self.return_columns_map = {'id':'Gemeinde_s', 'geometry':'geometry'}
 
         elif resolution_mode == 'LOCAL_DISTRICTS':
+            # TODO data from before 2020 --> since then new local district "Schlachtensee"
             self.lookup_table_df = gpd.read_file(data_path + 'local_districts/lor_ortsteile.shp')
             if map_by == 'ID':
                 self.id_column = 'spatial_na'
