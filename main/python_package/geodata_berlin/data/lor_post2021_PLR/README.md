@@ -1,3 +1,5 @@
+![img](https://github.com/Lucky-0ne/geodata_berlin/blob/main/main/python_package/geodata_berlin/data/lor_post2021_PLR/preview_LOR_PLR.jpg)
+
 content: "Dargestellt werden die aktuellen, seit 2021 verwendeten, 542 Planungsräume, die die unterste Beobachtungs- und Planungsebene der lebensweltlich orientierten Raumhierarchie (LOR) im RBS abbilden. Durchschnittlich umfaßt ein Planungsraum 7.500 Einwohner. Mehr Infos finden Sie hier: https://www.stadtentwicklung.berlin.de/planen/basisdaten_stadtentwicklung/lor/
 Original WFS URL: https://fbinter.stadt-berlin.de/fb/wfs/data/senstadt/s_lor_plr_2021" - Quote from source  
 shape: (542, 6)  
