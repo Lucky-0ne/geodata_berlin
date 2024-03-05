@@ -8,8 +8,6 @@ import warnings
 # - revise class, method and parameter names
 # - revise docstrings
 # - add further functionalities, e.g. CT's "neighbourhood" idea, etc.
-# - summarise raise ValueError(f"Invalid mapping type: '{map_by}' - must be one of 'ID' or 'NAME'!") in one place
-# - review exclude_column
 # - reformat CRS of "districts" and "local districts" shapefiles from "EPSG:4326" to "EPSG:25833"
 
 ## big TODO:
@@ -19,22 +17,24 @@ import warnings
 # - add further features to return_columns_map/shp files, e.g. size, geo-correct centroid, population, etc.
 
 class LookupTableManager:
-
     def __init__(self, resolution_mode, map_by='ID'):
         """
-        Initializes the lookup table manager by loading the shapefile data into memory.
+        A manager for loading shapefile data relevant to the specified resolution mode, providing functionality to map input data to geospatial metadata based on a specified key (ID or NAME).
         
-        :param shapefile_path: Path to the shapefile repository.
+        Parameters:
+        - resolution_mode (str): Defines the type of geospatial data to manage. Must be one of 'DISTRICTS', 'LOCAL_DISTRICTS', 'PLZ', 'LOR_PGR', 'LOR_BZR' or 'LOR_PLR'.
+        - map_by (str, optional): The mapping criterion, either 'ID' or 'NAME'. Default is 'ID'.
         """
+
+        if map_by not in ('ID', 'NAME'):
+            raise ValueError(f"Invalid mapping type: '{map_by}' - must be one of 'ID' or 'NAME'! (interchangeable in case of 'PLZ')")
 
         data_path = 'geodata_berlin/data/'
 
         if resolution_mode == 'PLZ':
-            if map_by in ['ID', 'NAME']:
-                self.id_column = 'plz'
-                self.return_columns_map = {'geometry': 'geometry'}
-            else:
-                raise ValueError(f"Invalid mapping type: '{map_by}' - must be one of 'ID' or 'NAME'! (interchangeable for PLZ)")
+            self.id_column = 'plz'
+            self.return_columns_map = {'geometry': 'geometry'}
+
             # TODO fix duplicate PLZs in the shapefile
             lookup_table_df_duplicates = gpd.read_file(data_path + 'plz_shp/plz.shp')
             self.lookup_table_df = lookup_table_df_duplicates.drop_duplicates(subset='plz')
@@ -44,11 +44,9 @@ class LookupTableManager:
             if map_by == 'ID':
                 self.id_column = 'PGR_ID'
                 self.return_columns_map = {'LOR_PGR_name':'PGR_NAME', 'district_id':'BEZ', 'geometry':'geometry'}
-            elif map_by == 'NAME':
+            else:
                 self.id_column = 'PGR_NAME'
                 self.return_columns_map = {'LOR_PGR_id':'PGR_ID', 'district_id':'BEZ', 'geometry':'geometry'}
-            else:
-                raise ValueError(f"Invalid mapping type: '{map_by}' - must be one of 'ID' or 'NAME'!")
 
         elif resolution_mode == 'LOR_BZR':
             # self.lookup_table_df = gpd.read_file(data_path + 'lor_post2021_BZR/lor_bezirksregionen_2021.shp')
@@ -61,7 +59,7 @@ class LookupTableManager:
 
                 self.id_column = 'BZR_ID'
                 self.return_columns_map = {'LOR_BZR_name':'BZR_NAME', 'district_id':'BEZ', 'geometry':'geometry'}
-            elif map_by == 'NAME':
+            else:
 
                 ### remove when duplicate todo is fixed
                 warnings.warn("For now the BZR IDs '042002' & '052005' ('Heerstraße') will return NaN due to a pending bug fix!", UserWarning)
@@ -71,8 +69,6 @@ class LookupTableManager:
 
                 self.id_column = 'BZR_NAME'
                 self.return_columns_map = {'LOR_BZR_id':'BZR_ID', 'district_id':'BEZ', 'geometry':'geometry'}
-            else:
-                raise ValueError(f"Invalid mapping type: '{map_by}' - must be one of 'ID' or 'NAME'!")
             
         elif resolution_mode == 'LOR_PLR':
             # self.lookup_table_df = gpd.read_file(data_path + 'lor_shp_2021/lor_plr.shp')
@@ -85,7 +81,7 @@ class LookupTableManager:
 
                 self.id_column = 'PLR_ID'
                 self.return_columns_map = {'LOR_PLR_name':'PLR_NAME', 'district_id':'BEZ', 'geometry':'geometry'}
-            elif map_by == 'NAME':
+            else:
 
                 ### remove when duplicate todo is fixed
                 warnings.warn("For now the PLR IDs '06100102' & '04300414' ('Schloßstraße') will return NaN due to a pending bug fix!", UserWarning)
@@ -95,8 +91,6 @@ class LookupTableManager:
 
                 self.id_column = 'PLR_NAME'
                 self.return_columns_map = {'LOR_PLR_id':'PLR_ID', 'district_id':'BEZ', 'geometry':'geometry'}
-            else:
-                raise ValueError(f"Invalid mapping type: '{map_by}' - must be one of 'ID' or 'NAME'!")
             
         elif resolution_mode == 'DISTRICTS':
             # TODO load transformed gdf directly
@@ -105,7 +99,7 @@ class LookupTableManager:
             if map_by == 'ID':
                 self.id_column = 'Gemeinde_s'
                 self.return_columns_map = {'district_name':'Gemeinde_n', 'geometry':'geometry'}
-            elif map_by == 'NAME':
+            else:
                 self.id_column = 'Gemeinde_n'
                 self.return_columns_map = {'district_id':'Gemeinde_s', 'geometry':'geometry'}
 
@@ -117,7 +111,7 @@ class LookupTableManager:
             if map_by == 'ID':
                 self.id_column = 'spatial_na'
                 self.return_columns_map = {'local_district_name':'OTEIL', 'district_name':'BEZIRK', 'geometry':'geometry'}
-            elif map_by == 'NAME':
+            else:
                 self.id_column = 'OTEIL'
                 self.return_columns_map = {'local_district_id':'spatial_na', 'district_name':'BEZIRK', 'geometry':'geometry'}
 
@@ -126,8 +120,18 @@ class LookupTableManager:
         
     def map_geodata(self, input_df, id_col, df_type='geopandas', calculate_size=True):
         """
+        Enriches input DataFrame with geospatial metadata based on an ID or NAME column.
 
+        Parameters:
+        - input_df (DataFrame): DataFrame to map.
+        - id_col (str): Column in `input_df` for mapping. That column must contain only string ID or NAME values.
+        - df_type (str, optional): Type of DataFrame to return ('geopandas' or 'pandas'). Default is 'geopandas'.
+        - calculate_size (bool, optional): If True, calculates area size for geometries. Default is True.
+
+        Returns:
+        - DataFrame or GeoDataFrame: Enriched DataFrame with geospatial metadata.
         """
+
         if not isinstance(input_df, pd.DataFrame):
             raise ValueError(f"Input must be a pandas DataFrame, not a '{type(input_df)}'!")
         if not isinstance(id_col, str):
