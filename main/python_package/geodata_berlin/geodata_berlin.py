@@ -9,6 +9,7 @@ import warnings
 # - revise docstrings
 # - add further functionalities, e.g. CT's "neighbourhood" idea, etc.
 # - reformat CRS of "districts" and "local districts" shapefiles from "EPSG:4326" to "EPSG:25833"
+# - add "only geometry" mode?
 
 ## big TODO:
 # - strip all meta infos except for geometry, id and name from shapefiles and add the rest to a separate csv file
