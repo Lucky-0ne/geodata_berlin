@@ -8,14 +8,14 @@ A brief compilation of Geodata for the Berlin Area
  
 - an [example](https://github.com/Lucky-0ne/geodata_berlin/tree/main/main/2022_2023_bikethefts/results/further_results/gifs) of the information available:
   
-![heatmap](https://github.com/Lucky-0ne/geodata_berlin/blob/main/main/2022_2023_bikethefts/results/further_results/gifs/bikethefts_heatmap.gif)
+<img src="https://github.com/Lucky-0ne/geodata_berlin/blob/main/main/2022_2023_bikethefts/results/further_results/gifs/bikethefts_heatmap.gif" width="500" height="auto">
 
 ### Age distribution across Berlin (31.12.2023):
 - [the Data Set](https://github.com/Lucky-0ne/geodata_berlin/blob/main/main/python_package/geodata_berlin/data/local_districts/population_age_gender_Berlin_local_districts_20231231.csv)) (last update: 06.03.2024)
  
 - one application [example](https://github.com/Lucky-0ne/geodata_berlin/blob/main/main/python_package/usecase_example.ipynb) for the python package:
   
-![heatmap](https://github.com/Lucky-0ne/geodata_berlin/blob/main/main/python_package/usecase_example_results/proportion_age_per_LD_selective/age_proportion_selective.gif)
+<img src="https://github.com/Lucky-0ne/geodata_berlin/blob/main/main/python_package/usecase_example_results/proportion_age_per_LD_selective/age_proportion_selective.gif" width="500" height="auto">
 
 ### Further Data Sets ...
 
