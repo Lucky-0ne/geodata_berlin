@@ -4,7 +4,6 @@ A brief compilation of Geodata for the Berlin Area
 ### Rendered Test Case Notebook:
 [--> HERE <--](https://nbviewer.org/github/Lucky-0ne/test_nbviewer/blob/main/explore_python_package.ipynb#)
 
-![trash logo placeholder]()
 <img src="https://github.com/Lucky-0ne/geodata_berlin/blob/main/main/python_package/logo/logo.PNG" width="250" height="auto">
 
 ## Some Examples for the contained Data Sets:
