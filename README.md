@@ -1,7 +1,7 @@
 # Geodata Berlin
 A brief compilation of Geodata for the Berlin Area
 
-### Rendered test cases [Jupyter Notebook](https://nbviewer.org/github/Lucky-0ne/test_nbviewer/blob/main/explore_python_package.ipynb#)
+### Rendered test cases [Jupyter Notebook](https://nbviewer.org/github/Lucky-0ne/test_nbviewer/blob/main/explore_python_package.ipynb#).
 
 ## Some Examples for the contained Data Sets:
 
