@@ -17,7 +17,7 @@ A brief compilation of Geodata for the Berlin Area
  
 - one application [example](https://github.com/Lucky-0ne/geodata_berlin/blob/main/main/python_package/usecase_example.ipynb) for the python package:
   
-<img src="https://github.com/Lucky-0ne/geodata_berlin/blob/main/main/python_package/usecase_example_results/proportion_age_per_LD_selective/combined_proportions.png" width="auto" height="500">
+<img src="https://github.com/Lucky-0ne/geodata_berlin/blob/main/main/python_package/usecase_example_results/proportion_age_per_LD_selective/combined_proportions.png" width="900" height="auto">
 
 ### Further Data Sets ...
 
