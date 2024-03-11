@@ -10,8 +10,9 @@ This repository features a curated set of geodata for the Berlin area, supportin
 - [the Data Set](https://github.com/Lucky-0ne/geodata_berlin/blob/main/main/2022_2023_bikethefts/results/data_preprocessed/2022-2023_bikethefts_preprocessed.csv) (last update: 03.12.2023)
  
 - an example of the information available:
-  
+<p align="center">
 <img src="https://github.com/Lucky-0ne/geodata_berlin/blob/main/main/2022_2023_bikethefts/results/further_results/gifs/bikethefts_heatmap.gif" width="500" height="auto">
+</p>
 
 ### Age distribution across Berlin (31.12.2023):
 - [the Data Set](https://github.com/Lucky-0ne/geodata_berlin/blob/main/main/python_package/geodata_berlin/data/local_districts/population_age_gender_Berlin_local_districts_20231231.csv) (last update: 06.03.2024)
