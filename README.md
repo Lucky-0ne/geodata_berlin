@@ -11,7 +11,7 @@ This repository features a curated set of geodata for the Berlin area, supportin
  
 - an example of the information available:
 <p align="center">
-<img src="https://github.com/Lucky-0ne/geodata_berlin/blob/main/main/2022_2023_bikethefts/results/further_results/gifs/bikethefts_heatmap.gif" width="500" height="auto">
+<img src="https://github.com/Lucky-0ne/geodata_berlin/blob/main/main/2022_2023_bikethefts/results/further_results/gifs/bikethefts_heatmap_webapp.gif" width="500" height="auto">
 </p>
 
 ### Age distribution across Berlin (31.12.2023):
