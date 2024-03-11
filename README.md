@@ -1,9 +1,10 @@
 # Geodata Berlin
-A brief compilation of Geodata for the Berlin Area
+A small python package for mapping and analyzing geospatial information across Berlin's administrative divisions.  
+This repository features a curated set of geodata for the Berlin area, supporting detailed spatial studies and visualizations at various district levels.
 
-### Rendered test cases [Jupyter Notebook](https://nbviewer.org/github/Lucky-0ne/test_nbviewer/blob/main/explore_python_package.ipynb#).
+### Rendered test cases/application examples as [Jupyter Notebook](https://nbviewer.org/github/Lucky-0ne/test_nbviewer/blob/main/explore_python_package.ipynb#).
 
-## Some Examples for the contained Data Sets:
+## A few superficial sample results for selected data sets:
 
 ### Bike Thefts in Berlin (01.2022 - 05.2023):
 - [the Data Set](https://github.com/Lucky-0ne/geodata_berlin/blob/main/main/2022_2023_bikethefts/results/data_preprocessed/2022-2023_bikethefts_preprocessed.csv) (last update: 03.12.2023)
@@ -21,6 +22,5 @@ A brief compilation of Geodata for the Berlin Area
 
 ### Further Data Sets ...
 
-## TODOs:
-- refine python package
-- add more data sets
+## Credits
+- to be added from READMEs (ODIS, Amt für Statistik Berlin-Brandenburg, Berlin Open Data, ...)
