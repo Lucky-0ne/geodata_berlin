@@ -1,0 +1,543 @@
+ZEIT,PLR_ID,PLR_NAME,EW,BEZ_ID,SI_N,SI_V,DI_N,DI_V,SDI,SDI_N,SDI_V,KOM
+202012,"01100101",Stülerstraße,3419,"01",2,mittel,5,negativ,2-,25,"Status mittel , Dynamik negativ",gültig
+202012,"01100102",Großer Tiergarten,1791,"01",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"01100103",Lützowstraße,5211,"01",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"01100104",Körnerstraße,4636,"01",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"01100205",Wilhelmstraße,2573,"01",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"01100206",Unter den Linden,1803,"01",2,mittel,5,negativ,2-,25,"Status mittel , Dynamik negativ",gültig
+202012,"01100207",Leipziger Straße,8312,"01",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"01100308",Charitéviertel,6967,"01",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"01100309",Oranienburger Straße,12352,"01",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"01100310",Alexanderplatzviertel,9903,"01",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"01100311",Karl-Marx-Allee,9013,"01",2,mittel,5,negativ,2-,25,"Status mittel , Dynamik negativ",gültig
+202012,"01100312",Heine-Viertel West,9422,"01",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"01100313",Heine-Viertel Ost,10779,"01",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"01100414",Nordbahnhof,5178,"01",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"01100415",Invalidenstraße,12593,"01",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"01100416",Arkonaplatz,13443,"01",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"01200517",Huttenkiez,3725,"01",4,sehr niedrig,1,positiv,4+,41,"Status sehr niedrig , Dynamik positiv",gültig
+202012,"01200518",Beusselkiez,6866,"01",3,niedrig,3,stabil,3+/-,33,"Status niedrig , Dynamik stabil",gültig
+202012,"01200519",Emdener Straße,9103,"01",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"01200520",Bremer Straße,9433,"01",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"01200521",Zwinglistraße,5235,"01",3,niedrig,3,stabil,3+/-,33,"Status niedrig , Dynamik stabil",gültig
+202012,"01200522",Elberfelder Straße,11333,"01",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"01200623",Stephankiez,10825,"01",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"01200624",Heidestraße,5178,"01",2,mittel,1,positiv,2+,21,"Status mittel , Dynamik positiv",gültig
+202012,"01200625",Lübecker Straße,6976,"01",4,sehr niedrig,3,stabil,4+/-,43,"Status sehr niedrig , Dynamik stabil",gültig
+202012,"01200626",Thomasiusstraße,5935,"01",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"01200627",Zillesiedlung,3280,"01",4,sehr niedrig,5,negativ,4-,45,"Status sehr niedrig , Dynamik negativ",gültig
+202012,"01200628",Lüneburger Straße,3132,"01",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"01200629",Hansaviertel,5807,"01",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"01300730",Drontheimer Straße,7957,"01",4,sehr niedrig,3,stabil,4+/-,43,"Status sehr niedrig , Dynamik stabil",gültig
+202012,"01300731",Koloniestraße,8545,"01",4,sehr niedrig,3,stabil,4+/-,43,"Status sehr niedrig , Dynamik stabil",gültig
+202012,"01300732",Soldiner Straße,9879,"01",4,sehr niedrig,3,stabil,4+/-,43,"Status sehr niedrig , Dynamik stabil",gültig
+202012,"01300733",Gesundbrunnen,11665,"01",4,sehr niedrig,3,stabil,4+/-,43,"Status sehr niedrig , Dynamik stabil",gültig
+202012,"01300834",Brunnenstraße,14193,"01",4,sehr niedrig,3,stabil,4+/-,43,"Status sehr niedrig , Dynamik stabil",gültig
+202012,"01300835",Humboldthain Süd,10443,"01",3,niedrig,3,stabil,3+/-,33,"Status niedrig , Dynamik stabil",gültig
+202012,"01300836",Humboldthain Nordwest,14657,"01",4,sehr niedrig,3,stabil,4+/-,43,"Status sehr niedrig , Dynamik stabil",gültig
+202012,"01400937",Afrikanische Straße,10804,"01",3,niedrig,3,stabil,3+/-,33,"Status niedrig , Dynamik stabil",gültig
+202012,"01400938",Kameruner Straße,9725,"01",3,niedrig,3,stabil,3+/-,33,"Status niedrig , Dynamik stabil",gültig
+202012,"01400939",Glasgower Straße,5926,"01",3,niedrig,3,stabil,3+/-,33,"Status niedrig , Dynamik stabil",gültig
+202012,"01400940",Schillerpark,6794,"01",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"01400941",Londoner Straße,3786,"01",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"01400942",Westliche Müllerstraße,8643,"01",3,niedrig,1,positiv,3+,31,"Status niedrig , Dynamik positiv",gültig
+202012,"01401043",Antonstraße,7739,"01",4,sehr niedrig,3,stabil,4+/-,43,"Status sehr niedrig , Dynamik stabil",gültig
+202012,"01401044",Uferstraße,10224,"01",4,sehr niedrig,3,stabil,4+/-,43,"Status sehr niedrig , Dynamik stabil",gültig
+202012,"01401045",Schwedenstraße,5722,"01",4,sehr niedrig,5,negativ,4-,45,"Status sehr niedrig , Dynamik negativ",gültig
+202012,"01401046",Nordufer,8781,"01",2,mittel,1,positiv,2+,21,"Status mittel , Dynamik positiv",gültig
+202012,"01401047",Sparrplatz,7867,"01",3,niedrig,1,positiv,3+,31,"Status niedrig , Dynamik positiv",gültig
+202012,"01401048",Leopoldplatz,9098,"01",4,sehr niedrig,3,stabil,4+/-,43,"Status sehr niedrig , Dynamik stabil",gültig
+202012,"01401049",Schulstraße,6689,"01",4,sehr niedrig,3,stabil,4+/-,43,"Status sehr niedrig , Dynamik stabil",gültig
+202012,"02100101",Askanischer Platz,6281,"02",3,niedrig,5,negativ,3-,35,"Status niedrig , Dynamik negativ",gültig
+202012,"02100102",Mehringplatz,8647,"02",4,sehr niedrig,3,stabil,4+/-,43,"Status sehr niedrig , Dynamik stabil",gültig
+202012,"02100103",Am Berlin Museum,5382,"02",4,sehr niedrig,5,negativ,4-,45,"Status sehr niedrig , Dynamik negativ",gültig
+202012,"02100104",Moritzplatz,5567,"02",4,sehr niedrig,5,negativ,4-,45,"Status sehr niedrig , Dynamik negativ",gültig
+202012,"02100105",Prinzenstraße,9604,"02",4,sehr niedrig,3,stabil,4+/-,43,"Status sehr niedrig , Dynamik stabil",gültig
+202012,"02100106",Wassertorplatz,5009,"02",4,sehr niedrig,5,negativ,4-,45,"Status sehr niedrig , Dynamik negativ",gültig
+202012,"02200207",Gleisdreieck,2067,"02",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"02200208",Rathaus Yorckstraße,6008,"02",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"02200209",Viktoriapark,10969,"02",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"02200210",Urbanstraße,12384,"02",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"02200211",Chamissokiez,14760,"02",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"02200212",Graefekiez Süd,8602,"02",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"02200213",Graefekiez Nord,10284,"02",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"02300314",Oranienplatz,7587,"02",4,sehr niedrig,5,negativ,4-,45,"Status sehr niedrig , Dynamik negativ",gültig
+202012,"02300315",Lausitzer Platz,8723,"02",3,niedrig,3,stabil,3+/-,33,"Status niedrig , Dynamik stabil",gültig
+202012,"02300316",Köpenicker Straße,4215,"02",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"02300417",Reichenberger Straße West,8433,"02",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"02300418",Reichenberger Straße Ost,7710,"02",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"02300419",Wrangelkiez,10903,"02",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"02400520",Barnimkiez,5451,"02",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"02400521",Friedenstraße,7858,"02",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"02400522",Richard-Sorge-Viertel,11262,"02",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"02400623",Andreasviertel,13307,"02",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"02400624",Weberwiese,11314,"02",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"02400625",Wriezener Bahnhof,1136,"02",3,niedrig,3,stabil,3+/-,33,"Status niedrig , Dynamik stabil",gültig
+202012,"02500726",Hausburgviertel,9134,"02",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"02500727",Forckenbeckplatz,6623,"02",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"02500728",Samariterviertel,10109,"02",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"02500729",Pettenkofer Straße,5441,"02",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"02500830",Niederbarnimstraße,3931,"02",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"02500831",Wismarplatz,7877,"02",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"02500832",Traveplatz,9064,"02",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"02500833",Boxhagener Platz,10190,"02",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"02500834",Revaler Straße,11378,"02",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"02500835",Stralauer Kiez,7868,"02",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"02500836",Stralauer Halbinsel,4709,"02",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"03100101",Bucher Forst,4499,"03",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"03100102",Klinikum Buch,3214,"03",2,mittel,5,negativ,2-,25,"Status mittel , Dynamik negativ",gültig
+202012,"03100103",Karower Chaussee,8979,"03",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"03200204",Blankenfelde,2058,"03",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"03200205",Uhlandstraße,8696,"03",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"03200206",Pastor-Niemöller-Platz,6404,"03",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"03200207",Herthaplatz,11464,"03",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"03200308",Nisbléstraße,5220,"03",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"03200309",Eddastraße,5238,"03",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"03200310",Krugpfuhl,7961,"03",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"03300411",Karow Nord,11455,"03",2,mittel,5,negativ,2-,25,"Status mittel , Dynamik negativ",gültig
+202012,"03300412",Karow Bahnhof,5138,"03",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"03300413",Karow Ost,3101,"03",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"03300514",Blankenburg,6875,"03",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"03300515",Blankenburger Süden,38,"03",-9999,Planungsraum ohne Zuordnung,-9999,Planungsraum ohne Zuordnung,Planungsraum ohne Zuordnung,-9999,Planungsraum ohne Zuordnung,ungültig (EW unter 300)
+202012,"03300516",Heinersdorf,7779,"03",2,mittel,5,negativ,2-,25,"Status mittel , Dynamik negativ",gültig
+202012,"03300517",Märchenland,1120,"03",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"03400618",Rosenthal,4742,"03",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"03400619",Wilhelmsruh,10438,"03",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"03400620",Schönholz,3509,"03",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"03400721",Florakiez,11438,"03",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"03400722",Parkstraße,3607,"03",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"03400723",Garbátyplatz,7112,"03",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"03400724",Wolfshagener Straße,7633,"03",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"03400725",Schlosspark,7450,"03",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"03400826",Tiroler Viertel,6620,"03",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"03400827",Trelleborger Viertel,9628,"03",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"03400828",Spiekermann Straße,4615,"03",2,mittel,1,positiv,2+,21,"Status mittel , Dynamik positiv",gültig
+202012,"03400829",Arnold-Zweig-Straße,5583,"03",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"03400830",Kissingenviertel,9292,"03",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"03400831",Pankower Tor,,"03",-9999,Planungsraum ohne Zuordnung,-9999,Planungsraum ohne Zuordnung,Planungsraum ohne Zuordnung,-9999,Planungsraum ohne Zuordnung,ungültig (EW unter 300)
+202012,"03500932",Bühringstraße,5096,"03",2,mittel,1,positiv,2+,21,"Status mittel , Dynamik positiv",gültig
+202012,"03500933",Weißer See,7551,"03",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"03500934",Weißenseer Spitze,10049,"03",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"03500935",Behaimstraße,6407,"03",2,mittel,1,positiv,2+,21,"Status mittel , Dynamik positiv",gültig
+202012,"03500936",Komponistenviertel Weißensee,9819,"03",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"03501037",Rathaus Weißensee,8509,"03",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"03501038",Hansastraße,7324,"03",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"03601139",Norweger Viertel,3795,"03",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"03601140",Malmöer Straße,5884,"03",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"03601141",Arnimplatz,6576,"03",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"03601142",Falkplatz,10744,"03",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"03601243",Rodenbergstraße,7032,"03",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"03601244",Humannplatz,7600,"03",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"03601245",Ostseestraße,12813,"03",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"03601346",Gethsemanekirche,5470,"03",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"03601347",Helmholtzplatz,9548,"03",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"03601348",Senefelderstraße,7516,"03",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"03601449",Michelangelostraße,9970,"03",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"03601450",Volkspark Prenzlauer Berg,3965,"03",4,sehr niedrig,5,negativ,4-,45,"Status sehr niedrig , Dynamik negativ",gültig
+202012,"03601451",Anton-Saefkow-Park,6373,"03",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"03601452",Velodrom,4063,"03",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"03601453",Alter Schlachthof,2825,"03",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"03701554",Teutoburger Platz,11328,"03",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"03701555",Sredzkistraße,7274,"03",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"03701556",Kollwitzplatz,8656,"03",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"03701657",Thälmannpark,3188,"03",2,mittel,5,negativ,2-,25,"Status mittel , Dynamik negativ",gültig
+202012,"03701658",Christburger Straße,8448,"03",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"03701659",Immanuelkirchstraße,9164,"03",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"03701660",Bötzowstraße,12823,"03",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"04100101",Jungfernheide/Plötzensee,11548,"04",2,mittel,1,positiv,2+,21,"Status mittel , Dynamik positiv",gültig
+202012,"04100102",Paul-Hertz-Siedlung,7855,"04",4,sehr niedrig,3,stabil,4+/-,43,"Status sehr niedrig , Dynamik stabil",gültig
+202012,"04200203",Olympiagelände,1482,"04",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"04200204",Angerburger Allee,2832,"04",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"04200205",Flatowallee,2569,"04",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"04200206",Kranzallee,2963,"04",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"04200207",Eichkamp,3192,"04",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"04200308",Branitzer Platz,6379,"04",2,mittel,5,negativ,2-,25,"Status mittel , Dynamik negativ",gültig
+202012,"04200309",Neu Westend,6936,"04",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"04200310",Fürstenplatz,7809,"04",2,mittel,5,negativ,2-,25,"Status mittel , Dynamik negativ",gültig
+202012,"04200311",Königin-Elisabeth-Straße,7218,"04",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"04300412",Schlossgarten,3329,"04",2,mittel,1,positiv,2+,21,"Status mittel , Dynamik positiv",gültig
+202012,"04300413",Klausenerplatz,10334,"04",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"04300414",Schloßstraße,10786,"04",2,mittel,1,positiv,2+,21,"Status mittel , Dynamik positiv",gültig
+202012,"04300415",Lietzensee,6488,"04",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"04300416",Amtsgerichtsplatz,12145,"04",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"04300517",Tegeler Weg,9637,"04",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"04300518",Kaiserin-Augusta-Allee,5930,"04",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"04300619",Alt-Lietzow,8859,"04",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"04300620",Spreestadt,3429,"04",2,mittel,1,positiv,2+,21,"Status mittel , Dynamik positiv",gültig
+202012,"04300621",Richard-Wagner-Straße,10811,"04",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"04300622",Ernst-Reuter-Platz,5157,"04",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"04300623",Karl-August-Platz,12121,"04",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"04300624",Savignyplatz,9538,"04",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"04400725",Güterbahnhof Grunewald,110,"04",-9999,Planungsraum ohne Zuordnung,-9999,Planungsraum ohne Zuordnung,Planungsraum ohne Zuordnung,-9999,Planungsraum ohne Zuordnung,ungültig (EW unter 300)
+202012,"04400726",Bismarckallee,5470,"04",2,mittel,5,negativ,2-,25,"Status mittel , Dynamik negativ",gültig
+202012,"04400727",Flinsberger Platz,8264,"04",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"04400728",Hagenplatz,3173,"04",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"04400729",Hundekehle,2796,"04",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"04400830",Forckenbeckstraße,7119,"04",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"04400831",Messelpark,1513,"04",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"04400832",Breite Straße,7023,"04",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"04400833",Schlangenbader Straße,4178,"04",2,mittel,5,negativ,2-,25,"Status mittel , Dynamik negativ",gültig
+202012,"04400834",Binger Straße,3574,"04",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"04400835",Rüdesheimer Platz,10593,"04",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"04500936",Droysenstraße,5638,"04",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"04500937",Halensee,7683,"04",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"04500938",Hochmeisterplatz,7919,"04",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"04500939",Eisenzahnstraße,6496,"04",2,mittel,1,positiv,2+,21,"Status mittel , Dynamik positiv",gültig
+202012,"04501040",Hindemithplatz,5998,"04",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"04501041",George-Grosz-Platz,5597,"04",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"04501042",Breitscheidplatz,3581,"04",2,mittel,5,negativ,2-,25,"Status mittel , Dynamik negativ",gültig
+202012,"04501043",Preußenpark,11048,"04",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"04501044",Ludwigkirchplatz,5283,"04",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"04501045",Schaperstraße,9334,"04",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"04501146",Barstraße,4715,"04",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"04501147",Leon-Jessel-Platz,5625,"04",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"04501148",Brabanter Platz,4436,"04",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"04501149",Nikolsburger Platz,9834,"04",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"04501150",Wilhelmsaue,3071,"04",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"04501151",Hildegardstraße,7572,"04",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"04501152",Prager Platz,6913,"04",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"04501153",Babelsberger Straße,7489,"04",2,mittel,5,negativ,2-,25,"Status mittel , Dynamik negativ",gültig
+202012,"05100101",Hakenfelde Nord,4079,"05",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"05100102",Am Forstacker,4390,"05",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"05100103",Mertensstraße,5873,"05",2,mittel,1,positiv,2+,21,"Status mittel , Dynamik positiv",gültig
+202012,"05100104",Maselake,4830,"05",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"05100105",Amorbacher Weg,7608,"05",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"05100206",Griesingerstraße,3619,"05",3,niedrig,5,negativ,3-,35,"Status niedrig , Dynamik negativ",gültig
+202012,"05100207",An der Tränke,2314,"05",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"05100208",Im Spektefeld,10703,"05",4,sehr niedrig,3,stabil,4+/-,43,"Status sehr niedrig , Dynamik stabil",gültig
+202012,"05100209",Westerwaldstraße,11547,"05",4,sehr niedrig,3,stabil,4+/-,43,"Status sehr niedrig , Dynamik stabil",gültig
+202012,"05100210",Germersheimer Platz,7709,"05",3,niedrig,1,positiv,3+,31,"Status niedrig , Dynamik positiv",gültig
+202012,"05100211",An der Kappe,6068,"05",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"05100312",Eckschanze,4025,"05",2,mittel,1,positiv,2+,21,"Status mittel , Dynamik positiv",gültig
+202012,"05100313",Eiswerder,5756,"05",3,niedrig,1,positiv,3+,31,"Status niedrig , Dynamik positiv",gültig
+202012,"05100314",Kurstraße,7335,"05",4,sehr niedrig,3,stabil,4+/-,43,"Status sehr niedrig , Dynamik stabil",gültig
+202012,"05100315",Ackerstraße,6753,"05",3,niedrig,3,stabil,3+/-,33,"Status niedrig , Dynamik stabil",gültig
+202012,"05100316",Carl-Schurz-Straße,10341,"05",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"05100317",Freiheit,3670,"05",2,mittel,5,negativ,2-,25,"Status mittel , Dynamik negativ",gültig
+202012,"05200418",Isenburger Weg,3839,"05",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"05200419",Am Heideberg,1694,"05",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"05200420",Staakener Straße,5780,"05",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"05200421",Spandauer Straße,4386,"05",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"05200422",Werkstraße,1057,"05",2,mittel,5,negativ,2-,25,"Status mittel , Dynamik negativ",gültig
+202012,"05200423",Magistratsweg,6606,"05",3,niedrig,3,stabil,3+/-,33,"Status niedrig , Dynamik stabil",gültig
+202012,"05200524",Döberitzer Weg,3367,"05",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"05200525",Pillnitzer Weg,2431,"05",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"05200526",Rudolf-Wissell-Großsiedlung,5734,"05",4,sehr niedrig,1,positiv,4+,41,"Status sehr niedrig , Dynamik positiv",gültig
+202012,"05200527",Maulbeerallee,11620,"05",4,sehr niedrig,3,stabil,4+/-,43,"Status sehr niedrig , Dynamik stabil",gültig
+202012,"05200528",Weinmeisterhornweg,7019,"05",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"05200629",Borkumer Straße,7858,"05",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"05200630",Wilhelmstadt West,9806,"05",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"05200631",Wilhelmstadt Ost,8462,"05",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"05200632",Tiefwerder,3739,"05",3,niedrig,3,stabil,3+/-,33,"Status niedrig , Dynamik stabil",gültig
+202012,"05200633",Graetschelsteig,2003,"05",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"05200634",Börnicker Straße,4436,"05",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"05300735",Haveleck,1925,"05",2,mittel,5,negativ,2-,25,"Status mittel , Dynamik negativ",gültig
+202012,"05300736",Zitadellenweg,3667,"05",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"05300737",Gartenfelder Straße,10901,"05",3,niedrig,3,stabil,3+/-,33,"Status niedrig , Dynamik stabil",gültig
+202012,"05300838",Gartenfeld,21,"05",-9999,Planungsraum ohne Zuordnung,-9999,Planungsraum ohne Zuordnung,Planungsraum ohne Zuordnung,-9999,Planungsraum ohne Zuordnung,ungültig (EW unter 300)
+202012,"05300839",Rohrdamm,7660,"05",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"05300840",Nonnendammallee,486,"05",2,mittel,1,positiv,2+,21,"Status mittel , Dynamik positiv",gültig
+202012,"05300841",Siemensdamm,4573,"05",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"05400942",Alt-Gatow,3642,"05",2,mittel,1,positiv,2+,21,"Status mittel , Dynamik positiv",gültig
+202012,"05400943",Jägerallee,10315,"05",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"05400944",Kladower Damm,2198,"05",1,hoch,5,negativ,1-,15,"Status hoch , Dynamik negativ",gültig
+202012,"05400945",Kafkastraße,3682,"05",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"06100101",Fichtenberg,6988,"06",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"06100102",Schloßstraße,8808,"06",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"06100103",Markelstraße,6281,"06",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"06100204",Munsterdamm,6887,"06",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"06100205",Südende,9881,"06",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"06100206",Stadtpark,7694,"06",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"06100207",Mittelstraße,8008,"06",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"06100208",Bergstraße,6824,"06",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"06100209",Feuerbachstraße,9339,"06",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"06100210",Bismarckstraße,4868,"06",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"06200311",Alt-Lankwitz,4937,"06",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"06200312",Komponistenviertel Lankwitz,6097,"06",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"06200313",Lankwitz Kirche,7410,"06",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"06200314",Kaiser-Wilhelm-Straße,7313,"06",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"06200315",Gallwitzallee,5841,"06",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"06200316",Belßstraße,5558,"06",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"06200317",Lankwitz Süd,6402,"06",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"06200418",Landweg,0,"06",-9999,Planungsraum ohne Zuordnung,-9999,Planungsraum ohne Zuordnung,Planungsraum ohne Zuordnung,-9999,Planungsraum ohne Zuordnung,ungültig (EW unter 300)
+202012,"06200419",Thermometersiedlung,4636,"06",2,mittel,1,positiv,2+,21,"Status mittel , Dynamik positiv",gültig
+202012,"06200420",Lichterfelde Süd,7055,"06",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"06200421",Königsberger Straße,8349,"06",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"06200422",Oberhofer Platz,7062,"06",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"06200423",Schütte-Lanz-Straße,8627,"06",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"06300524",Berlepschstraße,5670,"06",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"06300525",Zehlendorf Süd,5616,"06",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"06300526",Zehlendorf Mitte,3311,"06",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"06300527",Sundgauer Straße,8385,"06",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"06300528",Teltower Damm,11050,"06",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"06300629",Botanischer Garten,7088,"06",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"06300630",Hindenburgdamm,5612,"06",2,mittel,5,negativ,2-,25,"Status mittel , Dynamik negativ",gültig
+202012,"06300631",Goerzwerke,3152,"06",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"06300632",Schweizer Viertel,13747,"06",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"06300633",Augustaplatz,12046,"06",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"06300634",Lichterfelde West,8511,"06",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"06400735",Wannsee,10126,"06",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"06400736",Düppel,5234,"06",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"06400737",Nikolassee,11498,"06",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"06400838",Krumme Lanke,7511,"06",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"06400839",Fischerhüttenstraße,5278,"06",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"06400840",Fischtal,7266,"06",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"06400841",Zehlendorf Eiche,5958,"06",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"06400842",Hüttenweg,4810,"06",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"06400843",Thielallee,4902,"06",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"06400844",Dahlem,7204,"06",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"07100101",Wittenbergplatz,9808,"07",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"07100102",Kalckreuthstraße,8675,"07",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"07100103",Frobenstraße,7712,"07",3,niedrig,3,stabil,3+/-,33,"Status niedrig , Dynamik stabil",gültig
+202012,"07100204",Barbarossaplatz,10468,"07",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"07100205",Alvenslebenstraße,5257,"07",4,sehr niedrig,3,stabil,4+/-,43,"Status sehr niedrig , Dynamik stabil",gültig
+202012,"07100206",Großgörschenstraße,8223,"07",2,mittel,1,positiv,2+,21,"Status mittel , Dynamik positiv",gültig
+202012,"07200307",Bayerischer Platz,10578,"07",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"07200308",Volkspark (Rudolph-Wilde-Park),10501,"07",2,mittel,5,negativ,2-,25,"Status mittel , Dynamik negativ",gültig
+202012,"07200409",Belziger Straße,9460,"07",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"07200410",Feurigstraße,5565,"07",3,niedrig,5,negativ,3-,35,"Status niedrig , Dynamik negativ",gültig
+202012,"07200411",Julius-Leber-Brücke,2786,"07",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"07200412",Schöneberger Linse,1094,"07",2,mittel,1,positiv,2+,21,"Status mittel , Dynamik positiv",gültig
+202012,"07200413",Cheruskerstraße,7886,"07",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"07200414",Hohenfriedbergstraße,3736,"07",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"07300515",Taunusstraße,6860,"07",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"07300516",Odenwaldstraße,8839,"07",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"07300517",Perelsplatz,8767,"07",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"07300618",Ceciliengärten,9371,"07",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"07300619",Grazer Platz,12302,"07",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"07400720",Gontermannstraße,12038,"07",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"07400721",Paradestraße,5464,"07",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"07400822",Lindenhofsiedlung,2255,"07",2,mittel,1,positiv,2+,21,"Status mittel , Dynamik positiv",gültig
+202012,"07400823",Wittekindstraße,9832,"07",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"07400824",Bosepark,7390,"07",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"07400825",Friedrich-Karl-Straße,7360,"07",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"07400826",Marienhöhe,5114,"07",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"07400927",Rathaus Tempelhof,11104,"07",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"07400928",Germaniagarten,3980,"07",4,sehr niedrig,3,stabil,4+/-,43,"Status sehr niedrig , Dynamik stabil",gültig
+202012,"07501029",Ringstraße,8138,"07",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"07501030",Machonstraße,8890,"07",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"07501031",Eisenacher Straße,9101,"07",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"07501032",Imbrosweg,5653,"07",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"07501133",Fritz-Werner-Straße,8141,"07",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"07501134",Hundsteinweg,10584,"07",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"07501135",Birnhornweg,2233,"07",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"07601236",Marienfelder Allee Nordwest,10193,"07",3,niedrig,5,negativ,3-,35,"Status niedrig , Dynamik negativ",gültig
+202012,"07601237",Kirchstraße,4740,"07",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"07601238",Marienfelde Nordost,2869,"07",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"07601339",Tirschenreuther Ring West,5749,"07",3,niedrig,3,stabil,3+/-,33,"Status niedrig , Dynamik stabil",gültig
+202012,"07601340",Tirschenreuther Ring Ost,6429,"07",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"07601341",Diedersdorfer Weg,2284,"07",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"07601442",Kettinger Straße,10498,"07",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"07601443",Töpchiner Weg,10895,"07",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"07601544",John-Locke-Straße,8485,"07",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"07601545",Nahariyastraße,8431,"07",4,sehr niedrig,3,stabil,4+/-,43,"Status sehr niedrig , Dynamik stabil",gültig
+202012,"07601546",Franziusweg,6978,"07",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"07601547",Horstwalder Straße,3859,"07",2,mittel,5,negativ,2-,25,"Status mittel , Dynamik negativ",gültig
+202012,"07601548",Wittelsbacherstraße,2964,"07",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"08100101",Hasenheide,4516,"08",3,niedrig,3,stabil,3+/-,33,"Status niedrig , Dynamik stabil",gültig
+202012,"08100102",Schillerpromenade Nord,8218,"08",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"08100103",Schillerpromenade Süd,7473,"08",3,niedrig,3,stabil,3+/-,33,"Status niedrig , Dynamik stabil",gültig
+202012,"08100104",Wartheplatz,6706,"08",4,sehr niedrig,3,stabil,4+/-,43,"Status sehr niedrig , Dynamik stabil",gültig
+202012,"08100105",Silbersteinstraße,5567,"08",4,sehr niedrig,3,stabil,4+/-,43,"Status sehr niedrig , Dynamik stabil",gültig
+202012,"08100206",Flughafenstraße,9668,"08",3,niedrig,3,stabil,3+/-,33,"Status niedrig , Dynamik stabil",gültig
+202012,"08100207",Rollberg,7451,"08",4,sehr niedrig,3,stabil,4+/-,43,"Status sehr niedrig , Dynamik stabil",gültig
+202012,"08100208",Körnerpark,12288,"08",3,niedrig,3,stabil,3+/-,33,"Status niedrig , Dynamik stabil",gültig
+202012,"08100209",Glasower Straße,8524,"08",4,sehr niedrig,3,stabil,4+/-,43,"Status sehr niedrig , Dynamik stabil",gültig
+202012,"08100310",Maybachufer,7877,"08",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"08100311",Reuterplatz,7342,"08",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"08100312",Weichselplatz,11788,"08",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"08100313",Bouchéstraße,3868,"08",2,mittel,1,positiv,2+,21,"Status mittel , Dynamik positiv",gültig
+202012,"08100314",Donaustraße,8264,"08",3,niedrig,3,stabil,3+/-,33,"Status niedrig , Dynamik stabil",gültig
+202012,"08100415",Ganghoferstraße,6530,"08",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"08100416",Alt-Rixdorf,6562,"08",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"08100417",Braunschweiger Straße,9919,"08",4,sehr niedrig,3,stabil,4+/-,43,"Status sehr niedrig , Dynamik stabil",gültig
+202012,"08100418",Hertzbergplatz,9588,"08",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"08100419",Treptower Straße Nord,7100,"08",4,sehr niedrig,3,stabil,4+/-,43,"Status sehr niedrig , Dynamik stabil",gültig
+202012,"08100520",Weiße Siedlung,5767,"08",4,sehr niedrig,5,negativ,4-,45,"Status sehr niedrig , Dynamik negativ",gültig
+202012,"08100521",Schulenburgpark,9620,"08",4,sehr niedrig,3,stabil,4+/-,43,"Status sehr niedrig , Dynamik stabil",gültig
+202012,"08200622",Jahnstraße,5608,"08",4,sehr niedrig,3,stabil,4+/-,43,"Status sehr niedrig , Dynamik stabil",gültig
+202012,"08200623",Park am Buschkrug,6064,"08",2,mittel,5,negativ,2-,25,"Status mittel , Dynamik negativ",gültig
+202012,"08200624",Tempelhofer Weg,8754,"08",3,niedrig,3,stabil,3+/-,33,"Status niedrig , Dynamik stabil",gültig
+202012,"08200725",Mohriner Allee Nord,2455,"08",2,mittel,5,negativ,2-,25,"Status mittel , Dynamik negativ",gültig
+202012,"08200726",Hufeisensiedlung,6271,"08",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"08200727",Parchimer Allee Süd,7983,"08",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"08200728",Ortolanweg,1253,"08",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"08200729",Britzer Garten,1865,"08",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"08200730",Handwerker-Siedlung,3321,"08",2,mittel,5,negativ,2-,25,"Status mittel , Dynamik negativ",gültig
+202012,"08200831",Buckow West,8320,"08",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"08200832",Buckow Mitte,11578,"08",2,mittel,5,negativ,2-,25,"Status mittel , Dynamik negativ",gültig
+202012,"08200833",Buckow Ost,8698,"08",3,niedrig,3,stabil,3+/-,33,"Status niedrig , Dynamik stabil",gültig
+202012,"08300934",Gropiusstadt Nord-West,12534,"08",4,sehr niedrig,3,stabil,4+/-,43,"Status sehr niedrig , Dynamik stabil",gültig
+202012,"08300935",Gropiusstadt Süd-West,7303,"08",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"08301036",Gropiusstadt Mitte,7190,"08",3,niedrig,3,stabil,3+/-,33,"Status niedrig , Dynamik stabil",gültig
+202012,"08301037",Gropiusstadt Süd-Ost,10564,"08",4,sehr niedrig,5,negativ,4-,45,"Status sehr niedrig , Dynamik negativ",gültig
+202012,"08401138",Goldhähnchenweg,2834,"08",3,niedrig,3,stabil,3+/-,33,"Status niedrig , Dynamik stabil",gültig
+202012,"08401139",Vogelviertel Süd,4103,"08",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"08401140",Vogelviertel Nord,2661,"08",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"08401241",Blumenviertel,8264,"08",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"08401242",Zittauer Straße,6844,"08",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"08401243",Alt-Rudow,9997,"08",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"08401244",Waßmannsdorfer Chaussee,7118,"08",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"08401245",Frauenviertel,3776,"08",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"08401246",Waltersdorfer Chaussee Ost,7951,"08",2,mittel,5,negativ,2-,25,"Status mittel , Dynamik negativ",gültig
+202012,"09100101",Alt-Treptow,13167,"09",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"09100202",Plänterwald West,4375,"09",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"09100203",Plänterwald Ost,6924,"09",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"09100304",Baumschulenweg West,11722,"09",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"09100305",Baumschulenweg Ost,4074,"09",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"09100306",Späthsfelde,3098,"09",2,mittel,5,negativ,2-,25,"Status mittel , Dynamik negativ",gültig
+202012,"09100407",Johannisthal West,8480,"09",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"09100408",Johannisthal Ost,8105,"09",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"09100409",Landschaftspark Adlershof,3375,"09",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"09200510",Helmholtz-Kiez,7535,"09",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"09200511",Griechischer Park,12663,"09",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"09200512",Wuhlheide,3440,"09",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"09200613",Bahnhof Schöneweide,9424,"09",2,mittel,1,positiv,2+,21,"Status mittel , Dynamik positiv",gültig
+202012,"09200614",Oberspree,3580,"09",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"09200715",Wista,3059,"09",2,mittel,5,negativ,2-,25,"Status mittel , Dynamik negativ",gültig
+202012,"09200716",Dörpfeldstraße West,7669,"09",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"09200717",Dörpfeldstraße Ost,9482,"09",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"09200818",Spindlersfeld,3061,"09",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"09200819",Köllnische Vorstadt,8292,"09",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"09300920",Dorf Altglienicke,11751,"09",2,mittel,5,negativ,2-,25,"Status mittel , Dynamik negativ",gültig
+202012,"09300921",Preußen Siedlung,2697,"09",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"09300922",Kosmos Viertel,5660,"09",4,sehr niedrig,5,negativ,4-,45,"Status sehr niedrig , Dynamik negativ",gültig
+202012,"09300923",Kölner Viertel,8169,"09",2,mittel,5,negativ,2-,25,"Status mittel , Dynamik negativ",gültig
+202012,"09301024",Falkenberg,2417,"09",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"09301025",Alt-Bohnsdorf,10760,"09",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"09301126",Grünau,7217,"09",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"09301227",Karolinenhof,1871,"09",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"09301228",Schmöckwitz/Rauchfangswerder,2571,"09",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"09401329",Kietzer Feld/Nachtheide,10138,"09",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"09401330",Wendenschloß,1911,"09",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"09401431",Allende I,5445,"09",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"09401432",Siedlung Kämmereiheide,1569,"09",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"09401433",Allende II,4368,"09",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"09401534",Altstadt Köpenick,7337,"09",2,mittel,1,positiv,2+,21,"Status mittel , Dynamik positiv",gültig
+202012,"09401635",Müggelheim,6867,"09",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"09501736",Hirschgarten,4575,"09",2,mittel,1,positiv,2+,21,"Status mittel , Dynamik positiv",gültig
+202012,"09501737",Alt-Friedrichshagen,14434,"09",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"09501838",Rahnsdorf,9856,"09",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"09501939",Bahnhofstraße,6377,"09",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"09501940",Güterbahnhof Köpenick,2678,"09",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"09501941",Friedrichshagener Straße,2678,"09",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"09502042",Mittelheide,4106,"09",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"09502043",Dammheide,9188,"09",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"10100101",Marzahn West,5709,"10",2,mittel,1,positiv,2+,21,"Status mittel , Dynamik positiv",gültig
+202012,"10100102",Rosenbecker Straße,3317,"10",3,niedrig,1,positiv,3+,31,"Status niedrig , Dynamik positiv",gültig
+202012,"10100103",Wittenberger Straße,7685,"10",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"10100104",Golliner Straße,7611,"10",2,mittel,1,positiv,2+,21,"Status mittel , Dynamik positiv",gültig
+202012,"10100205",Gewerbegebiet Bitterfelder Straße,1262,"10",-9999,Planungsraum ohne Zuordnung,-9999,Planungsraum ohne Zuordnung,Planungsraum ohne Zuordnung,-9999,Planungsraum ohne Zuordnung,ungültig (Ausreißer)
+202012,"10100206",Wuhletalstraße,10586,"10",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"10100207",Ahrensfelder Berge,8198,"10",2,mittel,1,positiv,2+,21,"Status mittel , Dynamik positiv",gültig
+202012,"10100208",Bürgerpark,9163,"10",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"10100209",Lea-Grundig-Straße,8153,"10",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"10100210",Marzahner Promenade,10782,"10",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"10100311",Marzahner Chaussee,2228,"10",2,mittel,5,negativ,2-,25,"Status mittel , Dynamik negativ",gültig
+202012,"10100312",Springpfuhl,14860,"10",2,mittel,1,positiv,2+,21,"Status mittel , Dynamik positiv",gültig
+202012,"10100313",Alt-Marzahn,4793,"10",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"10100314",Auersbergstraße,6309,"10",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"10100315",Bärenstein,7171,"10",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"10100316",Landsberger Tor,3681,"10",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"10200417",Zossener Straße,7171,"10",3,niedrig,1,positiv,3+,31,"Status niedrig , Dynamik positiv",gültig
+202012,"10200418",Kyritzer Straße,5445,"10",2,mittel,1,positiv,2+,21,"Status mittel , Dynamik positiv",gültig
+202012,"10200419",Havelländer Ring,3564,"10",2,mittel,1,positiv,2+,21,"Status mittel , Dynamik positiv",gültig
+202012,"10200420",Gut Hellersdorf,7159,"10",3,niedrig,5,negativ,3-,35,"Status niedrig , Dynamik negativ",gültig
+202012,"10200421",Helle Mitte,1716,"10",2,mittel,1,positiv,2+,21,"Status mittel , Dynamik positiv",gültig
+202012,"10200422",Hellersdorfer Promenade,6503,"10",4,sehr niedrig,3,stabil,4+/-,43,"Status sehr niedrig , Dynamik stabil",gültig
+202012,"10200423",Böhlener Straße,5929,"10",3,niedrig,1,positiv,3+,31,"Status niedrig , Dynamik positiv",gültig
+202012,"10200524",Adele-Sandrock-Straße,9975,"10",2,mittel,5,negativ,2-,25,"Status mittel , Dynamik negativ",gültig
+202012,"10200525",Schleipfuhl,5317,"10",3,niedrig,5,negativ,3-,35,"Status niedrig , Dynamik negativ",gültig
+202012,"10200526",Boulevard Kastanienallee,6111,"10",3,niedrig,3,stabil,3+/-,33,"Status niedrig , Dynamik stabil",gültig
+202012,"10200627",Am Kienberg,3465,"10",2,mittel,1,positiv,2+,21,"Status mittel , Dynamik positiv",gültig
+202012,"10200628",Neue Grottkauer Straße,6342,"10",3,niedrig,1,positiv,3+,31,"Status niedrig , Dynamik positiv",gültig
+202012,"10200629",Teterower Ring,8919,"10",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"10200630",Cecilienplatz,6487,"10",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"10300731",Oberfeldstraße,7805,"10",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"10300732",Buckower Ring,6952,"10",2,mittel,5,negativ,2-,25,"Status mittel , Dynamik negativ",gültig
+202012,"10300733",Alt-Biesdorf,3938,"10",1,hoch,1,positiv,1+,11,"Status hoch , Dynamik positiv",gültig
+202012,"10300734",Biesdorf Süd,10260,"10",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"10400835",Kaulsdorf Nord,7807,"10",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"10400836",Alt-Kaulsdorf,3868,"10",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"10400837",Kaulsdorf Süd,7733,"10",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"10400938",Mahlsdorf Nord,9921,"10",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"10400939",Alt-Mahlsdorf,4457,"10",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"10400940",Elsensee,5801,"10",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"10400941",Pilgramer Straße,9578,"10",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"11100101",Dörfer Malchow-Wartenberg,3302,"11",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"11100102",Dorf Falkenberg,2189,"11",2,mittel,5,negativ,2-,25,"Status mittel , Dynamik negativ",gültig
+202012,"11100203",Falkenberg Ost,8986,"11",3,niedrig,3,stabil,3+/-,33,"Status niedrig , Dynamik stabil",gültig
+202012,"11100204",Falkenberg West,7052,"11",2,mittel,1,positiv,2+,21,"Status mittel , Dynamik positiv",gültig
+202012,"11100205",Wartenberg Süd,6095,"11",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"11100206",Wartenberg Nord,7609,"11",3,niedrig,5,negativ,3-,35,"Status niedrig , Dynamik negativ",gültig
+202012,"11100307",Zingster Straße Ost,11690,"11",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"11100308",Zingster Straße West,9583,"11",3,niedrig,3,stabil,3+/-,33,"Status niedrig , Dynamik stabil",gültig
+202012,"11100309",Mühlengrund,5825,"11",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"11200410",Malchower Weg,9998,"11",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"11200411",Hauptstraße,6856,"11",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"11200512",Orankesee,3898,"11",2,mittel,5,negativ,2-,25,"Status mittel , Dynamik negativ",gültig
+202012,"11200513",Große-Leege-Straße,9897,"11",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"11200514",Landsberger Allee,15296,"11",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"11200515",Weiße Taube,4125,"11",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"11300616",Hohenschönhausener Straße,6058,"11",3,niedrig,3,stabil,3+/-,33,"Status niedrig , Dynamik stabil",gültig
+202012,"11300617",Fennpfuhlpark,4292,"11",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"11300618",Storkower Bogen,3713,"11",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"11300619",Rudolf-Seiffert-Park,8422,"11",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"11300620",Fennpfuhl Ost,11266,"11",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"11300721",Herzbergstraße,5263,"11",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"11300722",Rathaus Lichtenberg,9901,"11",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"11300723",Bornitzstraße,2413,"11",2,mittel,1,positiv,2+,21,"Status mittel , Dynamik positiv",gültig
+202012,"11300724",Roedeliusplatz,3989,"11",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"11300725",Nibelungenviertel,9837,"11",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"11300826",Frankfurter Allee Süd,9956,"11",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"11400927",Victoriastadt,4218,"11",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"11400928",Nöldnerplatz,2359,"11",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"11400929",Weitlingkiez,16111,"11",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"11400930",Zachertstraße,4615,"11",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"11400931",Massower Straße,6764,"11",2,mittel,1,positiv,2+,21,"Status mittel , Dynamik positiv",gültig
+202012,"11401032",Rosenfelder Ring,5824,"11",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"11401033",Gensinger Straße,6756,"11",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"11401034",Tierpark,3195,"11",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"11401135",Dolgenseestraße,10139,"11",2,mittel,5,negativ,2-,25,"Status mittel , Dynamik negativ",gültig
+202012,"11401136",Volkradstraße,8155,"11",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"11401137",Erieseering,8708,"11",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"11501238",Rummelsburg,4244,"11",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"11501339",Karlshorst West,10346,"11",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"11501340",Karlshorst Nord,10640,"11",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"11501341",Karlshorst Süd,7252,"11",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"12100101",Letteplatz,10985,"12",3,niedrig,3,stabil,3+/-,33,"Status niedrig , Dynamik stabil",gültig
+202012,"12100102",Hausotterplatz,9986,"12",3,niedrig,3,stabil,3+/-,33,"Status niedrig , Dynamik stabil",gültig
+202012,"12100103",Breitkopfbecken,7702,"12",3,niedrig,3,stabil,3+/-,33,"Status niedrig , Dynamik stabil",gültig
+202012,"12100204",Schäfersee,8869,"12",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"12100205",Teichstraße,14057,"12",2,mittel,1,positiv,2+,21,"Status mittel , Dynamik positiv",gültig
+202012,"12100206",Humboldtstraße,4661,"12",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"12200307",Reinickes Hof,2753,"12",2,mittel,1,positiv,2+,21,"Status mittel , Dynamik positiv",gültig
+202012,"12200308",Meller Bogen,5667,"12",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"12200309",Scharnweberstraße,10629,"12",4,sehr niedrig,1,positiv,4+,41,"Status sehr niedrig , Dynamik positiv",gültig
+202012,"12200310",Klixstraße,8270,"12",4,sehr niedrig,3,stabil,4+/-,43,"Status sehr niedrig , Dynamik stabil",gültig
+202012,"12200411",Schumacher-Quartier,393,"12",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"12200412",Waldidyll/Flughafensee,6355,"12",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"12200413",Tegel Süd,8091,"12",3,niedrig,3,stabil,3+/-,33,"Status niedrig , Dynamik stabil",gültig
+202012,"12200414",TXL,1428,"12",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"12200515",Alt-Tegel,10959,"12",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"12400616",Konradshöhe/Tegelort,6011,"12",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"12400617",Alt-Heiligensee,6871,"12",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"12400618",Heiligensee Nord,3764,"12",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"12400619",Heiligensee,7730,"12",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"12400720",Frohnau West,8662,"12",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"12400721",Frohnau Ost,8027,"12",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"12400722",Hermsdorf West,8608,"12",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"12400723",Hermsdorf Ost/Waldsee,8118,"12",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"12500824",Ziekowstraße/Freie Scholle,9665,"12",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"12500825",Borsigwalde,6750,"12",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"12500926",Wittenau Mitte,5065,"12",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"12500927",Wittenau Nord,6434,"12",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"12500928",Waidmannslust,5166,"12",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"12500929",Lübars,5160,"12",1,hoch,3,stabil,1+/-,13,"Status hoch , Dynamik stabil",gültig
+202012,"12500930",Wittenau Süd,9936,"12",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"12601031",Lübarser Straße,3310,"12",2,mittel,3,stabil,2+/-,23,"Status mittel , Dynamik stabil",gültig
+202012,"12601032",Rollbergesiedlung,5922,"12",4,sehr niedrig,3,stabil,4+/-,43,"Status sehr niedrig , Dynamik stabil",gültig
+202012,"12601133",Treuenbrietzener Straße,11610,"12",4,sehr niedrig,3,stabil,4+/-,43,"Status sehr niedrig , Dynamik stabil",gültig
+202012,"12601134",Märkisches Zentrum,14722,"12",4,sehr niedrig,3,stabil,4+/-,43,"Status sehr niedrig , Dynamik stabil",gültig
+202012,"12601235",Dannenwalder Weg,10656,"12",4,sehr niedrig,3,stabil,4+/-,43,"Status sehr niedrig , Dynamik stabil",gültig
+202012,"12601236",Schorfheidestraße,3131,"12",2,mittel,1,positiv,2+,21,"Status mittel , Dynamik positiv",gültig

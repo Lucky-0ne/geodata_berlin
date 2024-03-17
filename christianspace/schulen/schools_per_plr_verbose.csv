@@ -1,0 +1,543 @@
+PLR_ID,PLR_NAME,school_count,school_names,privat,öffentlich,Typ: Andere Schule,Typ: Berufsschule,Typ: Grundschule,Typ: Gymnasium,Typ: Integrierte Sekundarschule,Typ: Privatschule,Typ: Schule mit sonderpädagogischem Förderschwerpunkt,Art: Berufsfachschule,Art: Berufsschule,Art: Berufsschule mit sonderpäd. Aufgaben,Art: Fachschule,Art: Freie Waldorfschule,"Art: Förderschwerp. ""Geistige Entwicklung""","Art: Förderschwerp. ""Lernen""","Art: Förderschwerp. ""Lernen""u.""Geistige Entwickl.""",Art: Förderschwerp. einschl. beruflichem Teil,Art: Gemeinschaftsschule,Art: Grundschule,Art: Gymnasium,Art: Integrierte Sekundarschule,Art: Kombinierte allg./berufl. Schule,Art: Kombinierte allgemein bildende Schule,Art: Kombinierte berufliche Schule,Art: Oberstufenzentrum,Art: Übrige Förderschwerpunkte
+01100101,Stülerstraße,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+01100102,Großer Tiergarten,1.0,['Canisius-Kolleg '],1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+01100103,Lützowstraße,4.0,"['Allegro-Grundschule', 'Internationale Lomonossow-Schule Berlin (Gemeinschaftsschule)', 'Ecole Voltaire (Grundschule)', 'Französisches Gymnasium']",2.0,2.0,0.0,0.0,1.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+01100104,Körnerstraße,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+01100205,Wilhelmstraße,1.0,['Grundschule am Brandenburger Tor'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+01100206,Unter den Linden,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+01100207,Leipziger Straße,2.0,"['Staatliche Wirtschaftsfachschule für Hotellerie und Gastronomie Berlin', 'GPB College gGmbH']",1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0
+01100308,Charitéviertel,1.0,['Grundschule Neues Tor'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+01100309,Oranienburger Straße,6.0,"['Kastanienbaum-Grundschule', 'Grundschule am Koppenplatz', 'Jüdisches Gymnasium Moses Mendelssohn', 'Freie Waldorfschule Berlin Mitte', 'Berlin Metropolitan School (Integrierte Sekundarschule)', 'Berlin Cosmopolitan School']",4.0,2.0,0.0,0.0,2.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0
+01100310,Alexanderplatzviertel,4.0,"['Evangelische Schule Berlin Mitte (Gemeinschaftsschule)', 'BEST-Sabel Berufsakademie', 'BTB Schulzentrum gGmbH', 'WWV Bildungsakademie gGmbH']",4.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0
+01100311,Karl-Marx-Allee,4.0,"['GutsMuths-Grundschule', 'FRÖBEL Akademie gGmbH - Fachschule für Sozialpädagogik', 'Charlotte-Pfeffer-Schule', 'Max-Planck-Gymnasium']",1.0,3.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+01100312,Heine-Viertel West,2.0,"['City-Grundschule', 'Evangelische Schule Berlin Zentrum (Gemeinschaftsschule)']",1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+01100313,Heine-Viertel Ost,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+01100414,Nordbahnhof,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+01100415,Invalidenstraße,4.0,"['Papageno-Grundschule', 'Hemingway-Schule', 'mediencollege Berlin gGmbH', 'Musikgymnasium Carl Philipp Emanuel Bach']",1.0,3.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+01100416,Arkonaplatz,2.0,"['Grundschule am Arkonaplatz', 'John-Lennon-Gymnasium']",0.0,2.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+01200517,Huttenkiez,2.0,"['Heinrich-von-Stephan-Gemeinschaftsschule', 'Schulen der ASIG Stiftung e.V.']",1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+01200518,Beusselkiez,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+01200519,Emdener Straße,3.0,"['Carl-Bolle-Grundschule', 'Katholische Schule Sankt Paulus (Grundschule)', 'CeFi - Fachschule für Sozialpädagogik']",2.0,1.0,0.0,0.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+01200520,Bremer Straße,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+01200521,Zwinglistraße,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+01200522,Elberfelder Straße,2.0,"['Staatliche Technikerschule Berlin', 'Miriam-Makeba-Grundschule']",0.0,2.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+01200623,Stephankiez,3.0,"['Kurt-Tucholsky-Grundschule', 'Hedwig-Dohm-Schule (Integrierte Sekundarschule)', 'Theodor-Heuss-Gemeinschaftsschule']",0.0,3.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+01200624,Heidestraße,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+01200625,Lübecker Straße,1.0,['Berufsfachschule  Paulo Freire im Zentrum ÜBERLEBEN'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+01200626,Thomasiusstraße,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+01200627,Zillesiedlung,1.0,"['OSZ Banken, Immobilien und Versicherungen']",0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+01200628,Lüneburger Straße,2.0,"['Anne-Frank-Grundschule', 'Moabiter Grundschule']",0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+01200629,Hansaviertel,2.0,"['Hansa-Grundschule', 'Gymnasium Tiergarten']",0.0,2.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+01300730,Drontheimer Straße,2.0,"['OSZ Kommunikations-, Informations- und Medientechnik', 'Wilhelm-Hauff-Grundschule']",0.0,2.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+01300731,Koloniestraße,3.0,"['Carl-Kraemer-Grundschule', 'Andersen-Grundschule', 'Quinoa-Schule Freie Sekundarschule Berlin Wedding']",1.0,2.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+01300732,Soldiner Straße,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+01300733,Gesundbrunnen,3.0,"['Rudolf-Wissell-Grundschule', 'Gesundbrunnen-Grundschule', 'Willy-Brandt-Schule']",0.0,3.0,0.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+01300834,Brunnenstraße,3.0,"['Heinrich-Seidel-Grundschule', 'Vineta-Grundschule', 'Freie Schule am Mauerpark (Grundschule)']",1.0,2.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+01300835,Humboldthain Süd,6.0,"['Humboldthain-Grundschule', 'Gustav-Falke-Grundschule', 'Ernst-Reuter-Schule', 'Lazarus Schulen der Hoffnungstaler Stiftung Lobetal', 'Bilinguale Schule Phorms Berlin Mitte', 'DDA Destiny Diversity Academy GmbH']",3.0,3.0,0.0,0.0,2.0,0.0,1.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0
+01300836,Humboldthain Nordwest,4.0,"['Grundschule am Nordhafen', 'Herbert-Hoover-Schule (Integrierte Sekundarschule)', 'Schule am Zille-Park', 'Diesterweg-Gymnasium']",0.0,4.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+01400937,Afrikanische Straße,1.0,['Möwensee-Grundschule'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+01400938,Kameruner Straße,2.0,"['Anna-Lindh-Schule (Grundschule)', 'Schule in der Charité']",0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+01400939,Glasgower Straße,2.0,"['Schule am Schillerpark (Integrierte Sekundarschule)', 'Lessing-Gymnasium']",0.0,2.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+01400940,Schillerpark,3.0,"['OSZ Gesundheit I', 'Gottfried-Röhl-Grundschule', 'Carl-Legien-Schule (Schulbetrieb an 01B04)']",0.0,3.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+01400941,Londoner Straße,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+01400942,Westliche Müllerstraße,1.0,['Ernst-Schering-Schule'],0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+01401043,Antonstraße,1.0,['Wedding-Grundschule'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+01401044,Uferstraße,2.0,"['Albert-Gutzmann-Schule (Grundschule)', 'Albert-Gutzmann-Schule']",0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+01401045,Schwedenstraße,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+01401046,Nordufer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+01401047,Sparrplatz,3.0,"['Brüder-Grimm-Grundschule', 'Leo-Lionni-Grundschule', 'Kristall Grundschule - Inklusive Grundschule in freier Trägerschaft']",1.0,2.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+01401048,Leopoldplatz,2.0,"['Erika-Mann-Grundschule', 'meco Akademie GmbH']",1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+01401049,Schulstraße,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+02100101,Askanischer Platz,4.0,"['Fanny-Hensel-Grundschule', 'Clara-Grunwald-Grundschule', 'Sozialpädagogisches Institut Berlin „Walter May“ - Stiftung SPI', 'procon College']",2.0,2.0,0.0,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+02100102,Mehringplatz,6.0,"['Modeschule Berlin (OSZ Bekleidung und Mode)', 'Kurt-Schumacher-Grundschule', 'Galilei-Grundschule', 'Campus Berufsbildung e.V.', 'FORUM Berufsbildung e.V.', 'Liebmann-Schule']",2.0,4.0,0.0,1.0,2.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,2.0,1.0,1.0
+02100103,Am Berlin Museum,2.0,"['Freie Waldorfschule Kreuzberg', 'VIA Bildungszentrum für Pflegeberufe']",2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+02100104,Moritzplatz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+02100105,Prinzenstraße,2.0,"['Hans-Böckler-Schule (OSZ Konstruktionsbautechnik)', 'Otto-Wels-Grundschule']",0.0,2.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+02100106,Wassertorplatz,2.0,"['Jens-Nydahl-Grundschule', 'Gustav-Meyer-Schule']",0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+02200207,Gleisdreieck,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+02200208,Rathaus Yorckstraße,1.0,['Hector-Peterson-Schule'],0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+02200209,Viktoriapark,3.0,"['Charlotte-Salomon-Grundschule', 'Adolf-Glaßbrenner-Grundschule', 'Kenntnisreich gGmbH']",1.0,2.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+02200210,Urbanstraße,4.0,"['Bürgermeister-Herz-Grundschule', 'Reinhardswald-Grundschule', 'Aziz-Nesin-Grundschule', 'Carl-von-Ossietzky-Gemeinschaftsschule']",0.0,4.0,0.0,0.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+02200211,Chamissokiez,3.0,"['Lina-Morgenstern-Schule (Gemeinschaftsschule)', 'Ferdinand-Freiligrath-Schule (Integrierte Sekundarschule)', 'Leibniz-Gymnasium']",0.0,3.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+02200212,Graefekiez Süd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+02200213,Graefekiez Nord,5.0,"['Lemgo-Grundschule', 'Albrecht-von-Graefe-Schule (Integrierte Sekundarschule)', 'Islamische Grundschule', 'Robert-Koch-Gymnasium', 'Hermann-Hesse-Gymnasium']",1.0,4.0,0.0,0.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0
+02300314,Oranienplatz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+02300315,Lausitzer Platz,2.0,"['Heinrich-Zille-Grundschule', 'Pro Inklusio - Fachschule für Sozialpädagogik']",1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+02300316,Köpenicker Straße,3.0,"['OSZ Handel 1', 'Nürtingen-Grundschule', 'Freie Schule Kreuzberg (Grundschule)']",1.0,2.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+02300417,Reichenberger Straße West,2.0,"['Hunsrück-Grundschule', 'Freie Schule Windrose (Grundschule)']",1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+02300418,Reichenberger Straße Ost,1.0,['Rosa-Parks-Grundschule'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+02300419,Wrangelkiez,3.0,"['Fichtelgebirge-Grundschule', 'Refik-Veseli-Schule (Integrierte Sekundarschule)', 'BWK Berufsfachschule für Altenpflege']",1.0,2.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+02400520,Barnimkiez,2.0,"['Schule am Königstor (Integrierte Sekundarschule)', 'Berlin Bilingual School (Grundschule)']",1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+02400521,Friedenstraße,4.0,"['Spartacus-Grundschule', '37. Schule (Grundschule)', 'KreativitätsGrundschule Berlin Friedrichshain', 'Margarethe-von-Witzleben-Schule']",1.0,3.0,0.0,0.0,2.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+02400522,Richard-Sorge-Viertel,3.0,"['Jane-Addams-Schule (OSZ Sozialwesen)', 'Georg-Weerth-Schule', 'Evangelische Schule Berlin Friedrichshain (Grundschule)']",1.0,2.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+02400623,Andreasviertel,3.0,"['Blumen-Grundschule', 'Ellen-Key-Schule', 'Andreas-Gymnasium']",0.0,3.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+02400624,Weberwiese,6.0,"['Ludwig-Hoffmann-Grundschule', 'Netzwerk-Schule (Gemeinschaftsschule)', 'Concept Berufliche Schulen gGmbH Berlin', 'Concept - Fachschule für Sozialpädagogik', 'Temple-Grandin-Schule', 'Dathe-Gymnasium']",3.0,3.0,0.0,0.0,1.0,1.0,0.0,3.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+02400625,Wriezener Bahnhof,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+02500726,Hausburgviertel,1.0,['Hausburg-Grundschule'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+02500727,Forckenbeckplatz,1.0,['Justus-von-Liebig-Grundschule'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+02500728,Samariterviertel,1.0,['Heinrich-Hertz-Gymnasium'],0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+02500729,Pettenkofer Straße,1.0,['Pettenkofer-Grundschule'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+02500830,Niederbarnimstraße,1.0,['Georg-Friedrich-Händel-Gymnasium'],0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+02500831,Wismarplatz,1.0,['Jane-Goodall-Grundschule'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+02500832,Traveplatz,1.0,['Grundschule am Traveplatz'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+02500833,Boxhagener Platz,1.0,['Zille-Grundschule'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+02500834,Revaler Straße,1.0,['Modersohn-Grundschule'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+02500835,Stralauer Kiez,2.0,"['August-Sander-Schule', 'Emanuel-Lasker-Schule (Gemeinschaftsschule)']",0.0,2.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+02500836,Stralauer Halbinsel,1.0,['Thalia-Grundschule'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+03100101,Bucher Forst,3.0,"['Grundschule Am Sandhaus', 'Montessori-Gemeinschaftsschule Berlin Buch', 'Evangelische Schule Berlin Buch (Grundschule)']",2.0,1.0,0.0,0.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+03100102,Klinikum Buch,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+03100103,Karower Chaussee,3.0,"['50. Schule (Grundschule)', 'Hufeland-Schule (Integrierte Sekundarschule)', 'Marianne-Buggenhagen-Schule']",0.0,3.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+03200204,Blankenfelde,2.0,"['Platanengrundschule', 'Freie Naturschule im StadtGUT (Grundschule)']",1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+03200205,Uhlandstraße,1.0,['Berufliche Schule für Sozialwesen Pankow'],0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+03200206,Pastor-Niemöller-Platz,6.0,"['Konrad-Zuse-Schule', 'Hasengrund-Schule (Grundschule)', 'Grundschule an den Buchen', 'Freie Schule Pankow (Integrierte Sekundarschule)', 'Freie Humanistische Grundschule', 'Max-Delbrück-Gymnasium']",2.0,4.0,0.0,1.0,2.0,1.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+03200207,Herthaplatz,1.0,['Elisabeth-Christinen-Grundschule'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+03200308,Nisbléstraße,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+03200309,Eddastraße,1.0,['Jeanne-Barez-Schule (Grundschule)'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+03200310,Krugpfuhl,2.0,"['Schule am Birkenhof', 'Schule am Birkenhof']",0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+03300411,Karow Nord,3.0,"['Grundschule am Hohen Feld', 'Grundschule im Panketal', 'Robert-Havemann-Gymnasium']",0.0,3.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+03300412,Karow Bahnhof,1.0,['Grundschule Alt-Karow'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+03300413,Karow Ost,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+03300514,Blankenburg,1.0,['Grundschule unter den Bäumen'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+03300515,Blankenburger Süden,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+03300516,Heinersdorf,2.0,"['Grundschule am Wasserturm', 'SAfS - Spektrum Akademie für Sozialpädagogik (Kein Schulbetrieb)']",1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+03300517,Märchenland,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+03400618,Rosenthal,1.0,['Grundschule in Rosenthal'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+03400619,Wilhelmsruh,2.0,"['Grundschule Wilhelmsruh', 'St. Hildegard Akademie gGmbH']",1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+03400620,Schönholz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+03400721,Florakiez,3.0,"['Arnold-Zweig-Grundschule', 'Reinhold-Burger-Schule', 'Carl-von-Ossietzky-Gymnasium']",0.0,3.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+03400722,Parkstraße,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+03400723,Garbátyplatz,4.0,"['Elizabeth-Shaw-Grundschule', 'SchuleEins (Gemeinschaftsschule)', 'Freie Integrative Montessori Grundschule Pankow', 'Platanus Schule Berlin (Gemeinschaftsschule)']",3.0,1.0,0.0,0.0,1.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+03400724,Wolfshagener Straße,4.0,"['Mendel-Grundschule', '47. Schule (Grundschule)', 'Panke-Schule', 'Schule an der Strauchwiese']",0.0,4.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+03400725,Schlosspark,2.0,"['Konrad-Duden-Schule (Integrierte Sekundarschule)', 'Evangelische Schule Pankow (Grundschule)']",1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+03400826,Tiroler Viertel,2.0,"['Klecks-Grundschule', 'Janusz-Korczak-Schule (Integrierte Sekundarschule)']",0.0,2.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+03400827,Trelleborger Viertel,1.0,['Trelleborg-Schule (Grundschule)'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+03400828,Spiekermann Straße,1.0,['Kurt-Tucholsky-Schule (Integrierte Sekundarschule)'],0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+03400829,Arnold-Zweig-Straße,1.0,['Klax-Gemeinschaftsschule'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+03400830,Kissingenviertel,3.0,"['Grundschule Wolkenstein', 'Berlin Bilingual School (Integrierte Sekundarschule)', 'Rosa-Luxemburg-Gymnasium']",1.0,2.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+03400831,Pankower Tor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+03500932,Bühringstraße,2.0,"['Max-Bill-Schule (OSZ Planen, Bauen, Gestalten)', 'Hagenbeck-Schule']",0.0,2.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+03500933,Weißer See,2.0,"['Stephanus-Schule', 'Stephanus-Grundschule ']",2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+03500934,Weißenseer Spitze,3.0,"['Schule am Hamburger Platz (Grundschule)', 'Heinz-Brandt-Schule', 'Klax Berufsakademie']",1.0,2.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+03500935,Behaimstraße,2.0,"['Katholische Theresienschule (Gymnasium)', 'Primo-Levi-Gymnasium']",1.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+03500936,Komponistenviertel Weißensee,3.0,"['Picasso-Grundschule', 'dreieins-Grundschule Berlin-Pankow', 'Ting-Schule (Integrierte Sekundarschule)']",2.0,1.0,0.0,0.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+03501037,Rathaus Weißensee,3.0,"['Grundschule am Weißen See', 'Grundschule im Moselviertel', '49. Schule (Grundschule)']",0.0,3.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+03501038,Hansastraße,2.0,"['Brillat-Savarin-Schule (OSZ Gastgewerbe)', 'Georg-Zacharias-Grundschule']",0.0,2.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+03601139,Norweger Viertel,1.0,['Bornholmer Grundschule'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+03601140,Malmöer Straße,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+03601141,Arnimplatz,1.0,['Freie Grundschule Pfefferwerk'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+03601142,Falkplatz,1.0,['Schule am Falkplatz (Grundschule)'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+03601243,Rodenbergstraße,1.0,['Carl-Humann-Grundschule'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+03601244,Humannplatz,2.0,"['Wilhelm-von-Humboldt-Gemeinschaftsschule', 'Heinrich-Schliemann-Gymnasium']",0.0,2.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+03601245,Ostseestraße,2.0,"['Elinor-Ostrom-Schule (OSZ Bürowirtschaft und Dienstleistungen)', 'Staatliche Ballett- und Artistikschule Berlin']",0.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+03601346,Gethsemanekirche,1.0,['Thomas-Mann-Grundschule'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+03601347,Helmholtzplatz,1.0,['Käthe-Kollwitz-Gymnasium'],0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+03601348,Senefelderstraße,1.0,['Grundschule im Eliashof'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+03601449,Michelangelostraße,4.0,"['Paul-Lincke-Grundschule', 'Gustave-Eiffel-Schule', 'Freie Waldorfschule am Prenzlauer Berg', 'PepperMont Freie Sekundarschule für ganzheitliches Lernen']",2.0,2.0,0.0,0.0,1.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+03601450,Volkspark Prenzlauer Berg,3.0,"['Grundschule im Blumenviertel', 'AUCOTEAM GmbH', 'Technische Jugendfreizeit- und Bildungsgesellschaft (tjfbg) gGmbH']",2.0,1.0,0.0,0.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+03601451,Anton-Saefkow-Park,1.0,['Bötzow-Grundschule'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+03601452,Velodrom,3.0,"['48. Schule (Grundschule)', 'Tesla-Schule (Gemeinschaftsschule)', 'Gymnasium am Europasportpark']",0.0,3.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+03601453,Alter Schlachthof,1.0,['Bilinguale Schule Phorms Berlin Prenzlauer Berg (Grundschule)'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+03701554,Teutoburger Platz,4.0,"['Schule am Senefelderplatz', 'Grundschule am Teutoburger Platz', 'WETEK - Fachschule für Sozialpädagogik', 'Pfefferwerk - Fachschule für Sozialpädagogik']",2.0,2.0,0.0,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+03701555,Sredzkistraße,3.0,"['Grundschule am Kollwitzplatz', 'Grundschule im Hofgarten', 'Weiterdenker-Fachschule für Sozialpädagogik']",1.0,2.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+03701556,Kollwitzplatz,1.0,['Lauder Beth-Zion Schule (Gemeinschaftsschule)'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+03701657,Thälmannpark,1.0,['Grundschule am Planetarium'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+03701658,Christburger Straße,2.0,"['Grundschule an der Marie', 'Schulen Christburg Campus Prenzlauer Berg']",1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+03701659,Immanuelkirchstraße,3.0,"['Heinrich-Roller-Grundschule', 'S.K.O.U.T. - Fachschule für Sozialpädagogik', 'Helene-Haeusler-Schule']",1.0,2.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+03701660,Bötzowstraße,4.0,"['Homer-Grundschule', 'Kurt-Schwitters-Schule', 'Katholisches Schulzentrum Edith Stein', 'Felix-Mendelssohn-Bartholdy-Gymnasium']",1.0,3.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0
+04100101,Jungfernheide/Plötzensee,2.0,"['Anna-Freud-Schule (OSZ Sozialwesen)', 'Erwin-von-Witzleben-Grundschule']",0.0,2.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+04100102,Paul-Hertz-Siedlung,1.0,['Helmuth-James-von-Moltke-Grundschule'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+04200203,Olympiagelände,1.0,['Sportschule im Olympiapark - Poelchau-Schule'],0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+04200204,Angerburger Allee,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+04200205,Flatowallee,3.0,"['Charles-Dickens-Grundschule', 'Katholische Schule Herz Jesu (Grundschule)', 'Berlin British School (Grundschule)']",2.0,1.0,0.0,0.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+04200206,Kranzallee,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+04200207,Eichkamp,6.0,"['Wald-Grundschule', 'Heinz-Galinski-Schule (Grundschule)', 'Berlin British School (Integrierte Sekundarschule)', 'Reinfelder-Schule', 'Ernst-Adolf-Eschke-Schule für Gehörlose', 'Wald-Gymnasium']",2.0,4.0,0.0,0.0,1.0,1.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
+04200308,Branitzer Platz,1.0,['Schule am Westend'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+04200309,Neu Westend,3.0,"['Dietrich-Bonhoeffer-Grundschule', 'Schele-Schule (Gemeinschaftsschule)', 'Herder-Gymnasium']",1.0,2.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+04200310,Fürstenplatz,5.0,"['Reinhold-Otto-Grundschule', 'Katholische Schule Liebfrauen (Gymnasium)', 'Freie Schule Charlottenburg', 'Moser-Schule - Schweizer Gymnasium', 'Heinz-Berggruen-Gymnasium']",3.0,2.0,0.0,0.0,1.0,1.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0
+04200311,Königin-Elisabeth-Straße,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+04300412,Schlossgarten,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+04300413,Klausenerplatz,1.0,['Nehring-Grundschule'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+04300414,Schloßstraße,3.0,"['Hans-Litten-Schule (OSZ Recht und Wirtschaft)', 'Schinkel-Grundschule', 'Schule am Schloss (Integrierte Sekundarschule)']",0.0,3.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+04300415,Lietzensee,1.0,['Peter-Ustinov-Schule'],0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+04300416,Amtsgerichtsplatz,1.0,['Lietzensee-Grundschule'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+04300517,Tegeler Weg,1.0,['Gottfried-Keller-Gymnasium'],0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+04300518,Kaiserin-Augusta-Allee,1.0,['Mierendorff-Grundschule'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+04300619,Alt-Lietzow,4.0,"['Loschmidt-Oberschule', 'Ludwig-Cauer-Grundschule', 'Evangelische Schule Charlottenburg (Integrierte Sekundarschule)', 'Erste Aktivschule Charlottenburg (Grundschule)']",2.0,2.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+04300620,Spreestadt,1.0,['Mentora Gymnasium'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+04300621,Richard-Wagner-Straße,4.0,"['OSZ Kraftfahrzeugtechnik', 'Ruth-Cohn-Schule (OSZ Sozialwesen)', 'IFAG Institut für angewandte Gerontologie', 'Arno-Fuchs-Schule']",1.0,3.0,0.0,2.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0
+04300622,Ernst-Reuter-Platz,1.0,['Rackow-Schulen Berlin'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+04300623,Karl-August-Platz,2.0,"['Eichendorff-Grundschule', 'Campus Berufsbildung e.V.']",1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+04300624,Savignyplatz,3.0,"['OSZ Körperpflege', 'Friedensburg-Schule', 'Schiller-Gymnasium']",0.0,3.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0
+04400725,Güterbahnhof Grunewald,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+04400726,Bismarckallee,2.0,"['Grunewald-Grundschule', 'Walther-Rathenau-Gymnasium']",0.0,2.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+04400727,Flinsberger Platz,1.0,['Evangelisches Gymnasium zum Grauen Kloster'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+04400728,Hagenplatz,1.0,['Hildegard-Wegscheider-Gymnasium'],0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+04400729,Hundekehle,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+04400830,Forckenbeckstraße,2.0,"['Carl-Orff-Grundschule', 'Integrierte Sekundarschule Wilmersdorf']",0.0,2.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+04400831,Messelpark,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+04400832,Breite Straße,3.0,"['Alt-Schmargendorf-Grundschule', 'Judith-Kerr-Grundschule', 'Private Kant-Schule - Berlin International School']",1.0,2.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+04400833,Schlangenbader Straße,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+04400834,Binger Straße,1.0,['Grundschule am Rüdesheimer Platz'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+04400835,Rüdesheimer Platz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+04500936,Droysenstraße,2.0,"['Paula-Fürst-Schule (Gemeinschaftsschule)', 'Jewish International School - Masorti-Grundschule']",1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+04500937,Halensee,1.0,['Halensee-Grundschule'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+04500938,Hochmeisterplatz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+04500939,Eisenzahnstraße,5.0,"['Katharina-Heinroth-Grundschule', 'Otto-von-Guericke-Schule (Integrierte Sekundarschule)', 'Annie-Heuser-Schule', 'Evangelische Schule Wilmersdorf (Grundschule)', 'Jüdische Traditionsschule']",3.0,2.0,0.0,0.0,1.0,0.0,1.0,3.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+04501040,Hindemithplatz,1.0,['Sophie-Charlotte-Gymnasium'],0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+04501041,George-Grosz-Platz,1.0,['Joan-Miró-Grundschule'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+04501042,Breitscheidplatz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+04501043,Preußenpark,1.0,['Hasenschule (Grundschule)'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+04501044,Ludwigkirchplatz,3.0,"['Johann-Peter-Hebel-Grundschule', 'Robert-Jungk-Schule', 'Katholische Schule Sankt Ludwig (Grundschule)']",1.0,2.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+04501045,Schaperstraße,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+04501146,Barstraße,2.0,"['Finkenkrug-Schule', 'Friedrich-Ebert-Gymnasium']",0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+04501147,Leon-Jessel-Platz,3.0,"['Nelson-Mandela-Schule', 'Comenius-Schule', 'Goethe-Gymnasium']",0.0,3.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
+04501148,Brabanter Platz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+04501149,Nikolsburger Platz,2.0,"['Cecilien-Schule (Grundschule)', 'Freudberg-Gemeinschaftsschule']",1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+04501150,Wilhelmsaue,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+04501151,Hildegardstraße,2.0,"['Birger-Forell-Grundschule', 'Marie-Curie-Gymnasium']",0.0,2.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+04501152,Prager Platz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+04501153,Babelsberger Straße,3.0,"['Leopold-Ullstein-Schule (OSZ Wirtschaft)', 'Ernst-Habermann-Grundschule', 'Wangari-Maathai-Internationale-Schule']",0.0,3.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+05100101,Hakenfelde Nord,4.0,"['Carl-Schurz-Grundschule', 'Evangelische Schule Spandau im Johannesstift', 'August-Hermann-Francke-Schule', 'Soziale Fachschulen Johannesstift Diakonie gGmbH']",3.0,1.0,0.0,0.0,1.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+05100102,Am Forstacker,1.0,['Heinrich-Böll-Oberschule (Integrierte Sekundarschule)'],0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+05100103,Mertensstraße,1.0,['31. Schule (Grundschule)'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+05100104,Maselake,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+05100105,Amorbacher Weg,1.0,['Grundschule am Eichenwald'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+05100206,Griesingerstraße,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+05100207,An der Tränke,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+05100208,Im Spektefeld,5.0,"['Grundschule im Beerwinkel', 'Grundschule am Wasserwerk', 'Martin-Buber-Oberschule (Integrierte Sekundarschule)', 'Immanuel-Grundschule', 'Schule am Stadtrand']",1.0,4.0,0.0,0.0,2.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+05100209,Westerwaldstraße,1.0,['Siegerland-Grundschule'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+05100210,Germersheimer Platz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+05100211,An der Kappe,2.0,"['Klosterfeld-Grundschule', 'B.-Traven-Gemeinschaftsschule']",0.0,2.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+05100312,Eckschanze,2.0,"['Birken-Grundschule', 'Schule am Grüngürtel']",0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+05100313,Eiswerder,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+05100314,Kurstraße,1.0,['Lynar-Grundschule'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+05100315,Ackerstraße,3.0,"['Peter-Härtling-Grundschule ', 'Wolfgang-Borchert-Schule (Integrierte Sekundarschule)', 'Kant-Gymnasium']",0.0,3.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+05100316,Carl-Schurz-Straße,4.0,"['Askanier-Grundschule', 'Katholische Schule Bernhard Lichtenberg (Grundschule)', 'Freiherr-vom-Stein-Gymnasium', 'Lily-Braun-Gymnasium']",1.0,3.0,0.0,0.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+05100317,Freiheit,1.0,['Ernst-Ludwig-Heim-Grundschule'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+05200418,Isenburger Weg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+05200419,Am Heideberg,1.0,['Zeppelin-Grundschule'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+05200420,Staakener Straße,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+05200421,Spandauer Straße,2.0,"['Linden-Grundschule', 'Grundschule am Brandwerder']",0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+05200422,Werkstraße,1.0,['Schule am Staakener Kleeblatt (Integrierte Sekundarschule)'],0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+05200423,Magistratsweg,1.0,['Astrid-Lindgren-Grundschule'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+05200524,Döberitzer Weg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+05200525,Pillnitzer Weg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+05200526,Rudolf-Wissell-Großsiedlung,1.0,['SIS Swiss International School Berlin'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+05200527,Maulbeerallee,3.0,"['Christian-Morgenstern-Grundschule', 'Carlo-Schmid-Oberschule (Integrierte Sekundarschule)', 'Wilhelmstadt Schulen']",1.0,2.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+05200528,Weinmeisterhornweg,2.0,"['Grundschule am Weinmeisterhorn', 'Grundschule am Amalienhof']",0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+05200629,Borkumer Straße,1.0,['Konkordia-Grundschule'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+05200630,Wilhelmstadt West,5.0,"['Christoph-Földerich-Grundschule', 'Grundschule am Birkenhain', 'Paul-Moor-Grundschule', 'Bertolt-Brecht-Oberschule (Integrierte Sekundarschule)', 'Schule am Gartenfeld']",0.0,5.0,0.0,0.0,3.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+05200631,Wilhelmstadt Ost,1.0,['Freie Georgschule '],1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+05200632,Tiefwerder,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+05200633,Graetschelsteig,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+05200634,Börnicker Straße,1.0,['Schule an der Haveldüne (Integrierte Sekundarschule)'],0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+05300735,Haveleck,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+05300736,Zitadellenweg,2.0,"['OSZ TIEM (Technische Informatik, Industrieelektronik und EnergieManagement)', 'Grundschule an der Pulvermühle']",0.0,2.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+05300737,Gartenfelder Straße,2.0,"['Knobelsdorff-Schule (OSZ Bautechnik I)', 'Bernd-Ryke-Grundschule']",0.0,2.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+05300838,Gartenfeld,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+05300839,Rohrdamm,2.0,"['Robert-Reinick-Grundschule', 'Carl-Friedrich-von-Siemens-Gymnasium']",0.0,2.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+05300840,Nonnendammallee,1.0,['Werner-von-Siemens-Werkberufsschule der Siemens AG'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+05300841,Siemensdamm,1.0,['Schule an der Jungfernheide (Integrierte Sekundarschule)'],0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+05400942,Alt-Gatow,2.0,"['Grundschule am Windmühlenberg', 'Freie Waldorfschule Havelhöhe - Eugen Kolisko']",1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+05400943,Jägerallee,3.0,"['Grundschule am Ritterfeld', 'Mary-Poppins-Grundschule', 'Hans-Carossa-Gymnasium']",0.0,3.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+05400944,Kladower Damm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+05400945,Kafkastraße,1.0,['Berufsschule des Rotkreuz-Instituts'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+06100101,Fichtenberg,5.0,"['Rothenburg-Grundschule', 'Private Kant-Schule (Grundschule)', 'J.-A.-Zeune-Schule für Blinde und Berufsfachschule Dr. Silex', 'Paulsen-Gymnasium', 'Fichtenberg-Oberschule']",1.0,4.0,0.0,0.0,1.0,2.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+06100102,Schloßstraße,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+06100103,Markelstraße,2.0,"['Dunant-Grundschule', 'Kopernikus-Schule (Integrierte Sekundarschule)']",0.0,2.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+06100204,Munsterdamm,2.0,"['Wilhelm-Ostwald-Schule (OSZ Gestaltung)', 'Grundschule am Insulaner']",0.0,2.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+06100205,Südende,1.0,['Grundschule am Stadtpark Steglitz'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+06100206,Stadtpark,1.0,['Evangelische Schule Steglitz (Integrierte Sekundarschule)'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+06100207,Mittelstraße,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+06100208,Bergstraße,5.0,"['Grundschule in der Plantagenstraße', 'Helene-Lange-Schule (Integrierte Sekundarschule)', 'Private Kant-Schule ', 'Hermann-Ehlers-Gymnasium', 'Gymnasium Steglitz']",1.0,4.0,0.0,0.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0
+06100209,Feuerbachstraße,1.0,['Sachsenwald-Grundschule'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+06100210,Bismarckstraße,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+06200311,Alt-Lankwitz,1.0,['Peter-Frankenfeld-Schule'],0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+06200312,Komponistenviertel Lankwitz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+06200313,Lankwitz Kirche,1.0,['Alt-Lankwitzer Grundschule'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+06200314,Kaiser-Wilhelm-Straße,2.0,"['Paul-Schneider-Grundschule', 'Beethoven-Gymnasium']",0.0,2.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+06200315,Gallwitzallee,2.0,"['Grundschule am Königsgraben', 'Bröndby-Schule (Integrierte Sekundarschule)']",0.0,2.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+06200316,Belßstraße,1.0,['Ludwig-Bechstein-Grundschule'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+06200317,Lankwitz Süd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+06200418,Landweg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+06200419,Thermometersiedlung,1.0,['Mercator-Grundschule'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+06200420,Lichterfelde Süd,2.0,"['Louise-Schroeder-Schule (OSZ Bürowirtschaft und Verwaltung)', 'Giesensdorfer Grundschule']",0.0,2.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+06200421,Königsberger Straße,2.0,"['OSZ Bürowirtschaft 1', 'Willi-Graf-Gymnasium']",0.0,2.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+06200422,Oberhofer Platz,1.0,['Grundschule unter den Kastanien'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+06200423,Schütte-Lanz-Straße,1.0,['Grundschule am Karpfenteich'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+06300524,Berlepschstraße,2.0,"['Grundschule am Buschgraben', 'Evangelische Grundschule Zehlendorf']",1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+06300525,Zehlendorf Süd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+06300526,Zehlendorf Mitte,1.0,['Schadow-Gymnasium'],0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+06300527,Sundgauer Straße,1.0,['Katholische Schule Sankt Ursula (Grundschule)'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+06300528,Teltower Damm,5.0,"['Süd-Grundschule', 'Schweizerhof-Grundschule', 'John-F.-Kennedy-Schule', 'Emil-Molt-Schule', 'Droste-Hülshoff-Gymnasium']",1.0,4.0,0.0,0.0,2.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+06300629,Botanischer Garten,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+06300630,Hindenburgdamm,1.0,['Grundschule an der Bäke'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+06300631,Goerzwerke,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+06300632,Schweizer Viertel,1.0,['Bilinguale Schule Phorms Berlin Süd'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+06300633,Augustaplatz,7.0,"['Kronach-Grundschule', 'Käthe-Kruse-Grundschule', 'Max-von-Laue-Schule', 'Anna-Essinger-Gemeinschaftsschule', 'Gemeinschaftsschule nach der Pädagogik Berthold Ottos', 'Oberlin-Seminar', 'Lilienthal-Gymnasium']",2.0,5.0,0.0,0.0,2.0,1.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0
+06300634,Lichterfelde West,4.0,"['Athene-Grundschule', 'Clemens-Brentano-Grundschule', 'Friedrich-Drake-Grundschule', 'Goethe-Gymnasium Lichterfelde']",0.0,4.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+06400735,Wannsee,2.0,"['Conrad-Schule (Grundschule)', 'Internationale Montessorischule Berlin (Grundschule)']",1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+06400736,Düppel,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+06400737,Nikolassee,5.0,"['Johannes-Tews-Grundschule', 'Dreilinden-Grundschule', 'Sancta-Maria-Schule der Hedwigschwestern', 'Dreilinden-Gymnasium', 'Werner-von-Siemens-Gymnasium']",1.0,4.0,0.0,0.0,2.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+06400838,Krumme Lanke,3.0,"['Johanna-Gerdes-Grundschule', 'Parzival-Schule', 'Caroline-von-Heydebrand-Schule']",3.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+06400839,Fischerhüttenstraße,4.0,"['Peter-Lenné-Schule (OSZ Natur und Umwelt)', 'Nord-Grundschule', 'Zinnowwald-Grundschule', 'Pestalozzi-Schule']",0.0,4.0,0.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+06400840,Fischtal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+06400841,Zehlendorf Eiche,1.0,['Freie Schule Anne-Sophie Berlin'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+06400842,Hüttenweg,3.0,"['Quentin-Blake-Grundschule', 'Wilma-Rudolph-Schule (Integrierte Sekundarschule)', 'Biesalski-Schule']",0.0,3.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+06400843,Thielallee,1.0,['Mühlenau-Grundschule'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+06400844,Dahlem,5.0,"['Erich-Kästner-Grundschule', 'Gail-S.-Halvorsen-Integrierte Sekundarschule', 'Rudolf-Steiner-Schule Berlin', 'Königin-Luise-Stiftung', 'Arndt-Gymnasium Dahlem']",2.0,3.0,0.0,0.0,1.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0
+07100101,Wittenbergplatz,2.0,"['Finow-Grundschule', 'Lette-Verein Stiftung des öffentlichen Rechts']",1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+07100102,Kalckreuthstraße,2.0,"['Werbellinsee-Grundschule', 'Katholische Schule Sankt Franziskus (Integrierte Sekundarschule)']",1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+07100103,Frobenstraße,1.0,['Spreewald-Grundschule'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+07100204,Barbarossaplatz,3.0,"['Grundschule am Barbarossaplatz', 'Sophie-Scholl-Schule', 'Pestalozzi-Fröbel-Haus']",1.0,2.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+07100205,Alvenslebenstraße,1.0,['Marie-Elisabeth-Lüders-Oberschule'],0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+07100206,Großgörschenstraße,1.0,['Neumark-Grundschule'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+07200307,Bayerischer Platz,3.0,"['Scharmützelsee-Grundschule', 'Löcknitz-Grundschule', 'Georg-von-Giesche-Schule']",0.0,3.0,0.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+07200308,Volkspark (Rudolph-Wilde-Park),2.0,"['Sternberg-Grundschule', 'Rückert-Gymnasium']",0.0,2.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+07200409,Belziger Straße,2.0,"['Gustav-Langenscheidt-Schule', 'Freie Schule Schöneberg (Gemeinschaftsschule)']",1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+07200410,Feurigstraße,2.0,"['Teltow-Grundschule', 'Privates Europa-Gymnasium Berlin']",1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+07200411,Julius-Leber-Brücke,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+07200412,Schöneberger Linse,1.0,['40. Schule (Grundschule)'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+07200413,Cheruskerstraße,2.0,"['Havelland-Grundschule', 'Robert-Blum-Gymnasium']",0.0,2.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+07200414,Hohenfriedbergstraße,2.0,"['Johannes-Schule Berlin', 'Rudolf Steiner Bildungszentrum gGmbH']",2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+07300515,Taunusstraße,1.0,['Ruppin-Grundschule'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+07300516,Odenwaldstraße,3.0,"['Stechlinsee-Grundschule', 'Rheingau-Gymnasium', 'Paul-Natorp-Gymnasium']",0.0,3.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+07300517,Perelsplatz,2.0,"['Friedrich-Bergius-Schule', 'BBA-Akademie für Immobilienwirtschaft e.V.']",1.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+07300618,Ceciliengärten,1.0,['Fläming-Grundschule'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+07300619,Grazer Platz,3.0,"['Friedenauer Gemeinschaftsschule', 'SPI Fachschule für Sozialpädagogik', 'Prignitz-Schule']",1.0,2.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+07400720,Gontermannstraße,2.0,"['OSZ Lotis (Logistik, Touristik und Steuern)', 'Grundschule auf dem Tempelhofer Feld']",0.0,2.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+07400721,Paradestraße,2.0,"['Tempelherren-Grundschule', 'Hugo-Gaudig-Schule']",0.0,2.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+07400822,Lindenhofsiedlung,2.0,"['Lindenhof-Grundschule', 'Campus Berufsbildung e.V.']",1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+07400823,Wittekindstraße,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+07400824,Bosepark,2.0,"['Schule am Berlinickeplatz (Integrierte Sekundarschule)', 'Askanisches Gymnasium']",0.0,2.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+07400825,Friedrich-Karl-Straße,2.0,"['Maria-Montessori-Grundschule', 'Freie Schule in Berlin (Grundschule)']",1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+07400826,Marienhöhe,2.0,"['Paul-Klee-Grundschule', 'Johanna-Eck-Schule (Integrierte Sekundarschule)']",0.0,2.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+07400927,Rathaus Tempelhof,3.0,"['Paul-Simmel-Grundschule', 'Humanistische Fachschule für Sozialpädagogik', 'WBS Training Schulen gGmbH']",2.0,1.0,0.0,0.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+07400928,Germaniagarten,1.0,['Marianne-Cohn-Schule'],0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+07501029,Ringstraße,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+07501030,Machonstraße,4.0,"['Mascha-Kaléko-Grundschule', 'Deutsch Skandinavische Gemeinschaftsschule', 'Luise-Henriette-Gymnasium', 'Eckener-Gymnasium']",1.0,3.0,0.0,0.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+07501031,Eisenacher Straße,1.0,['Schätzelberg-Grundschule'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+07501032,Imbrosweg,1.0,['Carl-Sonnenschein-Grundschule'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+07501133,Fritz-Werner-Straße,2.0,"['Rudolf-Hildebrand-Grundschule', 'Ikarus-Grundschule']",0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+07501134,Hundsteinweg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+07501135,Birnhornweg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+07601236,Marienfelder Allee Nordwest,3.0,"['Katholische Schule Sankt Alfons (Grundschule)', 'Katholische Schule Sankt Hildegard', 'Steinwald-Schule']",2.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+07601237,Kirchstraße,2.0,"['Kiepert-Grundschule', 'Solling-Schule']",0.0,2.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+07601238,Marienfelde Nordost,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+07601339,Tirschenreuther Ring West,1.0,['Gustav-Heinemann-Oberschule'],0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+07601340,Tirschenreuther Ring Ost,1.0,['Marienfelder Schule (Grundschule)'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+07601341,Diedersdorfer Weg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+07601442,Kettinger Straße,4.0,"['Annedore-Leber-Grundschule', 'Bruno-H.-Bürgel-Grundschule', 'Carl-Zeiss-Schule', 'Theodor-Haubach-Schule']",0.0,4.0,0.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+07601443,Töpchiner Weg,2.0,"['Grundschule im Taunusviertel', 'Grundschule am Dielingsgrund']",0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+07601544,John-Locke-Straße,3.0,"['Käthe-Kollwitz-Grundschule', 'Ulrich-von-Hutten-Gymnasium', 'Georg-Büchner-Gymnasium']",0.0,3.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+07601545,Nahariyastraße,1.0,['Nahariya-Grundschule'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+07601546,Franziusweg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+07601547,Horstwalder Straße,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+07601548,Wittelsbacherstraße,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+08100101,Hasenheide,1.0,['Karlsgarten-Schule (Grundschule)'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+08100102,Schillerpromenade Nord,2.0,"['Karl-Weise-Schule (Grundschule)', 'Johann-Georg-Elser-Schule (Grundschule)']",1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+08100103,Schillerpromenade Süd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+08100104,Wartheplatz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+08100105,Silbersteinstraße,1.0,['Hermann-Sander-Schule (Grundschule)'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+08100206,Flughafenstraße,3.0,"['Hermann-Boddin-Schule (Grundschule)', 'Evangelische Schule Neukölln (Integrierte Sekundarschule)', 'Albert-Schweitzer-Gymnasium']",1.0,2.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+08100207,Rollberg,2.0,"['Regenbogen-Schule (Grundschule)', 'Zuckmayer-Schule']",0.0,2.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+08100208,Körnerpark,3.0,"['Peter-Petersen-Schule (Grundschule)', 'Konrad-Agahd-Schule (Grundschule)', 'Albrecht-Dürer-Gymnasium']",0.0,3.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+08100209,Glasower Straße,3.0,"['Silberstein-Schule (Grundschule)', 'Cenfila gGmbH', 'MeineSchuleBerlin (Gemeinschaftsschule)']",2.0,1.0,0.0,0.0,1.0,0.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+08100310,Maybachufer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+08100311,Reuterplatz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+08100312,Weichselplatz,4.0,"['Elbe-Schule (Grundschule)', 'Gemeinschaftsschule auf dem Campus Rütli', 'Akademie Seehof GmbH - Private Berufsfachschule für Altenpflege', 'Ernst-Abbe-Gymnasium']",1.0,3.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+08100313,Bouchéstraße,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+08100314,Donaustraße,2.0,"['Rixdorfer Schule (Grundschule)', 'Theodor-Storm-Schule (Grundschule)']",0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+08100415,Ganghoferstraße,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+08100416,Alt-Rixdorf,2.0,"['Richard-Schule (Grundschule)', 'Katholische Schule Sankt Marien']",1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+08100417,Braunschweiger Straße,2.0,"['Löwenzahn-Schule (Grundschule)', 'Adolf-Reichwein-Schule']",0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+08100418,Hertzbergplatz,1.0,['Eduard-Mörike-Schule (Grundschule)'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+08100419,Treptower Straße Nord,2.0,"['Hans-Fallada-Schule (Grundschule)', 'Hans-Fallada-Schule']",0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+08100520,Weiße Siedlung,1.0,['Sonnen-Schule (Grundschule)'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+08100521,Schulenburgpark,4.0,"['Schule in der Köllnischen Heide (Grundschule)', 'Kepler-Schule', 'b-trend-setting gUG (haftungsbeschränkt) media & more', 'IB-Berlin-Brandenburg gGmbH - Medizinische Akademie Berlin']",2.0,2.0,0.0,0.0,1.0,0.0,1.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+08200622,Jahnstraße,2.0,"['Zürich-Schule (Grundschule)', 'Schule am Teltowkanal (Grundschule)']",0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+08200623,Park am Buschkrug,3.0,"['OSZ Informations- und Medizintechnik', 'Herman-Nohl-Schule (Grundschule)', 'Otto-Hahn-Schule']",0.0,3.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+08200624,Tempelhofer Weg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+08200725,Mohriner Allee Nord,1.0,['Alfred-Nobel-Schule'],0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+08200726,Hufeisensiedlung,1.0,['Fritz-Karsen-Schule (Gemeinschaftsschule)'],0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+08200727,Parchimer Allee Süd,4.0,"['Annedore-Leber-Oberschule', 'Bruno-Taut-Schule (Grundschule)', 'Schilling-Schule', 'Albert-Einstein-Gymnasium']",0.0,4.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+08200728,Ortolanweg,1.0,['Oskar-Heinroth-Schule (Grundschule)'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+08200729,Britzer Garten,1.0,['DAA - Deutsche Angestellten-Akademie GmbH'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+08200730,Handwerker-Siedlung,1.0,['Wetzlar-Schule (Grundschule)'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+08200831,Buckow West,1.0,['Schule am Sandsteinweg (Grundschule)'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+08200832,Buckow Mitte,5.0,"['Christoph-Ruden-Schule (Grundschule)', 'Heinrich-Mann-Schule', 'Schule am Bienwaldring', 'Schule an der Windmühle', 'Leonardo-da-Vinci-Gymnasium']",0.0,5.0,0.0,0.0,1.0,1.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
+08200833,Buckow Ost,3.0,"['Janusz-Korczak-Schule (Grundschule)', 'Lisa-Tetzner-Schule (Grundschule)', 'Schule am Hasenhegerweg']",0.0,3.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+08300934,Gropiusstadt Nord-West,1.0,['Walter-Gropius-Schule (Gemeinschaftsschule)'],0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+08300935,Gropiusstadt Süd-West,3.0,"['Hugo-Heimann-Schule (Grundschule)', 'Schule am Regenweiher (Grundschule)', 'Katholische Schule Sankt Marien (Grundschule)']",1.0,2.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+08301036,Gropiusstadt Mitte,3.0,"['Lise-Meitner-Schule (OSZ Chemie, Physik und Biologie)', 'Hermann-von-Helmholtz-Schule', 'Gemeinschaftsschule Campus Efeuweg']",0.0,3.0,0.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+08301037,Gropiusstadt Süd-Ost,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+08401138,Goldhähnchenweg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+08401139,Vogelviertel Süd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+08401140,Vogelviertel Nord,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+08401241,Blumenviertel,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+08401242,Zittauer Straße,3.0,"['Schliemann-Grundschule', 'Clay-Schule', 'Schule am Zwickauer Damm']",0.0,3.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+08401243,Alt-Rudow,2.0,"['Matthias-Claudius-Schule (Grundschule)', 'Schule am Fliederbusch (Grundschule)']",0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+08401244,Waßmannsdorfer Chaussee,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+08401245,Frauenviertel,2.0,"['Rose-Oehmichen-Schule (Grundschule)', 'Hannah-Arendt-Gymnasium']",0.0,2.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+08401246,Waltersdorfer Chaussee Ost,1.0,['Michael-Ende-Schule (Grundschule)'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+09100101,Alt-Treptow,4.0,"['Röntgen-Schule', 'Bouché-Schule (Grundschule)', 'Kiefholz-Grundschule', 'Grone - Bildungszentren Berlin GmbH - gemeinnützig']",1.0,3.0,0.0,0.0,2.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+09100202,Plänterwald West,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+09100203,Plänterwald Ost,1.0,['Sophie-Brahe-Gemeinschaftsschule'],0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+09100304,Baumschulenweg West,3.0,"['Schule am Heidekampgraben (Grundschule)', 'Sonnenblumen-Schule (Grundschule)', '12. Schule (Gymnasium)']",0.0,3.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+09100305,Baumschulenweg Ost,1.0,['Schule am Wildgarten'],0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+09100306,Späthsfelde,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+09100407,Johannisthal West,3.0,"['Schule am Ginkobaum (Grundschule)', 'Hans-Grade-Schule (Integrierte Sekundarschule)', 'Gebrüder-Montgolfier-Gymnasium']",0.0,3.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+09100408,Johannisthal Ost,1.0,['Melli-Beese-Schule (Grundschule)'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+09100409,Landschaftspark Adlershof,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+09200510,Helmholtz-Kiez,4.0,"['Hermann-Scheer-Schule (OSZ Wirtschaft)', 'Edison-Grundschule', 'Elisabeth-Schulen', 'Albatros-Schule']",1.0,3.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+09200511,Griechischer Park,2.0,"['Schule an der Wuhlheide (Grundschule)', 'Isaac-Newton-Schule (Integrierte Sekundarschule)']",0.0,2.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+09200512,Wuhlheide,1.0,['31. Schule (Grundschule)'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+09200613,Bahnhof Schöneweide,4.0,"['Schule an der alten Feuerwache (Grundschule)', 'Freie Waldorfschule Berlin-Südost', 'Freie Interkulturelle Waldorfschule Berlin', 'Archenhold-Gymnasium']",2.0,2.0,0.0,0.0,1.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+09200614,Oberspree,2.0,"['Mosaik-Grundschule', 'KreativitätsGrundschule Berlin Treptow']",2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+09200715,Wista,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+09200716,Dörpfeldstraße West,2.0,"['Heide-Schule (Grundschule)', 'Anna-Seghers-Schule (Gemeinschaftsschule)']",0.0,2.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+09200717,Dörpfeldstraße Ost,1.0,['Berufsbildungszentrum Chemie'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+09200818,Spindlersfeld,1.0,['Alexander-von-Humboldt-Gymnasium'],0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+09200819,Köllnische Vorstadt,2.0,"['Schule in der Köllnischen Vorstadt (Grundschule)', 'Schule an der Dahme (Integrierte Sekundarschule)']",0.0,2.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+09300920,Dorf Altglienicke,1.0,['Schule am Berg (Grundschule)'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+09300921,Preußen Siedlung,1.0,['Schule am Altglienicker Wasserturm (Grundschule)'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+09300922,Kosmos Viertel,2.0,"['Schule am Pegasuseck (Grundschule)', 'Anne-Frank-Gymnasium']",0.0,2.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+09300923,Kölner Viertel,1.0,['Schule am Mohnweg (Grundschule)'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+09301024,Falkenberg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+09301025,Alt-Bohnsdorf,2.0,"['Schule am Buntzelberg (Grundschule)', 'Fritz-Kühn-Schule (Integrierte Sekundarschule)']",0.0,2.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+09301126,Grünau,1.0,['Grünauer Gemeinschaftsschule'],0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+09301227,Karolinenhof,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+09301228,Schmöckwitz/Rauchfangswerder,1.0,['Schmöckwitzer Insel-Schule (Grundschule)'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+09401329,Kietzer Feld/Nachtheide,4.0,"['Wendenschloß-Schule (Grundschule)', 'Montessori Campus Berlin Köpenick (Gemeinschaftsschule)', 'Evangelische Schule Köpenick (Gymnasium)', 'W-I-R-Grundschule Pfefferwerk']",3.0,1.0,0.0,0.0,1.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+09401330,Wendenschloß,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+09401431,Allende I,2.0,"['Amtsfeld-Schule (Grundschule)', 'Emmy-Noether-Gymnasium']",0.0,2.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+09401432,Siedlung Kämmereiheide,1.0,['Flatow-Oberschule'],0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+09401433,Allende II,1.0,['Müggelschlößchen-Schule (Grundschule)'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+09401534,Altstadt Köpenick,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+09401635,Müggelheim,1.0,['Müggelheimer Schule (Grundschule)'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+09501736,Hirschgarten,1.0,['32. Schule (Grundschule)'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+09501737,Alt-Friedrichshagen,6.0,"['Müggelsee-Schule (Grundschule)', 'Friedrichshagener Schule (Grundschule)', 'Wilhelm-Bölsche-Schule (Integrierte Sekundarschule)', 'Evangelische Grundschule Friedrichshagen', 'Ahorn-Schule', 'Gerhart-Hauptmann-Gymnasium']",1.0,5.0,0.0,0.0,2.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0
+09501838,Rahnsdorf,1.0,['Schule an den Püttbergen (Grundschule)'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+09501939,Bahnhofstraße,2.0,"['BEST-Sabel-Oberschule', 'Bewegte Schule Köpenick (Grundschule)']",2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+09501940,Güterbahnhof Köpenick,1.0,['Hauptmann-von-Köpenick-Schule (Grundschule)'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+09501941,Friedrichshagener Straße,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+09502042,Mittelheide,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+09502043,Dammheide,2.0,"['Uhlenhorst-Grundschule', 'Merian-Schule (Integrierte Sekundarschule)']",0.0,2.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+10100101,Marzahn West,2.0,"['Falken-Grundschule', '34. Schule (Grundschule)']",0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10100102,Rosenbecker Straße,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10100103,Wittenberger Straße,2.0,"['Selma-Lagerlöf-Grundschule', 'Marcana-Schule (Gemeinschaftsschule)']",0.0,2.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10100104,Golliner Straße,4.0,"['Paavo-Nurmi-Grundschule', 'Ebereschen-Grundschule', 'Kerschensteiner-Schule', 'Johann-Julius-Hecker-Schule']",0.0,4.0,0.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+10100205,Gewerbegebiet Bitterfelder Straße,4.0,"['Gesellschaft für Pflege- und Sozialberufe gGmbH', 'D&B Dienstleistung und Bildung gGmbH', 'MANEGE gGmbH', 'dispo - Tf School of Social Work GmbH - KEIN Schulbetrieb']",4.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0
+10100206,Wuhletalstraße,1.0,['Gretel-Bergmann-Gemeinschaftsschule'],0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10100207,Ahrensfelder Berge,2.0,"['Wilhelm-Busch-Grundschule', 'Rudolf-Virchow-Schule']",0.0,2.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+10100208,Bürgerpark,2.0,"['Karl-Friedrich-Friesen-Grundschule', 'Tagore-Gymnasium']",0.0,2.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+10100209,Lea-Grundig-Straße,3.0,"['Grundschule am Bürgerpark', 'Freie Grundschule Marzahn', 'miwa DEMOKRATISCHE SCHULE']",2.0,1.0,0.0,0.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10100210,Marzahner Promenade,1.0,['Peter-Pan-Grundschule'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10100311,Marzahner Chaussee,3.0,"['Oscar-Tietz-Schule (OSZ Handel II)', 'DRK - Schule für soziale Berufe Berlin gGmbH', 'Chance Bildung, Jugend und Sport BJS gGmbH']",2.0,1.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+10100312,Springpfuhl,1.0,['Grundschule unter dem Regenbogen'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10100313,Alt-Marzahn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10100314,Auersbergstraße,1.0,['Grundschule an der Geißenweide'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10100315,Bärenstein,1.0,['Grundschule an der Mühle'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10100316,Landsberger Tor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10200417,Zossener Straße,2.0,"['Beatrix-Potter-Grundschule', 'Jean-Piaget-Schule']",0.0,2.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+10200418,Kyritzer Straße,2.0,"['Ernst-Haeckel-Schule', 'Sartre-Gymnasium']",0.0,2.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+10200419,Havelländer Ring,1.0,['Pusteblume-Grundschule'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10200420,Gut Hellersdorf,2.0,"['Caspar-David-Friedrich-Schule', 'Wolfgang-Amadeus-Mozart-Schule (Gemeinschaftsschule)']",0.0,2.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+10200421,Helle Mitte,1.0,['Rahel-Hirsch-Schule (OSZ Gesundheit/Medizin)'],0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+10200422,Hellersdorfer Promenade,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10200423,Böhlener Straße,2.0,"['Bücherwurm-Schule am Weiher (Grundschule)', 'Schule am Mummelsoll']",0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10200524,Adele-Sandrock-Straße,4.0,"['Kolibri-Grundschule', '36. Schule (Grundschule)', 'Sabine-Ball-Grundschule', 'Melanchthon-Gymnasium']",1.0,3.0,0.0,0.0,2.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+10200525,Schleipfuhl,2.0,"['Grundschule am Schleipfuhl', 'Konrad-Wachsmann-Schule']",0.0,2.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+10200526,Boulevard Kastanienallee,1.0,['Schule am Rosenhain'],0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10200627,Am Kienberg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10200628,Neue Grottkauer Straße,2.0,"['Grundschule am Hollerbusch', 'dreieins-Grundschule Berlin Kaulsdorf']",1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10200629,Teterower Ring,1.0,['Grundschule an der Wuhle'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10200630,Cecilienplatz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10300731,Oberfeldstraße,3.0,"['Johann-Strauss-Grundschule', 'Schule am Pappelhof', 'Wilhelm-von-Siemens-Gymnasium']",0.0,3.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+10300732,Buckower Ring,1.0,['Internationale Lomonossow-Schule Berlin Marzahn (Gemeinschaftsschule)'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10300733,Alt-Biesdorf,1.0,['Otto-Nagel-Gymnasium'],0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+10300734,Biesdorf Süd,2.0,"['Fuchsberg-Grundschule', 'Georg-Klingenberg-Schule']",0.0,2.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+10400835,Kaulsdorf Nord,1.0,['BEST-Sabel-Grundschule Kaulsdorf'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10400836,Alt-Kaulsdorf,1.0,['Franz-Carl-Achard-Grundschule'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10400837,Kaulsdorf Süd,1.0,['Ulmen-Grundschule'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10400938,Mahlsdorf Nord,1.0,['Mahlsdorfer Grundschule'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10400939,Alt-Mahlsdorf,2.0,"['Friedrich-Schiller-Grundschule', '13. Schule (Integrierte Sekundarschule)']",0.0,2.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+10400940,Elsensee,2.0,"['Kiekemal-Schule (Grundschule)', 'Freie Schule Berlin Mahlsdorf']",1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+10400941,Pilgramer Straße,1.0,['BEST-Sabel-Grundschule Mahlsdorf'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+11100101,Dörfer Malchow-Wartenberg,1.0,['Grüner Campus Malchow (Gemeinschaftsschule)'],0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+11100102,Dorf Falkenberg,1.0,['Barnim-Gymnasium'],0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+11100203,Falkenberg Ost,3.0,"['Feldmark-Schule (Grundschule)', 'Phönix-Grundschule  ', '14. Schule (Integrierte Sekundarschule)']",0.0,3.0,0.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+11100204,Falkenberg West,1.0,['Randow-Schule (Grundschule)'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+11100205,Wartenberg Süd,2.0,"['Matibi-Schule (Grundschule)', 'Fritz-Reuter-Schule']",0.0,2.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+11100206,Wartenberg Nord,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11100307,Zingster Straße Ost,2.0,"['Schule am Wäldchen (Grundschule)', 'Vincent-van-Gogh-Schule (Integrierte Sekundarschule)']",0.0,2.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+11100308,Zingster Straße West,1.0,['Schule im Ostseekarree (Grundschule)'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+11100309,Mühlengrund,2.0,"['Martin-Niemöller-Grundschule', 'Schule Am Breiten Luch']",0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+11200410,Malchower Weg,2.0,"['Schule Am Faulen See (Grundschule)', 'Paul-Schmidt-Schule (Integrierte Sekundarschule)']",0.0,2.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+11200411,Hauptstraße,1.0,['Orankesee Schule (Grundschule)'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+11200512,Orankesee,2.0,"['Schul- und Leistungssportzentrum Berlin (Sportforum)', 'Obersee-Schule (Grundschule)']",0.0,2.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+11200513,Große-Leege-Straße,1.0,['Manfred-von-Ardenne-Gymnasium'],0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+11200514,Landsberger Allee,4.0,"['Brodowin-Schule (Grundschule)', 'Schule am Wilhelmsberg (Grundschule)', 'Gutenberg-Schule', 'Philipp-Reis-Schule (Integrierte Sekundarschule)']",0.0,4.0,0.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+11200515,Weiße Taube,1.0,['39. Schule (Grundschule)'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+11300616,Hohenschönhauser Straße,1.0,['Nils-Holgersson-Schule'],0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+11300617,Fennpfuhlpark,2.0,"['Sonnenuhr-Schule (Grundschule)', '38. Schule (Grundschule) ']",0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+11300618,Storkower Bogen,2.0,"['Schulen der BAWI gGmbH', 'Johann-Gottfried-Herder-Gymnasium']",1.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+11300619,Rudolf-Seiffert-Park,3.0,"['13. Schule (Integrierte Sekundarschule)', 'Pädalogik GmbH - Fachschule für Sozialpädagogik', 'Schule am Fennpfuhl']",1.0,2.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+11300620,Fennpfuhl Ost,4.0,"['Schule am Roederplatz (Grundschule)', 'Hans-Rosenthal-Grundschule', 'Donner+ Kern gGmbH', 'Semper Fachschulen gGmbH']",2.0,2.0,0.0,0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0
+11300721,Herzbergstraße,2.0,"['Hein-Moeller-Schule (OSZ Energietechnik II)', 'Schule am grünen Grund']",0.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+11300722,Rathaus Lichtenberg,4.0,"['Schule im Gutspark (Grundschule)', 'Schule am Rathaus', 'Grundschule am Campus Hedwig', 'Carl-von-Linné-Schule']",1.0,3.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+11300723,Bornitzstraße,1.0,['Akademie für berufliche Bildung (AFBB) gGmbH'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+11300724,Roedeliusplatz,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11300725,Nibelungenviertel,3.0,"['Schule auf dem lichten Berg (Grundschule)', 'Gerda-Lagerlöf-Grundschule', 'Selma-Lagerlöf-Schule']",0.0,3.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+11300826,Frankfurter Allee Süd,3.0,"['Hermann-Gmeiner-Schule (Grundschule)', 'Mildred-Harnack-Schule', 'Katholische Schule Sankt Mauritius (Grundschule)']",1.0,2.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+11400927,Victoriastadt,1.0,['Friedrich-List-Schule (OSZ Büromanagement und Wirtschaftssprachen)'],0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+11400928,Nöldnerplatz,2.0,"['Max-Taut-Schule (OSZ Gebäude, Umwelt, Technik)', 'Schule an der Victoriastadt (Grundschule)']",0.0,2.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+11400929,Weitlingkiez,2.0,"['Robinson-Schule (Grundschule)', 'Immanuel-Kant-Gymnasium']",0.0,2.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+11400930,Zachertstraße,1.0,['Friedrichsfelder Schule (Grundschule)'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+11400931,Massower Straße,2.0,"['Bürgermeister-Ziethen-Schule (Grundschule)', 'Alexander-Puschkin-Schule']",0.0,2.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+11401032,Rosenfelder Ring,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11401033,Gensinger Straße,1.0,['Adam-Ries-Schule (Grundschule)'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+11401034,Tierpark,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11401135,Dolgenseestraße,3.0,"['Bernhard-Grzimek-Schule (Grundschule)', 'Schmetterlings-Grundschule', 'Seepark-Grundschule']",0.0,3.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+11401136,Volkradstraße,3.0,"['Grundschule am Tränkegraben', 'Schule-am-Tierpark (Integrierte Sekundarschule)', 'Evangelische Schule Lichtenberg (Grundschule)']",1.0,2.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+11401137,Erieseering,2.0,"['Paul-und-Charlotte-Kniese-Schule (Gemeinschaftsschule)', 'Paul-und-Charlotte-Kniese-Schule']",0.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+11501238,Rummelsburg,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11501339,Karlshorst West,2.0,"['Karlshorster Schule (Grundschule)', 'Hans-und-Hilde-Coppi-Gymnasium']",0.0,2.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+11501340,Karlshorst Nord,3.0,"['Lew-Tolstoi-Schule (Grundschule)', 'Richard-Wagner-Schule (Grundschule)', 'bbw Akademie für Betriebswirtschaftliche Weiterbildung GmbH']",1.0,2.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+11501341,Karlshorst Süd,1.0,['KreativitätsGrundschule Berlin Lichtenberg'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+12100101,Letteplatz,2.0,"['Georg-Schlesinger-Schule (OSZ Maschinen- und Fertigungstechnik)', 'Reginhard-Grundschule']",0.0,2.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+12100102,Hausotterplatz,1.0,['Hausotter-Grundschule'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+12100103,Breitkopfbecken,3.0,"['Kolumbus-Grundschule', 'Gustav-Freytag-Schule (Integrierte Sekundarschule)', 'Europäisches Gymnasium Bertha-von-Suttner']",0.0,3.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+12100204,Schäfersee,1.0,['Grundschule am Schäfersee'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+12100205,Teichstraße,2.0,"['Paul-Löbe-Schule', 'Friedrich-Engels-Gymnasium']",0.0,2.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+12100206,Humboldtstraße,1.0,['Till-Eulenspiegel-Grundschule'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+12200307,Reinickes Hof,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12200308,Meller Bogen,2.0,"['Hermann-Schulz-Grundschule', 'Max-Beckmann-Schule (Integrierte Sekundarschule)']",0.0,2.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+12200309,Scharnweberstraße,1.0,['Mark-Twain-Grundschule'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+12200310,Klixstraße,1.0,['Reineke-Fuchs-Grundschule'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+12200411,Schumacher-Quartier,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12200412,Waldidyll/Flughafensee,3.0,"['Alfred-Brehm-Grundschule', 'Euro Akademie Berlin', 'Mosaik Fachschule für Sozialpädagogik']",2.0,1.0,0.0,0.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+12200413,Tegel Süd,1.0,['Havelmüller-Grundschule'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+12200414,TXL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12200515,Alt-Tegel,4.0,"['Franz-Marc-Grundschule', 'Julius-Leber-Schule', 'Montessori Campus am Tegeler Forst', 'RENAFAN Akademie gGmbH']",2.0,2.0,0.0,0.0,1.0,0.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+12400616,Konradshöhe/Tegelort,1.0,['Grundschule am Tegelschen Ort'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+12400617,Alt-Heiligensee,2.0,"['Otfried-Preußler-Grundschule', 'Albrecht-Haushofer-Schule']",0.0,2.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+12400618,Heiligensee Nord,1.0,['Demokratische Schule X (Gemeinschaftsschule)'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+12400619,Heiligensee,3.0,"['Ellef-Ringnes-Grundschule', 'EJF - Fachschule für soziale Berufe', 'Schulfarm Insel Scharfenberg']",1.0,2.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+12400720,Frohnau West,2.0,"['Renée-Sintenis-Grundschule', 'Evangelische Schule Frohnau']",1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+12400721,Frohnau Ost,1.0,['Victor-Gollancz-Grundschule'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+12400722,Hermsdorf West,6.0,"['Gustav-Dreyer-Grundschule', 'Carl-Benz-Schule (Integrierte Sekundarschule)', 'Carl-Bosch-Schule', 'Elisabethstift-Schule (Gemeinschaftsschule)', 'Richard-Keller-Schule', 'Georg-Herwegh-Gymnasium']",1.0,5.0,0.0,0.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0
+12400723,Hermsdorf Ost/Waldsee,4.0,"['Grundschule am Fließtal', 'Elisabethstift-Schule', 'Fachschule für Sozialpädagogik am Elisabethstift Berlin', 'Waldseeschule']",2.0,2.0,0.0,0.0,1.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0
+12500824,Ziekowstraße/Freie Scholle,3.0,"['Hoffmann-von-Fallersleben-Grundschule', 'Humboldt-Gymnasium', 'Gabriele-von-Bülow-Gymnasium']",0.0,3.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+12500825,Borsigwalde,3.0,"['Benjamin-Franklin-Schule (Integrierte Sekundarschule)', 'G.A.L.B Förderung gGmbH', 'Stötzner-Schule']",1.0,2.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+12500926,Wittenau Mitte,2.0,"['Jean-Krämer-Schule (Integrierte Sekundarschule) Wittenau', 'Schule am Park']",0.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+12500927,Wittenau Nord,5.0,"['Emil-Fischer-Schule (OSZ Ernährung und Lebensmitteltechnik)', 'Ernst-Litfaß-Schule (OSZ Mediengestaltung und Medientechnologie)', 'Borsigwalder Grundschule', 'Toulouse-Lautrec-Schule', 'Romain-Rolland-Gymnasium']",0.0,5.0,0.0,2.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0
+12500928,Waidmannslust,5.0,"['Münchhausen-Grundschule', 'Katholische Schule Salvator', 'Alternativschule Berlin (Gemeinschaftsschule)', 'APEGO-Schule Berlin (Gemeinschaftsschule)', 'Eventus - Fachschule für Sozialpädagogik']",4.0,1.0,0.0,0.0,1.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+12500929,Lübars,1.0,['Grundschule am Vierrutenberg'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+12500930,Wittenau Süd,2.0,"['Peter-Witte-Grundschule', 'Ringelnatz-Grundschule']",0.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+12601031,Lübarser Straße,1.0,['Private Goethe-Schulen'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+12601032,Rollbergesiedlung,1.0,['Grundschule in den Rollbergen'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+12601133,Treuenbrietzener Straße,2.0,"['Charlie-Chaplin-Grundschule', 'Waldorfschule Märkisches Viertel Berlin']",1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+12601134,Märkisches Zentrum,6.0,"['Chamisso-Grundschule', 'Lauterbach-Grundschule', 'Bettina-von-Arnim-Schule', 'Campus Hannah Höch (Gemeinschaftsschule)', 'Lauterbach-Schule', 'Thomas-Mann-Gymnasium']",0.0,6.0,0.0,0.0,2.0,1.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+12601235,Dannenwalder Weg,1.0,['Märkische Grundschule'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+12601236,Schorfheidestraße,1.0,['Grundschule an der Peckwisch'],0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
