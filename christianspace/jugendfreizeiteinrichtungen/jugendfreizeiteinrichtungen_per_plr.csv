@@ -1,0 +1,543 @@
+PLR_ID,PLR_NAME,jfe_count,jfe_names,Jugendfreizeiteinrichtungen (JFE),PbS oder ASP oder Kinderfarm,freier Träger,öffentlicher Träger
+01100101,Stülerstraße,,,,,,
+01100102,Großer Tiergarten,,,,,,
+01100103,Lützowstraße,2.0,"['Kindertreff Villa Lützow', 'JFE Queer']",2.0,0.0,2.0,0.0
+01100104,Körnerstraße,1.0,['Jugendbögen Pohlstraße'],1.0,0.0,1.0,0.0
+01100205,Wilhelmstraße,1.0,['Jugendclub Ikarus'],1.0,0.0,1.0,0.0
+01100206,Unter den Linden,,,,,,
+01100207,Leipziger Straße,1.0,['Werk9'],1.0,0.0,1.0,0.0
+01100308,Charitéviertel,,,,,,
+01100309,Oranienburger Straße,2.0,"['Jugendkulturzentrum Weinmeisterhaus', 'RAA Schüler*innenclub am JGMM']",2.0,0.0,2.0,0.0
+01100310,Alexanderplatzviertel,,,,,,
+01100311,Karl-Marx-Allee,2.0,"['Platzmanagement Alexanderplatz', 'Pilotprojekt Inklusiver Schülerclub Charlotte Peffer Schule']",2.0,0.0,2.0,0.0
+01100312,Heine-Viertel West,1.0,['Kinder- & Jugendzentrum Die OASE'],1.0,0.0,0.0,1.0
+01100313,Heine-Viertel Ost,2.0,"['Mädchenzentrum ""Bärbel Patzig""', 'Kinderzentrum ""Ottokar""']",2.0,0.0,2.0,0.0
+01100414,Nordbahnhof,,,,,,
+01100415,Invalidenstraße,1.0,['JFE new way'],1.0,0.0,1.0,0.0
+01100416,Arkonaplatz,1.0,['Freizeithaus am Mauerpark'],1.0,0.0,0.0,1.0
+01200517,Huttenkiez,1.0,['Jugendklub Schlupfwinkel'],1.0,0.0,1.0,0.0
+01200518,Beusselkiez,2.0,"['Stadtschloss-Kids', 'Jugendhaus B8']",2.0,0.0,2.0,0.0
+01200519,Emdener Straße,,,,,,
+01200520,Bremer Straße,3.0,"['Wolfgang-Scheunemann-Haus', 'Karame e.V.', 'Schulgarten Moabit ']",3.0,0.0,2.0,1.0
+01200521,Zwinglistraße,1.0,['Otto-Spielplatz'],0.0,1.0,1.0,0.0
+01200522,Elberfelder Straße,1.0,['Mädchen-Kultur-Treff Dünja'],1.0,0.0,1.0,0.0
+01200623,Stephankiez,2.0,"['Kinder- und Jugendfreizeiteinrichtung ""ZilleKlub""', 'Moabiter Kinder-Hof']",1.0,1.0,2.0,0.0
+01200624,Heidestraße,,,,,,
+01200625,Lübecker Straße,,,,,,
+01200626,Thomasiusstraße,1.0,['Kiez-Kids-Klub K3'],1.0,0.0,1.0,0.0
+01200627,Zillesiedlung,,,,,,
+01200628,Lüneburger Straße,,,,,,
+01200629,Hansaviertel,,,,,,
+01300730,Drontheimer Straße,1.0,['frisbee- Kinder- und Stadtteiltreff'],1.0,0.0,1.0,0.0
+01300731,Koloniestraße,2.0,"['ASP-Panke', 'Jugendclub SOKO 116']",1.0,1.0,1.0,1.0
+01300732,Soldiner Straße,2.0,"['Putte', 'Fabrik Osloer Straße e.V. , NachbarschaftsEtage']",2.0,0.0,2.0,0.0
+01300733,Gesundbrunnen,3.0,"['Jugendclub Badstraße', 'MÄDEA - Stiftung SPI', 'AWO Kinder und Jugendclub Bellermannstraße']",3.0,0.0,2.0,1.0
+01300834,Brunnenstraße,,,,,,
+01300835,Humboldthain Süd,3.0,"['DRK Jugendzentrum Hussitenstr.', 'Abenteuerspielplatz Humboldthain', 'teeny Musik treff']",2.0,1.0,2.0,1.0
+01300836,Humboldthain Nordwest,2.0,"['DRK Jugendladen Wedding', 'Interkulturelles Kinder-, Jugend- und Familienzentrum SCHALASCH']",2.0,0.0,2.0,0.0
+01400937,Afrikanische Straße,,,,,,
+01400938,Kameruner Straße,1.0,['AktionsRaum'],1.0,0.0,1.0,0.0
+01400939,Glasgower Straße,2.0,"['Jugendetage 55', 'Mädchentreff TOWANDA']",2.0,0.0,2.0,0.0
+01400940,Schillerpark,1.0,['Fipp-Treff an der Gottfried-Röhl-Grundschule'],1.0,0.0,1.0,0.0
+01400941,Londoner Straße,,,,,,
+01400942,Westliche Müllerstraße,,,,,,
+01401043,Antonstraße,2.0,"['KiezKulturEtage', 'Palästina Jugendclub']",2.0,0.0,2.0,0.0
+01401044,Uferstraße,1.0,['Alba Club'],1.0,0.0,1.0,0.0
+01401045,Schwedenstraße,,,,,,
+01401046,Nordufer,,,,,,
+01401047,Sparrplatz,3.0,"['ASP Telux', 'Die Lynar', 'Kinderbunter Bauernhof']",1.0,2.0,2.0,1.0
+01401048,Leopoldplatz,1.0,['AWO-LeLeKie'],1.0,0.0,1.0,0.0
+01401049,Schulstraße,1.0,['Haus der Jugend'],1.0,0.0,1.0,0.0
+02100101,Askanischer Platz,,,,,,
+02100102,Mehringplatz,2.0,"['KMAntenne', 'JAM']",2.0,0.0,2.0,0.0
+02100103,Am Berlin Museum,1.0,['KiJuKuZ KinderJugendKulturZentrum Alte Feuerwache e.V.'],1.0,0.0,1.0,0.0
+02100104,Moritzplatz,1.0,"['Kinderfreizeithaus ""Kleine Ritterburg""']",1.0,0.0,1.0,0.0
+02100105,Prinzenstraße,,,,,,
+02100106,Wassertorplatz,3.0,"['Statthaus Böcklerpark', 'Loyal e.V.', 'Loyal e.V.']",3.0,0.0,3.0,0.0
+02200207,Gleisdreieck,1.0,['M*UFO5 Kinderfreizeit'],1.0,0.0,1.0,0.0
+02200208,Rathaus Yorckstraße,,,,,,
+02200209,Viktoriapark,,,,,,
+02200210,Urbanstraße,,,,,,
+02200211,Chamissokiez,2.0,"['DTK-Wasserturm', 'Kinder- und Jugendeinrichtung breakout']",2.0,0.0,1.0,1.0
+02200212,Graefekiez Süd,2.0,"['Jugendtreff drehpunkt', 'Kinderfreizeiteinrichtung Graefekids']",2.0,0.0,2.0,0.0
+02200213,Graefekiez Nord,,,,,,
+02300314,Oranienplatz,1.0,"['Sport-, Bildungs- und Kulturzentrum NaunynRitze']",1.0,0.0,1.0,0.0
+02300315,Lausitzer Platz,,,,,,
+02300316,Köpenicker Straße,1.0,['Circus Schatzinsel'],1.0,0.0,1.0,0.0
+02300417,Reichenberger Straße West,1.0,['Jugendhaus Chip'],1.0,0.0,1.0,0.0
+02300418,Reichenberger Straße Ost,2.0,"['OJA-Martha', 'Kinderbauernhof auf dem Görlitzer e.V.']",1.0,1.0,2.0,0.0
+02300419,Wrangelkiez,1.0,['Alia - Zentrum für Mädchen* und junge Frauen*'],1.0,0.0,1.0,0.0
+02400520,Barnimkiez,2.0,"['Jugendclub KoCa', 'O-35']",2.0,0.0,1.0,1.0
+02400521,Friedenstraße,,,,,,
+02400522,Richard-Sorge-Viertel,,,,,,
+02400623,Andreasviertel,,,,,,
+02400624,Weberwiese,3.0,"['Jugendclub Feuerwache', 'Phantalisa-Raum für Mädchen* und junge Frauen*', 'KJFE Regenbogenhaus']",3.0,0.0,2.0,1.0
+02400625,Wriezener Bahnhof,,,,,,
+02500726,Hausburgviertel,,,,,,
+02500727,Forckenbeckplatz,2.0,"['Liebig 19', 'Abenteuer- und Bauspielplatz ""Forcki""']",1.0,1.0,2.0,0.0
+02500728,Samariterviertel,1.0,['Mühle'],1.0,0.0,1.0,0.0
+02500729,Pettenkofer Straße,,,,,,
+02500830,Niederbarnimstraße,,,,,,
+02500831,Wismarplatz,,,,,,
+02500832,Traveplatz,,,,,,
+02500833,Boxhagener Platz,,,,,,
+02500834,Revaler Straße,3.0,"['KFE"" Känguruh""', 'Jugendclub Skandal', 'Zirkus Zack']",2.0,1.0,1.0,2.0
+02500835,Stralauer Kiez,2.0,"['Jugendhouse ELOK', 'Kinderfreizeiteinrichtung Die Nische']",1.0,1.0,2.0,0.0
+02500836,Stralauer Halbinsel,,,,,,
+03100101,Bucher Forst,1.0,['Moorwiewse'],0.0,1.0,1.0,0.0
+03100102,Klinikum Buch,,,,,,
+03100103,Karower Chaussee,2.0,"['JFE ""Der Alte""', 'Der Würfel']",2.0,0.0,1.0,1.0
+03200204,Blankenfelde,,,,,,
+03200205,Uhlandstraße,,,,,,
+03200206,Pastor-Niemöller-Platz,,,,,,
+03200207,Herthaplatz,1.0,['Schülerclub an der HasenGrund-Schule'],1.0,0.0,1.0,0.0
+03200308,Nisbléstraße,,,,,,
+03200309,Eddastraße,2.0,"['Oktopus', 'Riff im Oktopus']",2.0,0.0,1.0,1.0
+03200310,Krugpfuhl,2.0,"['Franz B.', 'SportJugendZentrum Buchholz']",1.0,1.0,2.0,0.0
+03300411,Karow Nord,2.0,"['K 14', 'Abenteuer- und Bauspielplatz INGE']",1.0,1.0,1.0,1.0
+03300412,Karow Bahnhof,,,,,,
+03300413,Karow Ost,,,,,,
+03300514,Blankenburg,2.0,"['Schülerclub Kunterbunt', 'Der Blankenburger']",2.0,0.0,1.0,1.0
+03300515,Blankenburger Süden,,,,,,
+03300516,Heinersdorf,1.0,['Schülerclub Zukunftswerkstatt Heinersdorf'],1.0,0.0,1.0,0.0
+03300517,Märchenland,,,,,,
+03400618,Rosenthal,1.0,['Landhaus Rosenthal'],1.0,0.0,0.0,1.0
+03400619,Wilhelmsruh,1.0,['Toller31'],1.0,0.0,0.0,1.0
+03400620,Schönholz,1.0,['Kinderbauernhof Pinke-Panke'],0.0,1.0,1.0,0.0
+03400721,Florakiez,2.0,"['Unabhängiges Jugendzentrum Pankow JUP e.V.', 'M24']",2.0,0.0,1.0,1.0
+03400722,Parkstraße,2.0,"['Kulti', 'Schabracke']",2.0,0.0,0.0,2.0
+03400723,Garbátyplatz,,,,,,
+03400724,Wolfshagener Straße,,,,,,
+03400725,Schlosspark,,,,,,
+03400826,Tiroler Viertel,2.0,"['tivolotte Mädchen*club', 'KiezKlub Pankow - Rangenburg']",1.0,1.0,2.0,0.0
+03400827,Trelleborger Viertel,1.0,['Upsala'],1.0,0.0,0.0,1.0
+03400828,Spiekermann Straße,,,,,,
+03400829,Arnold-Zweig-Straße,,,,,,
+03400830,Kissingenviertel,,,,,,
+03400831,Pankower Tor,,,,,,
+03500932,Bühringstraße,,,,,,
+03500933,Weißer See,,,,,,
+03500934,Weißenseer Spitze,1.0,['Jugendarbeit an Schule der ISS Heinz-Brandt-Schule'],1.0,0.0,1.0,0.0
+03500935,Behaimstraße,2.0,"['MAXIM', 'OC 23']",2.0,0.0,1.0,1.0
+03500936,Komponistenviertel Weißensee,2.0,"['Jugendclub Mahler 20', 'FiPP-Nische & FreiRaum']",2.0,0.0,2.0,0.0
+03501037,Rathaus Weißensee,2.0,"['HAUS DER JUGEND »BUNTE KUH« E.V.', 'Tanzwerkstatt no limit']",2.0,0.0,2.0,0.0
+03501038,Hansastraße,,,,,,
+03601139,Norweger Viertel,1.0,['Fallobst'],1.0,0.0,0.0,1.0
+03601140,Malmöer Straße,,,,,,
+03601141,Arnimplatz,,,,,,
+03601142,Falkplatz,2.0,"['Jugendfarm Moritzhof', 'Schülerclub am Falkplatz']",1.0,1.0,2.0,0.0
+03601243,Rodenbergstraße,,,,,,
+03601244,Humannplatz,1.0,['W24'],1.0,0.0,0.0,1.0
+03601245,Ostseestraße,1.0,['Medienzentrum Pankow'],1.0,0.0,1.0,0.0
+03601346,Gethsemanekirche,,,,,,
+03601347,Helmholtzplatz,1.0,['Lychi'],1.0,0.0,1.0,0.0
+03601348,Senefelderstraße,2.0,"['Popelbühne', 'MACHmit! Museum gGmbH']",2.0,0.0,2.0,0.0
+03601449,Michelangelostraße,1.0,['Atelier 89'],1.0,0.0,0.0,1.0
+03601450,Volkspark Prenzlauer Berg,,,,,,
+03601451,Anton-Saefkow-Park,,,,,,
+03601452,Velodrom,,,,,,
+03601453,Alter Schlachthof,,,,,,
+03701554,Teutoburger Platz,1.0,['GO'],1.0,0.0,0.0,1.0
+03701555,Sredzkistraße,,,,,,
+03701556,Kollwitzplatz,2.0,"['Königstadt', 'ASP Kolle 37']",1.0,1.0,1.0,1.0
+03701657,Thälmannpark,1.0,['DIMI 81'],1.0,0.0,1.0,0.0
+03701658,Christburger Straße,2.0,"['ASP Marie', 'Gartenhaus an der Marie']",2.0,0.0,0.0,2.0
+03701659,Immanuelkirchstraße,,,,,,
+03701660,Bötzowstraße,2.0,"['Rakäthe', 'Jugendfreizeiteinrichtung TwentyTwo']",2.0,0.0,2.0,0.0
+04100101,Jungfernheide/Plötzensee,2.0,"['Jugendclub Heckerdamm', 'Jugendclub Halemweg']",2.0,0.0,1.0,1.0
+04100102,Paul-Hertz-Siedlung,2.0,"['Mädchenorientiertes Freizeitgelände ""Jackie""', 'Café Nightflight']",2.0,0.0,1.0,1.0
+04200203,Olympiagelände,,,,,,
+04200204,Angerburger Allee,,,,,,
+04200205,Flatowallee,,,,,,
+04200206,Kranzallee,,,,,,
+04200207,Eichkamp,,,,,,
+04200308,Branitzer Platz,1.0,['Kinder-und Jugendtreff MANNA Westend'],0.0,1.0,1.0,0.0
+04200309,Neu Westend,,,,,,
+04200310,Fürstenplatz,,,,,,
+04200311,Königin-Elisabeth-Straße,,,,,,
+04300412,Schlossgarten,,,,,,
+04300413,Klausenerplatz,2.0,"['Offener Mädchen- und Frauentreff LiSA', 'Kinder- und Jugendclub Schloss19']",2.0,0.0,2.0,0.0
+04300414,Schloßstraße,1.0,['Schülerclub an der Schinkel-Grundschule'],1.0,0.0,1.0,0.0
+04300415,Lietzensee,,,,,,
+04300416,Amtsgerichtsplatz,1.0,['Multikulturelles Jugend Integrationszentrum e.V.'],1.0,0.0,1.0,0.0
+04300517,Tegeler Weg,1.0,['Schüler- und Jugendclub Kamminer Straße'],1.0,0.0,1.0,0.0
+04300518,Kaiserin-Augusta-Allee,,,,,,
+04300619,Alt-Lietzow,1.0,['Oase an der Ludwig-Cauer GS'],1.0,0.0,1.0,0.0
+04300620,Spreestadt,,,,,,
+04300621,Richard-Wagner-Straße,1.0,['Haus der Jugend Charlottenburg'],1.0,0.0,1.0,0.0
+04300622,Ernst-Reuter-Platz,,,,,,
+04300623,Karl-August-Platz,1.0,['Spielhaus Schillerstraße'],0.0,1.0,1.0,0.0
+04300624,Savignyplatz,,,,,,
+04400725,Güterbahnhof Grunewald,,,,,,
+04400726,Bismarckallee,,,,,,
+04400727,Flinsberger Platz,1.0,['Jugendfreizeiteinrichtung Plöner Straße'],1.0,0.0,1.0,0.0
+04400728,Hagenplatz,,,,,,
+04400729,Hundekehle,,,,,,
+04400830,Forckenbeckstraße,,,,,,
+04400831,Messelpark,,,,,,
+04400832,Breite Straße,,,,,,
+04400833,Schlangenbader Straße,1.0,['Kinder- und Jugendzentrum InSideOut'],1.0,0.0,1.0,0.0
+04400834,Binger Straße,,,,,,
+04400835,Rüdesheimer Platz,,,,,,
+04500936,Droysenstraße,,,,,,
+04500937,Halensee,,,,,,
+04500938,Hochmeisterplatz,,,,,,
+04500939,Eisenzahnstraße,2.0,"['Jugend- und Kulturzentrum Spirale', 'Abenteuerspielplatz Spirale']",1.0,1.0,2.0,0.0
+04501040,Hindemithplatz,,,,,,
+04501041,George-Grosz-Platz,,,,,,
+04501042,Breitscheidplatz,,,,,,
+04501043,Preußenpark,,,,,,
+04501044,Ludwigkirchplatz,1.0,['Motor- und Fahrradwerkstatt'],1.0,0.0,1.0,0.0
+04501045,Schaperstraße,1.0,['D3 Mädchentreff '],1.0,0.0,1.0,0.0
+04501146,Barstraße,,,,,,
+04501147,Leon-Jessel-Platz,,,,,,
+04501148,Brabanter Platz,1.0,['Haus der Jugend Anne Frank'],1.0,0.0,0.0,1.0
+04501149,Nikolsburger Platz,1.0,['pädagogisch betreuter Abenteuerspielplatz im Güntzelkiez'],0.0,1.0,1.0,0.0
+04501150,Wilhelmsaue,,,,,,
+04501151,Hildegardstraße,,,,,,
+04501152,Prager Platz,,,,,,
+04501153,Babelsberger Straße,,,,,,
+05100101,Hakenfelde Nord,3.0,"['JFE Aalemannufer', 'JFE QUADER', 'Wochenendöffnung Hakenfelde']",3.0,0.0,1.0,2.0
+05100102,Am Forstacker,,,,,,
+05100103,Mertensstraße,,,,,,
+05100104,Maselake,1.0,['Jugendtreff Havelspitze'],1.0,0.0,0.0,1.0
+05100105,Amorbacher Weg,,,,,,
+05100206,Griesingerstraße,,,,,,
+05100207,An der Tränke,,,,,,
+05100208,Im Spektefeld,2.0,"['Bauspielplatz Pionierstraße', 'Spekte 32']",1.0,1.0,1.0,1.0
+05100209,Westerwaldstraße,2.0,"['Klubhaus-Spandau', 'Wochenendöffnung Klubhaus-Spandau']",2.0,0.0,1.0,1.0
+05100210,Germersheimer Platz,1.0,['Kandeler 3'],1.0,0.0,1.0,0.0
+05100211,An der Kappe,1.0,['JugendTheaterWerkstatt Spandau'],1.0,0.0,1.0,0.0
+05100312,Eckschanze,,,,,,
+05100313,Eiswerder,,,,,,
+05100314,Kurstraße,3.0,"['Treffpunkt Lynarstraße', 'BDP-Mädchen*laden', 'BDP-Koeltzepark']",3.0,0.0,2.0,1.0
+05100315,Ackerstraße,2.0,"['Schülerclub Downtown', 'Spandauer Jugend e.V.']",2.0,0.0,2.0,0.0
+05100316,Carl-Schurz-Straße,3.0,"['Jugendgeschichtswerkstatt Spandau', 'Bildungsbrücken', 'Jugendberatungshaus Spandau']",3.0,0.0,2.0,1.0
+05100317,Freiheit,,,,,,
+05200418,Isenburger Weg,,,,,,
+05200419,Am Heideberg,,,,,,
+05200420,Staakener Straße,1.0,['Wochenendöffnung Staaken'],1.0,0.0,1.0,0.0
+05200421,Spandauer Straße,,,,,,
+05200422,Werkstraße,1.0,"[""Jona's Haus (Jona's Bildungsprojekte)""]",1.0,0.0,1.0,0.0
+05200423,Magistratsweg,1.0,['Geschwister-Scholl-Haus'],1.0,0.0,0.0,1.0
+05200524,Döberitzer Weg,,,,,,
+05200525,Pillnitzer Weg,1.0,['Freizeitgelände Cosmarweg'],1.0,0.0,0.0,1.0
+05200526,Rudolf-Wissell-Großsiedlung,,,,,,
+05200527,Maulbeerallee,3.0,"['KiK Jugendcafe', 'Jugendzentrum STEIG', 'CIA Spandau – Medienkompetenzzentrum']",3.0,0.0,1.0,2.0
+05200528,Weinmeisterhornweg,,,,,,
+05200629,Borkumer Straße,,,,,,
+05200630,Wilhelmstadt West,,,,,,
+05200631,Wilhelmstadt Ost,,,,,,
+05200632,Tiefwerder,,,,,,
+05200633,Graetschelsteig,,,,,,
+05200634,Börnicker Straße,2.0,"['JFE SJC Wildwuchs', 'KiezSport SJC Wildwuchs']",2.0,0.0,1.0,1.0
+05300735,Haveleck,,,,,,
+05300736,Zitadellenweg,4.0,"['Spielhaus Goldbeckweg', 'Jugendfreizeiteinrichtung Haveleck', 'Stadtteilarbeit Haselhorst', 'Wochenendöffnung Haselhorst']",4.0,0.0,2.0,2.0
+05300737,Gartenfelder Straße,,,,,,
+05300838,Gartenfeld,,,,,,
+05300839,Rohrdamm,1.0,['Jugendfreizeiteinrichtung CHiP 77'],1.0,0.0,1.0,0.0
+05300840,Nonnendammallee,,,,,,
+05300841,Siemensdamm,1.0,['Schülerhaus an der Schule an der Jungfernheide'],1.0,0.0,1.0,0.0
+05400942,Alt-Gatow,,,,,,
+05400943,Jägerallee,,,,,,
+05400944,Kladower Damm,,,,,,
+05400945,Kafkastraße,2.0,"['Jugendfreizeiteinrichtung Kladow', 'Wochenendangebote Chance e.V.']",1.0,1.0,1.0,1.0
+06100101,Fichtenberg,,,,,,
+06100102,Schloßstraße,1.0,['JFE Flemmingstraße'],1.0,0.0,0.0,1.0
+06100103,Markelstraße,,,,,,
+06100204,Munsterdamm,2.0,"['Kinder-und Jugendhaus Immenweg', 'Abenteueroase']",2.0,0.0,2.0,0.0
+06100205,Südende,,,,,,
+06100206,Stadtpark,1.0,['Campus Albert Schweitzer'],1.0,0.0,1.0,0.0
+06100207,Mittelstraße,,,,,,
+06100208,Bergstraße,,,,,,
+06100209,Feuerbachstraße,1.0,['Jugend- und Familienzentrum JeverNeun'],1.0,0.0,1.0,0.0
+06100210,Bismarckstraße,,,,,,
+06200311,Alt-Lankwitz,,,,,,
+06200312,Komponistenviertel Lankwitz,,,,,,
+06200313,Lankwitz Kirche,1.0,"['Kinder-, Jugend und Familientreff Käseglocke']",1.0,0.0,1.0,0.0
+06200314,Kaiser-Wilhelm-Straße,,,,,,
+06200315,Gallwitzallee,,,,,,
+06200316,Belßstraße,2.0,"['JFE Wichura', 'Jugendkulturbunker (""Bunker"")']",2.0,0.0,1.0,1.0
+06200317,Lankwitz Süd,,,,,,
+06200418,Landweg,,,,,,
+06200419,Thermometersiedlung,,,,,,
+06200420,Lichterfelde Süd,1.0,['Jugendwerkstatt '],1.0,0.0,0.0,1.0
+06200421,Königsberger Straße,1.0,['Villa Folke Bernadotte'],1.0,0.0,1.0,0.0
+06200422,Oberhofer Platz,1.0,['Kinder- und Jugendzentrum Dr. Wolf'],1.0,0.0,0.0,1.0
+06200423,Schütte-Lanz-Straße,1.0,"['KiJuNa - Kinder-, Jugend- und Nachbarschaftszentrum']",1.0,0.0,1.0,0.0
+06300524,Berlepschstraße,,,,,,
+06300525,Zehlendorf Süd,3.0,"[""Zephir's Sport-Attack"", 'Sonnenhaus', 'Kinder- und Jugendbetreuungshaus mit dem Inklusiven Abenteuerspielplatz']",1.0,2.0,3.0,0.0
+06300526,Zehlendorf Mitte,,,,,,
+06300527,Sundgauer Straße,1.0,['JFE Schottenburg'],1.0,0.0,1.0,0.0
+06300528,Teltower Damm,1.0,['Phoenix - Jugendfreizeiteinrichtung und MGH'],1.0,0.0,1.0,0.0
+06300629,Botanischer Garten,,,,,,
+06300630,Hindenburgdamm,,,,,,
+06300631,Goerzwerke,,,,,,
+06300632,Schweizer Viertel,,,,,,
+06300633,Augustaplatz,1.0,['JFE Albrecht Dürer'],1.0,0.0,0.0,1.0
+06300634,Lichterfelde West,,,,,,
+06400735,Wannsee,1.0,['JFE Wannsee'],1.0,0.0,0.0,1.0
+06400736,Düppel,1.0,['JFE Düppel'],1.0,0.0,0.0,1.0
+06400737,Nikolassee,,,,,,
+06400838,Krumme Lanke,1.0,['Haus der Jugend Zehlendorf '],1.0,0.0,0.0,1.0
+06400839,Fischerhüttenstraße,,,,,,
+06400840,Fischtal,,,,,,
+06400841,Zehlendorf Eiche,,,,,,
+06400842,Hüttenweg,1.0,['JFE Marshall'],1.0,0.0,0.0,1.0
+06400843,Thielallee,,,,,,
+06400844,Dahlem,,,,,,
+07100101,Wittenbergplatz,,,,,,
+07100102,Kalckreuthstraße,,,,,,
+07100103,Frobenstraße,2.0,"['Kinder- und Jugendfreizeiteinrichtung ""Villa Schöneberg""', 'Drugstore im SSB e.V.']",2.0,0.0,2.0,0.0
+07100204,Barbarossaplatz,2.0,"['Juxirkus Schöneberg', 'Café Pink']",2.0,0.0,2.0,0.0
+07100205,Alvenslebenstraße,,,,,,
+07100206,Großgörschenstraße,3.0,"['PallasT', 'Fresh 30', 'Treff 62 e.V.']",3.0,0.0,3.0,0.0
+07200307,Bayerischer Platz,,,,,,
+07200308,Volkspark (Rudolph-Wilde-Park),1.0,['FlipperKlub'],1.0,0.0,1.0,0.0
+07200409,Belziger Straße,2.0,"['Die Weiße Rose', 'KFE Lassenpark']",2.0,0.0,0.0,2.0
+07200410,Feurigstraße,,,,,,
+07200411,Julius-Leber-Brücke,1.0,['Halk Kösesi'],1.0,0.0,1.0,0.0
+07200412,Schöneberger Linse,,,,,,
+07200413,Cheruskerstraße,,,,,,
+07200414,Hohenfriedbergstraße,1.0,['KJFE HaiWays'],1.0,0.0,1.0,0.0
+07300515,Taunusstraße,,,,,,
+07300516,Odenwaldstraße,,,,,,
+07300517,Perelsplatz,1.0,['Kinder- und Jugendzentrum Burg'],1.0,0.0,0.0,1.0
+07300618,Ceciliengärten,,,,,,
+07300619,Grazer Platz,2.0,"['Menzeldorf ', 'Kifrie Medienwerkstatt']",1.0,1.0,2.0,0.0
+07400720,Gontermannstraße,,,,,,
+07400721,Paradestraße,1.0,['JUGI-Hessenring'],1.0,0.0,0.0,1.0
+07400822,Lindenhofsiedlung,1.0,['Jugendclub Lindenhof'],1.0,0.0,1.0,0.0
+07400823,Wittekindstraße,,,,,,
+07400824,Bosepark,2.0,"['Boseclub', 'Ev. Jugendzentrum Cafe Albrecht']",2.0,0.0,2.0,0.0
+07400825,Friedrich-Karl-Straße,1.0,['Kinderbauernhof NUSZ ufafabrik'],0.0,1.0,1.0,0.0
+07400826,Marienhöhe,,,,,,
+07400927,Rathaus Tempelhof,,,,,,
+07400928,Germaniagarten,1.0,['JFE Villa Holz '],1.0,0.0,1.0,0.0
+07501029,Ringstraße,,,,,,
+07501030,Machonstraße,1.0,['BEATS 42'],1.0,0.0,0.0,1.0
+07501031,Eisenacher Straße,1.0,['Jugendfreizeithaus Bungalow'],1.0,0.0,0.0,1.0
+07501032,Imbrosweg,1.0,['Jugendclub Sonnetreff'],1.0,0.0,1.0,0.0
+07501133,Fritz-Werner-Straße,,,,,,
+07501134,Hundsteinweg,,,,,,
+07501135,Birnhornweg,,,,,,
+07601236,Marienfelder Allee Nordwest,,,,,,
+07601237,Kirchstraße,3.0,"['3D Medienhaus', 'Firefly', 'no:name']",3.0,0.0,3.0,0.0
+07601238,Marienfelde Nordost,,,,,,
+07601339,Tirschenreuther Ring West,,,,,,
+07601340,Tirschenreuther Ring Ost,1.0,['Kinder - und Jugendclub haus of  fun'],1.0,0.0,0.0,1.0
+07601341,Diedersdorfer Weg,,,,,,
+07601442,Kettinger Straße,2.0,"['Kinder- und Jugendclub Barnetstraße ""G-HAUS""', 'Musikkeller Lichtenrade']",2.0,0.0,1.0,1.0
+07601443,Töpchiner Weg,,,,,,
+07601544,John-Locke-Straße,,,,,,
+07601545,Nahariyastraße,2.0,"['Jugendcafé am Dorfteich', 'Kinder- und Jugendhaus Lichtenrade']",2.0,0.0,1.0,1.0
+07601546,Franziusweg,1.0,['Lortzingclub'],1.0,0.0,1.0,0.0
+07601547,Horstwalder Straße,,,,,,
+07601548,Wittelsbacherstraße,,,,,,
+08100101,Hasenheide,,,,,,
+08100102,Schillerpromenade Nord,1.0,['Schilleria Mädchen*treff'],1.0,0.0,1.0,0.0
+08100103,Schillerpromenade Süd,,,,,,
+08100104,Wartheplatz,2.0,"['YO!22', 'Kinderwelt am Feld']",1.0,1.0,1.0,1.0
+08100105,Silbersteinstraße,,,,,,
+08100206,Flughafenstraße,1.0,['Blueberry'],1.0,0.0,1.0,0.0
+08100207,Rollberg,2.0,"['Lessinghöhe', 'MaDonna Mädchentreff']",2.0,0.0,1.0,1.0
+08100208,Körnerpark,2.0,"['Jugendclub JoJu 23', 'Interkultureller Kinder- und Familientreff/ Nachbarschaftsheim Neukölln e.V.']",2.0,0.0,2.0,0.0
+08100209,Glasower Straße,1.0,['Kindertreff Delbrücke'],1.0,0.0,1.0,0.0
+08100310,Maybachufer,1.0,[' elele-Nachbarschaftszentrum + Kiosk Reuterplatz'],1.0,0.0,1.0,0.0
+08100311,Reuterplatz,1.0,['Mädchen*laden ReachIna'],1.0,0.0,1.0,0.0
+08100312,Weichselplatz,1.0,['Kinder- und Jugendfreizeiteinrichtung Manege'],1.0,0.0,1.0,0.0
+08100313,Bouchéstraße,,,,,,
+08100314,Donaustraße,2.0,"['Schülerclub Rixdorfer Schule', 'Q*ube']",2.0,0.0,2.0,0.0
+08100415,Ganghoferstraße,1.0,['Street Players'],1.0,0.0,1.0,0.0
+08100416,Alt-Rixdorf,2.0,"['AWO JC ""Die Scheune""', 'Mädchenzentrum Szenenwechsel']",2.0,0.0,1.0,1.0
+08100417,Braunschweiger Straße,2.0,"['Rotes Haus', 'Schülerclub Adolf-Reichwein-Schule']",2.0,0.0,1.0,1.0
+08100418,Hertzbergplatz,1.0,['Schülerclub Eduard Mörike Grunschule '],1.0,0.0,1.0,0.0
+08100419,Treptower Straße Nord,1.0,['Wilde Rübe Pädagogisch betreuter ökologischer Spielplatz'],0.0,1.0,0.0,1.0
+08100520,Weiße Siedlung,1.0,['Clubhaus Phase II'],1.0,0.0,0.0,1.0
+08100521,Schulenburgpark,3.0,"['JKW Grenzallee', 'TheCorner  ', 'Kindertreff “Waschküche”']",3.0,0.0,3.0,0.0
+08200622,Jahnstraße,,,,,,
+08200623,Park am Buschkrug,2.0,"['JC Feuerwache', 'KCH Sternschnuppe']",2.0,0.0,0.0,2.0
+08200624,Tempelhofer Weg,,,,,,
+08200725,Mohriner Allee Nord,,,,,,
+08200726,Hufeisensiedlung,,,,,,
+08200727,Parchimer Allee Süd,,,,,,
+08200728,Ortolanweg,,,,,,
+08200729,Britzer Garten,,,,,,
+08200730,Handwerker-Siedlung,1.0,['Anton - Schmaus - Haus'],0.0,1.0,1.0,0.0
+08200831,Buckow West,,,,,,
+08200832,Buckow Mitte,,,,,,
+08200833,Buckow Ost,1.0,['Kinder- und Jugendclub & Abenteuerspielplatz Wildhüterweg'],0.0,1.0,0.0,1.0
+08300934,Gropiusstadt Nord-West,1.0,['Stadtvilla Global'],1.0,0.0,0.0,1.0
+08300935,Gropiusstadt Süd-West,,,,,,
+08301036,Gropiusstadt Mitte,3.0,"['Jugendfreizeiteinrichtung UFO', 'Jugendzentrum Wutzkyallee ', 'Mädchentreff Gropiusstadt/ Schilleria II']",3.0,0.0,2.0,1.0
+08301037,Gropiusstadt Süd-Ost,,,,,,
+08401138,Goldhähnchenweg,,,,,,
+08401139,Vogelviertel Süd,,,,,,
+08401140,Vogelviertel Nord,,,,,,
+08401241,Blumenviertel,,,,,,
+08401242,Zittauer Straße,1.0,['Kinderclubhaus Zwicke'],1.0,0.0,0.0,1.0
+08401243,Alt-Rudow,1.0,['Jugendclub NW80'],1.0,0.0,0.0,1.0
+08401244,Waßmannsdorfer Chaussee,,,,,,
+08401245,Frauenviertel,1.0,['JFE BlueBox'],1.0,0.0,1.0,0.0
+08401246,Waltersdorfer Chaussee Ost,,,,,,
+09100101,Alt-Treptow,3.0,"['CABUWAZI Alt-Treptow', 'JuKuZ Gérard Philipe', 'Abenteuer+Bauspielplatz Kuhfuß']",1.0,2.0,3.0,0.0
+09100202,Plänterwald West,,,,,,
+09100203,Plänterwald Ost,,,,,,
+09100304,Baumschulenweg West,2.0,"['Kinder- und Jugendclub RumBa', 'Schülerclub GS Heidekampgraben']",2.0,0.0,2.0,0.0
+09100305,Baumschulenweg Ost,,,,,,
+09100306,Späthsfelde,,,,,,
+09100407,Johannisthal West,,,,,,
+09100408,Johannisthal Ost,1.0,['Jugendzentrum Johannisthal'],1.0,0.0,1.0,0.0
+09100409,Landschaftspark Adlershof,,,,,,
+09200510,Helmholtz-Kiez,1.0,['Kindersozialprojekt Check-In '],1.0,0.0,1.0,0.0
+09200511,Griechischer Park,,,,,,
+09200512,Wuhlheide,2.0,"['JFE WK14', 'Kinderklub Keplerstr.']",2.0,0.0,0.0,2.0
+09200613,Bahnhof Schöneweide,3.0,"['Jugendschiff ReMiLi', 'ReMiLi Kids', 'Schülerclub Schule an der alten Feuerwache']",3.0,0.0,3.0,0.0
+09200614,Oberspree,,,,,,
+09200715,Wista,,,,,,
+09200716,Dörpfeldstraße West,,,,,,
+09200717,Dörpfeldstraße Ost,1.0,['KJFE Grimau'],1.0,0.0,0.0,1.0
+09200818,Spindlersfeld,,,,,,
+09200819,Köllnische Vorstadt,1.0,['Freizeitprojekt Rudi+ Rudi Plus'],1.0,0.0,1.0,0.0
+09300920,Dorf Altglienicke,,,,,,
+09300921,Preußen Siedlung,,,,,,
+09300922,Kosmos Viertel,2.0,"['JFE Base 24', 'Medienetage in JFE BASE24']",2.0,0.0,1.0,1.0
+09300923,Kölner Viertel,3.0,"['CABUWAZI Altglienicke', 'KJFE Fairness ', 'Abenteuerspielplatz und Kinderbauernhof Waslala']",1.0,2.0,3.0,0.0
+09301024,Falkenberg,,,,,,
+09301025,Alt-Bohnsdorf,1.0,"['KFE ""Walter Kroh""']",1.0,0.0,1.0,0.0
+09301126,Grünau,,,,,,
+09301227,Karolinenhof,,,,,,
+09301228,Schmöckwitz/Rauchfangswerder,,,,,,
+09401329,Kietzer Feld/Nachtheide,1.0,['Kietz Klub Köpenick'],1.0,0.0,1.0,0.0
+09401330,Wendenschloß,,,,,,
+09401431,Allende I,,,,,,
+09401432,Siedlung Kämmereiheide,,,,,,
+09401433,Allende II,1.0,['JFE Würfel'],1.0,0.0,0.0,1.0
+09401534,Altstadt Köpenick,1.0,['Flussbad Gartenstraße'],1.0,0.0,1.0,0.0
+09401635,Müggelheim,,,,,,
+09501736,Hirschgarten,,,,,,
+09501737,Alt-Friedrichshagen,1.0,['Spielhaus Friedrichshagen'],1.0,0.0,1.0,0.0
+09501838,Rahnsdorf,1.0,['JFE Mansarde'],1.0,0.0,1.0,0.0
+09501939,Bahnhofstraße,1.0,['alleins e.V.'],1.0,0.0,1.0,0.0
+09501940,Güterbahnhof Köpenick,2.0,"['Haus der Jugend Köpenick', 'Projekt beGEGeNung-Pol. Jugendbildung']",2.0,0.0,2.0,0.0
+09501941,Friedrichshagener Straße,,,,,,
+09502042,Mittelheide,,,,,,
+09502043,Dammheide,1.0,['KJFE Horn'],1.0,0.0,1.0,0.0
+10100101,Marzahn West,2.0,"['Jugendklub Wurzel', 'Abenteuerspielplatz Marzahn-West']",1.0,1.0,2.0,0.0
+10100102,Rosenbecker Straße,1.0,['JFE UNO'],1.0,0.0,1.0,0.0
+10100103,Wittenberger Straße,2.0,"['KINDERRING Berlin e.V. Kulturhochhaus Marzahn', 'Jugendzentrum Betonia']",2.0,0.0,2.0,0.0
+10100104,Golliner Straße,,,,,,
+10100205,Gewerbegebiet Bitterfelder Straße,1.0,['CABUWAZI-Springling'],1.0,0.0,1.0,0.0
+10100206,Wuhletalstraße,1.0,['Haus M3+'],1.0,0.0,1.0,0.0
+10100207,Ahrensfelder Berge,1.0,['Kinder- und Jugendhaus BOLLE'],1.0,0.0,1.0,0.0
+10100208,Bürgerpark,1.0,['DRK Club DRehKreuz - Offener Treff'],1.0,0.0,1.0,0.0
+10100209,Lea-Grundig-Straße,1.0,['JFE IMPULS'],1.0,0.0,1.0,0.0
+10100210,Marzahner Promenade,1.0,['JFE FAIR'],1.0,0.0,1.0,0.0
+10100311,Marzahner Chaussee,,,,,,
+10100312,Springpfuhl,,,,,,
+10100313,Alt-Marzahn,1.0,['Jugendkultureinrichtun die Klinke'],1.0,0.0,1.0,0.0
+10100314,Auersbergstraße,3.0,"['Kinder- und Jugendhaus Trinity', 'JFE ENERGY', 'Schülerclub der Grundschule an der Geißenweide']",3.0,0.0,3.0,0.0
+10100315,Bärenstein,1.0,['JFE TreibHaus'],1.0,0.0,1.0,0.0
+10100316,Landsberger Tor,1.0,['JFE Anna Landsberger '],1.0,0.0,1.0,0.0
+10200417,Zossener Straße,2.0,"['Interkulturelles Zentrum Haus Babylon                    Babel e.V.', 'JFE Tresor']",2.0,0.0,2.0,0.0
+10200418,Kyritzer Straße,,,,,,
+10200419,Havelländer Ring,,,,,,
+10200420,Gut Hellersdorf,3.0,"['Jugendfreizeiteinrichtung Joker', 'Jugendfreizeiteinrichtung SENFTE 10', 'Schülerklub der Caspar-David-Friedrich-Schule']",3.0,0.0,3.0,0.0
+10200421,Helle Mitte,,,,,,
+10200422,Hellersdorfer Promenade,3.0,"['Mehrgenerationenhaus ""Buntes Haus""', 'Hella - Klub für Mädchen* und junge Frauen*', 'Eastend-Berlin']",3.0,0.0,3.0,0.0
+10200423,Böhlener Straße,,,,,,
+10200524,Adele-Sandrock-Straße,1.0,"['JFE ""Die Nische""']",1.0,0.0,1.0,0.0
+10200525,Schleipfuhl,2.0,"['Naturschutzzentrum Schleipfuhl', 'Schülerclub ""Schatzkarte""']",2.0,0.0,2.0,0.0
+10200526,Boulevard Kastanienallee,2.0,"['Jugendfreizeiteinrichtung U5', 'Schülerzentrum Kraftwerk']",2.0,0.0,2.0,0.0
+10200627,Am Kienberg,1.0,['KJFE im KOMPASS'],1.0,0.0,1.0,0.0
+10200628,Neue Grottkauer Straße,1.0,['SportJugendClub Hellersdorf'],1.0,0.0,1.0,0.0
+10200629,Teterower Ring,1.0,['KJFE Lubminer'],1.0,0.0,1.0,0.0
+10200630,Cecilienplatz,,,,,,
+10300731,Oberfeldstraße,,,,,,
+10300732,Buckower Ring,1.0,['JuKiez96'],1.0,0.0,1.0,0.0
+10300733,Alt-Biesdorf,,,,,,
+10300734,Biesdorf Süd,1.0,['Freizeithaus Balzerplatz'],1.0,0.0,1.0,0.0
+10400835,Kaulsdorf Nord,1.0,['KJFE Villa Pelikan'],1.0,0.0,1.0,0.0
+10400836,Alt-Kaulsdorf,1.0,"['CVJM Kaulsdorf Berlin e.V.,  WandelBAR']",1.0,0.0,1.0,0.0
+10400837,Kaulsdorf Süd,,,,,,
+10400938,Mahlsdorf Nord,,,,,,
+10400939,Alt-Mahlsdorf,,,,,,
+10400940,Elsensee,,,,,,
+10400941,Pilgramer Straße,1.0,['Jugendfreizeiteinrichtung Am Hultschi'],1.0,0.0,1.0,0.0
+11100101,Dörfer Malchow-Wartenberg,,,,,,
+11100102,Dorf Falkenberg,,,,,,
+11100203,Falkenberg Ost,1.0,['Abenteuerspielplatz Fort Robinson'],0.0,1.0,1.0,0.0
+11100204,Falkenberg West,2.0,"['JFE Welseclub', 'Schülerclub ""Carzudel""']",2.0,0.0,2.0,0.0
+11100205,Wartenberg Süd,2.0,"['JFE Leos Hütte', 'Kinder- und Jugendklub Holzwurmhaus (ASP)']",2.0,0.0,1.0,1.0
+11100206,Wartenberg Nord,1.0,['Jugendfreizeiteinrichtung Mikado'],1.0,0.0,1.0,0.0
+11100307,Zingster Straße Ost,5.0,"['MädchenSportZentrum Pia Olymp', 'Kinderzirkus CABUWAZI  Hohenschönhausen', 'Kietzoase', 'JFETrialog', 'Spik Jugendclub']",5.0,0.0,5.0,0.0
+11100308,Zingster Straße West,2.0,"['Ausblick e.V. Jugendclub für Menschen mit und ohne geistige Behinderung', 'JFE Full House']",2.0,0.0,2.0,0.0
+11100309,Mühlengrund,1.0,['JFE Kontaktladen VIP'],1.0,0.0,1.0,0.0
+11200410,Malchower Weg,1.0,['JFE FUNKLOCH'],1.0,0.0,1.0,0.0
+11200411,Hauptstraße,1.0,"['Jugendfreizeiteinrichtung ""Die Arche""']",1.0,0.0,0.0,1.0
+11200512,Orankesee,,,,,,
+11200513,Große-Leege-Straße,,,,,,
+11200514,Landsberger Allee,3.0,"['Kinderclub, Christliches Sozialwerk Berlin e.V.', 'Offener Club Berlin', 'Projekt NEO im Interkulturellen Garten']",3.0,0.0,3.0,0.0
+11200515,Weiße Taube,,,,,,
+11300616,Hohenschönhauser Straße,1.0,['Judith Auer Club'],1.0,0.0,1.0,0.0
+11300617,Fennpfuhlpark,2.0,"['Kinderclub MFG', 'Jugenmigrationsdienst des CJD Berlin Brandenburg']",2.0,0.0,2.0,0.0
+11300618,Storkower Bogen,,,,,,
+11300619,Rudolf-Seiffert-Park,1.0,['Jugendfreizeiteinrichtung Willi Sänger'],1.0,0.0,1.0,0.0
+11300620,Fennpfuhl Ost,1.0,['Jugendklub Tube'],1.0,0.0,1.0,0.0
+11300721,Herzbergstraße,,,,,,
+11300722,Rathaus Lichtenberg,1.0,['Jugendklub Linse'],1.0,0.0,1.0,0.0
+11300723,Bornitzstraße,2.0,"['JFE HolzHaus ""kids-OASE""', 'magda Caritas Jugendzentrum']",2.0,0.0,2.0,0.0
+11300724,Roedeliusplatz,,,,,,
+11300725,Nibelungenviertel,,,,,,
+11300826,Frankfurter Allee Süd,2.0,"['Caritas Kinder- und Jugendzentrum Steinhaus', 'Schülerclub Lichtpunkt']",2.0,0.0,2.0,0.0
+11400927,Victoriastadt,2.0,"['Kinderhaus NAPF', 'Jugendhaus Phönix']",2.0,0.0,2.0,0.0
+11400928,Nöldnerplatz,1.0,"['SportJugendBildungsZentrum ""Lücke""']",1.0,0.0,1.0,0.0
+11400929,Weitlingkiez,1.0,"['Jugend- und Familienzentrum ""JuFaZ""']",1.0,0.0,1.0,0.0
+11400930,Zachertstraße,,,,,,
+11400931,Massower Straße,1.0,['Schülerclub Bürgermeister-Ziehten Schule'],1.0,0.0,1.0,0.0
+11401032,Rosenfelder Ring,,,,,,
+11401033,Gensinger Straße,2.0,"['KJFE Falkenburg', 'JFE Orange Flip']",2.0,0.0,2.0,0.0
+11401034,Tierpark,,,,,,
+11401135,Dolgenseestraße,1.0,['JFE Betonoase'],1.0,0.0,0.0,1.0
+11401136,Volkradstraße,2.0,"['Jugendfunkhaus', '""eastside"" Club']",2.0,0.0,2.0,0.0
+11401137,Erieseering,2.0,"['JFE ""NTC"" ', 'Inklusiver Abenteuerspielplatz ""BauwagenGang""']",1.0,1.0,1.0,1.0
+11501238,Rummelsburg,,,,,,
+11501339,Karlshorst West,2.0,"['IN VIA Mädchentreff', 'Jugendklub Rainbow']",2.0,0.0,2.0,0.0
+11501340,Karlshorst Nord,,,,,,
+11501341,Karlshorst Süd,,,,,,
+12100101,Letteplatz,2.0,"['Kinderzentrum Pankower Allee', 'Jugendzentrum Lette51']",2.0,0.0,1.0,1.0
+12100102,Hausotterplatz,1.0,['KreativFabrik - Kinder- und Familienzentrum'],1.0,0.0,1.0,0.0
+12100103,Breitkopfbecken,,,,,,
+12100204,Schäfersee,1.0,['Familienzentrum Haus am See'],1.0,0.0,0.0,1.0
+12100205,Teichstraße,1.0,['Haus der Jugend - Fuchsbau'],1.0,0.0,0.0,1.0
+12100206,Humboldtstraße,,,,,,
+12200307,Reinickes Hof,,,,,,
+12200308,Meller Bogen,2.0,"['Auguste Mädchen- und Frauentreff', 'Laiv - offener Kinder- und Jugendtreff']",2.0,0.0,2.0,0.0
+12200309,Scharnweberstraße,,,,,,
+12200310,Klixstraße,1.0,['QuäX Kinder- und Jugendclub von kein Abseits!'],1.0,0.0,1.0,0.0
+12200411,Schumacher-Quartier,,,,,,
+12200412,Waldidyll/Flughafensee,,,,,,
+12200413,Tegel Süd,2.0,"['Freizeit-, Sport- und Kulturzentrum METRONOM', 'meredo']",2.0,0.0,0.0,2.0
+12200414,TXL,,,,,,
+12200515,Alt-Tegel,,,,,,
+12400616,Konradshöhe/Tegelort,,,,,,
+12400617,Alt-Heiligensee,,,,,,
+12400618,Heiligensee Nord,,,,,,
+12400619,Heiligensee,1.0,['Kinder- und Jugendfreizeitstätte Dachsbau'],1.0,0.0,0.0,1.0
+12400720,Frohnau West,,,,,,
+12400721,Frohnau Ost,1.0,"['""Teestube"" Evangelische Jugend Kirchengemeinde Frohnau']",1.0,0.0,1.0,0.0
+12400722,Hermsdorf West,,,,,,
+12400723,Hermsdorf Ost/Waldsee,,,,,,
+12500824,Ziekowstraße/Freie Scholle,1.0,['Pfadfinderheim Berlin Brandenburg e.V.'],1.0,0.0,1.0,0.0
+12500825,Borsigwalde,1.0,['Tietzia'],1.0,0.0,0.0,1.0
+12500926,Wittenau Mitte,,,,,,
+12500927,Wittenau Nord,1.0,['Mädchen- und JungenSportZentrum Centre Talma'],1.0,0.0,0.0,1.0
+12500928,Waidmannslust,,,,,,
+12500929,Lübars,1.0,['Alte Fasanerie - Familienfarm Lübars'],1.0,0.0,1.0,0.0
+12500930,Wittenau Süd,,,,,,
+12601031,Lübarser Straße,,,,,,
+12601032,Rollbergesiedlung,1.0,['Streethouse'],1.0,0.0,0.0,1.0
+12601133,Treuenbrietzener Straße,,,,,,
+12601134,Märkisches Zentrum,4.0,"['comX', 'Kinder- & Jugendhalle MV', 'Abenteuerspielplatz im MV', 'Sportjugendclub Reinickendorf']",2.0,2.0,3.0,1.0
+12601235,Dannenwalder Weg,1.0,['CVJM Jugendhaus Baracke'],1.0,0.0,1.0,0.0
+12601236,Schorfheidestraße,,,,,,

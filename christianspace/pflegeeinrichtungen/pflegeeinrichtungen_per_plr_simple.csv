@@ -1,0 +1,543 @@
+PLR_ID,PLR_NAME,pe_count,pe_capacity,pe_names
+01100101,Stülerstraße,,,
+01100102,Großer Tiergarten,,,
+01100103,Lützowstraße,2.0,285.0,"['Pro Seniore Krankenheim Genthiner Straße', 'Pflege & Wohnen Elisabeth']"
+01100104,Körnerstraße,,,
+01100205,Wilhelmstraße,,,
+01100206,Unter den Linden,,,
+01100207,Leipziger Straße,,,
+01100308,Charitéviertel,,,
+01100309,Oranienburger Straße,,,
+01100310,Alexanderplatzviertel,,,
+01100311,Karl-Marx-Allee,,,
+01100312,Heine-Viertel West,,,
+01100313,Heine-Viertel Ost,1.0,31.0,['Pflegewerk Senioren Centrum Haus Michaelkirchstrasse']
+01100414,Nordbahnhof,,,
+01100415,Invalidenstraße,,,
+01100416,Arkonaplatz,1.0,124.0,"[""Stephanus gGmbH Haus am Weinbergsweg 'Sala und Martin Kochmann'""]"
+01200517,Huttenkiez,,,
+01200518,Beusselkiez,1.0,74.0,['Pflegeheim Huttenstraße GmbH']
+01200519,Emdener Straße,,,
+01200520,Bremer Straße,,,
+01200521,Zwinglistraße,,,
+01200522,Elberfelder Straße,1.0,28.0,['Haus Christophorus']
+01200623,Stephankiez,,,
+01200624,Heidestraße,,,
+01200625,Lübecker Straße,1.0,56.0,['Pflegewerk Senioren Centrum gGmbH Turmstraße']
+01200626,Thomasiusstraße,,,
+01200627,Zillesiedlung,,,
+01200628,Lüneburger Straße,,,
+01200629,Hansaviertel,,,
+01300730,Drontheimer Straße,1.0,96.0,['Seniorendomizil an der Panke']
+01300731,Koloniestraße,,,
+01300732,Soldiner Straße,1.0,126.0,['Seniorenheim Grüntal']
+01300733,Gesundbrunnen,,,
+01300834,Brunnenstraße,,,
+01300835,Humboldthain Süd,2.0,246.0,"['Lazarus-Haus Berlin', 'Domizil am Gartenplatz']"
+01300836,Humboldthain Nordwest,1.0,125.0,['Seniorenpflegeheim Wedding']
+01400937,Afrikanische Straße,1.0,200.0,['DOMICIL-Seniorenpflegeheim Afrikanische Straße GmbH']
+01400938,Kameruner Straße,,,
+01400939,Glasgower Straße,1.0,80.0,['Pflege und Wohnen Schillerpark']
+01400940,Schillerpark,1.0,96.0,['Senioren-Residenz Schwyzer Straße']
+01400941,Londoner Straße,1.0,126.0,['DOMICIL-Seniorenpflegeheim Müllerstraße']
+01400942,Westliche Müllerstraße,,,
+01401043,Antonstraße,1.0,228.0,['Gesundheits- und Pflegezentrum Goldenherz']
+01401044,Uferstraße,,,
+01401045,Schwedenstraße,,,
+01401046,Nordufer,,,
+01401047,Sparrplatz,,,
+01401048,Leopoldplatz,,,
+01401049,Schulstraße,,,
+02100101,Askanischer Platz,1.0,68.0,['Seniorenzentrum St. Johannes Berlin Pflegeheim']
+02100102,Mehringplatz,,,
+02100103,Am Berlin Museum,,,
+02100104,Moritzplatz,,,
+02100105,Prinzenstraße,,,
+02100106,Wassertorplatz,,,
+02200207,Gleisdreieck,,,
+02200208,Rathaus Yorckstraße,,,
+02200209,Viktoriapark,,,
+02200210,Urbanstraße,,,
+02200211,Chamissokiez,1.0,180.0,['Pflegewohnheim Am Kreuzberg']
+02200212,Graefekiez Süd,,,
+02200213,Graefekiez Nord,2.0,160.0,"['Alten-und Pflegeheim Lutherheim', 'AGAPLESION Bethanien Haus Bethesda']"
+02300314,Oranienplatz,1.0,30.0,['Herzogin Luise Haus']
+02300315,Lausitzer Platz,,,
+02300316,Köpenicker Straße,,,
+02300417,Reichenberger Straße West,1.0,69.0,['Pflegezentrum St. Marienhaus Kreuzberg']
+02300418,Reichenberger Straße Ost,,,
+02300419,Wrangelkiez,,,
+02400520,Barnimkiez,2.0,371.0,"['pro seniore Residenz Am Märchenbrunnen', 'Hauptstadtpflege Haus Jahreszeiten']"
+02400521,Friedenstraße,,,
+02400522,Richard-Sorge-Viertel,2.0,319.0,"['Hauptstadtpflege Haus Weidenweg', 'Domicil-Seniorenpflegeheim Am Frankfurter Tor GmbH']"
+02400623,Andreasviertel,1.0,100.0,['Seniorenzentrum Bethel Friedrichshain gGmbH']
+02400624,Weberwiese,,,
+02400625,Wriezener Bahnhof,,,
+02500726,Hausburgviertel,,,
+02500727,Forckenbeckplatz,1.0,166.0,['Stephanus gGmbH Dr. Harnisch-Haus']
+02500728,Samariterviertel,,,
+02500729,Pettenkofer Straße,,,
+02500830,Niederbarnimstraße,,,
+02500831,Wismarplatz,,,
+02500832,Traveplatz,,,
+02500833,Boxhagener Platz,,,
+02500834,Revaler Straße,,,
+02500835,Stralauer Kiez,,,
+02500836,Stralauer Halbinsel,1.0,181.0,['Senioren-u.Therapiezentrum Haus an der Spree']
+03100101,Bucher Forst,,,
+03100102,Klinikum Buch,2.0,227.0,"['Paritätisches Seniorenwohnen am Schloßpark', 'RENAFAN ServiceLeben LudwigPark - Pflegeheim']"
+03100103,Karower Chaussee,1.0,140.0,['Paritätisches Seniorenwohnen am Rosengarten']
+03200204,Blankenfelde,,,
+03200205,Uhlandstraße,1.0,120.0,['Stephanus gGmbH Elisabeth Diakoniewerk (Dorotheahaus/ Haus Immanuel)']
+03200206,Pastor-Niemöller-Platz,,,
+03200207,Herthaplatz,,,
+03200308,Nisbléstraße,,,
+03200309,Eddastraße,,,
+03200310,Krugpfuhl,,,
+03300411,Karow Nord,,,
+03300412,Karow Bahnhof,,,
+03300413,Karow Ost,1.0,19.0,['Epikur Alten- und Pflegeheim']
+03300514,Blankenburg,1.0,193.0,['Häuser Helene Schweitzer-Bresslau und Günsbach']
+03300515,Blankenburger Süden,,,
+03300516,Heinersdorf,1.0,70.0,['Haus  Ingrid-Tagespflege und Pflegeeinrichtung für Senioren Berlin-Heinersdorf GmbH']
+03300517,Märchenland,,,
+03400618,Rosenthal,,,
+03400619,Wilhelmsruh,,,
+03400620,Schönholz,1.0,76.0,['Stephanus gGmbH Seniorenzentrum am Bürgerpark']
+03400721,Florakiez,2.0,260.0,"[""Altenpflegeheim 'Haus Ruth'"", 'Fürsorge im Alter Seniorenresidenz Haus Pankow']"
+03400722,Parkstraße,1.0,191.0,['Domicil-Seniorenpflegeheim Am Schlosspark GmbH']
+03400723,Garbátyplatz,,,
+03400724,Wolfshagener Straße,,,
+03400725,Schlosspark,2.0,125.0,"['Pflegewohnheim Dr. Günter Hesse', ""Alten- und Pflegeheim 'Am Schlossgarten'""]"
+03400826,Tiroler Viertel,,,
+03400827,Trelleborger Viertel,1.0,269.0,"[""Senioren- und Therapiezentrum 'Haus am Park'""]"
+03400828,Spiekermann Straße,,,
+03400829,Arnold-Zweig-Straße,1.0,78.0,['Haus Alma Via']
+03400830,Kissingenviertel,,,
+03400831,Pankower Tor,,,
+03500932,Bühringstraße,1.0,124.0,['Fürsorge im Alter Seniorenresidenz Weißensee']
+03500933,Weißer See,2.0,194.0,"['ABC Blindenwohnstätte in Weißensee gemeinnützige Betriebs GmbH', 'Stephanus gGmbH  Ernst-Berendt-Haus']"
+03500934,Weißenseer Spitze,,,
+03500935,Behaimstraße,,,
+03500936,Komponistenviertel Weißensee,,,
+03501037,Rathaus Weißensee,1.0,100.0,"[""Seniorenpflegeheim 'Haus Kaysersberg'""]"
+03501038,Hansastraße,1.0,120.0,['Bischof-Ketteler-Haus']
+03601139,Norweger Viertel,1.0,150.0,['Seniorenheim Stavangerstraße 26']
+03601140,Malmöer Straße,,,
+03601141,Arnimplatz,,,
+03601142,Falkplatz,,,
+03601243,Rodenbergstraße,1.0,74.0,['Pflegewerk Senioren Centrum Haus Wisbyer Straße']
+03601244,Humannplatz,,,
+03601245,Ostseestraße,2.0,174.0,"['Haus am Ostseeplatz', 'Senterra Pflegezentrum']"
+03601346,Gethsemanekirche,,,
+03601347,Helmholtzplatz,,,
+03601348,Senefelderstraße,,,
+03601449,Michelangelostraße,4.0,467.0,"['Seniorenheim Gürtelstraße 32a', 'Seniorenheim Gürtelstraße 32', 'Komplexe Pflegeeinrichtung Friedrich W. Büttner', 'Seniorenstiftung PflegeWohnen Haus 33']"
+03601450,Volkspark Prenzlauer Berg,,,
+03601451,Anton-Saefkow-Park,,,
+03601452,Velodrom,1.0,88.0,['Hauptstadtpflege Danziger Straße']
+03601453,Alter Schlachthof,,,
+03701554,Teutoburger Platz,1.0,84.0,['Stephanus gGmbH St. Elisabeth-Stift']
+03701555,Sredzkistraße,,,
+03701556,Kollwitzplatz,,,
+03701657,Thälmannpark,,,
+03701658,Christburger Straße,,,
+03701659,Immanuelkirchstraße,,,
+03701660,Bötzowstraße,1.0,156.0,['Pro Seniore Residenz Ambiente']
+04100101,Jungfernheide/Plötzensee,1.0,135.0,['Hauptstadtpflege Haus Jungfernheide']
+04100102,Paul-Hertz-Siedlung,,,
+04200203,Olympiagelände,,,
+04200204,Angerburger Allee,1.0,136.0,['Käthe-Dorsch-Haus']
+04200205,Flatowallee,1.0,51.0,['Haus Malta Seniorenheim am Malteser-Krankenhaus']
+04200206,Kranzallee,1.0,34.0,['Gerontopsychiatrisches Seniorenheim Splitt-Fennert']
+04200207,Eichkamp,,,
+04200308,Branitzer Platz,2.0,175.0,"['Haus Rüsternallee', 'Nova Vita Pflegeresidenz im Paulinenhaus']"
+04200309,Neu Westend,,,
+04200310,Fürstenplatz,1.0,36.0,['Seniorenheim Czapla GmbH']
+04200311,Königin-Elisabeth-Straße,1.0,40.0,['Haus Isabel GmbH']
+04300412,Schlossgarten,1.0,130.0,['ProCurand Seniorendomizil Wilhelm-Stift am Schloßpark Charlottenburg']
+04300413,Klausenerplatz,1.0,40.0,['St.Kamillus']
+04300414,Schloßstraße,,,
+04300415,Lietzensee,1.0,41.0,['Hermann-Strauß Pflegeheim']
+04300416,Amtsgerichtsplatz,,,
+04300517,Tegeler Weg,,,
+04300518,Kaiserin-Augusta-Allee,,,
+04300619,Alt-Lietzow,2.0,106.0,"['Seniorenzentrum Kardinal Bengsch', 'Bernhard-Lichtenberg-Haus']"
+04300620,Spreestadt,,,
+04300621,Richard-Wagner-Straße,,,
+04300622,Ernst-Reuter-Platz,,,
+04300623,Karl-August-Platz,,,
+04300624,Savignyplatz,1.0,102.0,['KATHARINENHOF City West']
+04400725,Güterbahnhof Grunewald,,,
+04400726,Bismarckallee,3.0,239.0,"['Seniorenheim Koenigsallee', 'Herthasee Seniorenzentrum', 'Pflegeheim Pinecki GmbH']"
+04400727,Flinsberger Platz,1.0,37.0,['Haus Teplitz']
+04400728,Hagenplatz,1.0,101.0,['Elsbeth-Seidel-Haus']
+04400729,Hundekehle,1.0,100.0,['Karl-Steeb-Heim']
+04400830,Forckenbeckstraße,1.0,123.0,['Hauptstadtpflege Haus Wilmersdorf']
+04400831,Messelpark,,,
+04400832,Breite Straße,,,
+04400833,Schlangenbader Straße,,,
+04400834,Binger Straße,,,
+04400835,Rüdesheimer Platz,1.0,79.0,['Seniorenheim Hohensteiner Straße']
+04500936,Droysenstraße,1.0,136.0,['Seniorenpflege Birkholz Betriebs GmbH']
+04500937,Halensee,2.0,110.0,"['Pro Seniore Residenz Kurfürstendamm', 'Pflegewerk SRK Seniorencentrum Kurfürstendamm']"
+04500938,Hochmeisterplatz,,,
+04500939,Eisenzahnstraße,,,
+04501040,Hindemithplatz,,,
+04501041,George-Grosz-Platz,,,
+04501042,Breitscheidplatz,,,
+04501043,Preußenpark,,,
+04501044,Ludwigkirchplatz,2.0,154.0,"['KATHARINENHOF am Preußenpark', 'Nova Vita Residenz Berlin-Wilmersdorf']"
+04501045,Schaperstraße,2.0,215.0,"['pro seniore Krankenheim Meinekestraße', 'Park Alterssitz City']"
+04501146,Barstraße,,,
+04501147,Leon-Jessel-Platz,,,
+04501148,Brabanter Platz,,,
+04501149,Nikolsburger Platz,1.0,82.0,['Barbara-von-Renthe-Fink-Haus']
+04501150,Wilhelmsaue,1.0,110.0,['Seniorenzentrum Werner-Bockelmann-Haus']
+04501151,Hildegardstraße,,,
+04501152,Prager Platz,,,
+04501153,Babelsberger Straße,,,
+05100101,Hakenfelde Nord,5.0,313.0,"['Theodor-Fliedner-Haus', 'St. Elisabeth-Seniorenheim', 'Amalie-Sieveking-Haus und Kurt-Scharf-Haus (Pflegewohnen)', 'SZ Caroline Bertheau', 'geriavita Pflegeheim am Schützenhof']"
+05100102,Am Forstacker,,,
+05100103,Mertensstraße,1.0,120.0,['BWS Blindenwohnstätten gemeinn. Betriebs GmbH Spandau und BWS Blindenwohnstätten gemeinn. Betriebs GmbH Spandau - Jüngere mehrfachbehinderte Blinde']
+05100104,Maselake,2.0,405.0,"[""pro seniore Residenz 'Wasserstadt'"", 'Hauptstadtpflege Haus Seebrücke']"
+05100105,Amorbacher Weg,1.0,52.0,['Fischer-Dittmer-Heim']
+05100206,Griesingerstraße,2.0,357.0,"['Pflege & Wohnen Anna Maria Gerhardt Johannesstift Diakonie', 'AGAPLESION Bethanien Radeland']"
+05100207,An der Tränke,1.0,90.0,['Seniroenzentrum Hohenlohe']
+05100208,Im Spektefeld,,,
+05100209,Westerwaldstraße,,,
+05100210,Germersheimer Platz,,,
+05100211,An der Kappe,,,
+05100312,Eckschanze,,,
+05100313,Eiswerder,3.0,645.0,"['Senioren- und Therapiezentrum Haus Havelblick', 'Hauptstadtpflege Haus Dr. Hermann Kantorowicz', 'KATHARINENHOF im Uferpalais']"
+05100314,Kurstraße,,,
+05100315,Ackerstraße,,,
+05100316,Carl-Schurz-Straße,,,
+05100317,Freiheit,,,
+05200418,Isenburger Weg,,,
+05200419,Am Heideberg,,,
+05200420,Staakener Straße,,,
+05200421,Spandauer Straße,,,
+05200422,Werkstraße,,,
+05200423,Magistratsweg,,,
+05200524,Döberitzer Weg,1.0,146.0,['Haus am Wiesengrund Berlin-Spandau']
+05200525,Pillnitzer Weg,,,
+05200526,Rudolf-Wissell-Großsiedlung,,,
+05200527,Maulbeerallee,,,
+05200528,Weinmeisterhornweg,,,
+05200629,Borkumer Straße,1.0,132.0,['AGAPLESION Bethanien HavelGarten']
+05200630,Wilhelmstadt West,1.0,72.0,['Seniorenzentrum Johannastift']
+05200631,Wilhelmstadt Ost,,,
+05200632,Tiefwerder,,,
+05200633,Graetschelsteig,,,
+05200634,Börnicker Straße,,,
+05300735,Haveleck,,,
+05300736,Zitadellenweg,,,
+05300737,Gartenfelder Straße,,,
+05300838,Gartenfeld,,,
+05300839,Rohrdamm,,,
+05300840,Nonnendammallee,,,
+05300841,Siemensdamm,,,
+05400942,Alt-Gatow,1.0,46.0,['Christophorus Pflege Havelhöhe']
+05400943,Jägerallee,,,
+05400944,Kladower Damm,,,
+05400945,Kafkastraße,1.0,148.0,['Hauptstadtpflege Haus Ernst Hoppe']
+06100101,Fichtenberg,2.0,157.0,"['AWW-Seniorenheim Steglitz', 'AGAPLESION Bethanien Sophienhaus']"
+06100102,Schloßstraße,,,
+06100103,Markelstraße,,,
+06100204,Munsterdamm,,,
+06100205,Südende,,,
+06100206,Stadtpark,2.0,213.0,"['Blindenwohnstätte Kniesehaus gemeinnützige BetriebsGmbH', 'Vitanas Senioren Centrum Am Stadtpark']"
+06100207,Mittelstraße,2.0,112.0,"['Ev. Pflegeheim Lutherstift gGmbH - Neubau und Altbau', 'Brunnenhof Seniorenresidenzen & Pflegeheime Haus Steglitz GmbH']"
+06100208,Bergstraße,,,
+06100209,Feuerbachstraße,1.0,121.0,['DOMICIL-Seniorenpflegeheim Feuerbachstraße GmbH']
+06100210,Bismarckstraße,1.0,181.0,['DOMICIL-Seniorenpflegeheim Bergstr.']
+06200311,Alt-Lankwitz,,,
+06200312,Komponistenviertel Lankwitz,2.0,290.0,"['Pflegeeinrichtung Käthe Kollwitz', 'Hauptstadtpflege Haus Leonore']"
+06200313,Lankwitz Kirche,,,
+06200314,Kaiser-Wilhelm-Straße,,,
+06200315,Gallwitzallee,3.0,407.0,"['Alten- und Pflegeheim Silvia Walke', 'Sanatorium West', 'DOMICIL-Seniorenpflegeheim Frobenstraße GmbH']"
+06200316,Belßstraße,1.0,165.0,['Vitanas Senioren Centrum Rosengarten']
+06200317,Lankwitz Süd,,,
+06200418,Landweg,,,
+06200419,Thermometersiedlung,,,
+06200420,Lichterfelde Süd,,,
+06200421,Königsberger Straße,3.0,205.0,"['Seniorenheim am Jungfernstieg GmbH', 'Haus Rothenburg', 'Seniorenzentrum Bethel Lichterfelde']"
+06200422,Oberhofer Platz,1.0,85.0,['Haus Sonne Berlin Seniorenbetreuung mit Kompetenz']
+06200423,Schütte-Lanz-Straße,1.0,138.0,"[""Senioren-Residenz 'Lichterfelde'""]"
+06300524,Berlepschstraße,,,
+06300525,Zehlendorf Süd,,,
+06300526,Zehlendorf Mitte,,,
+06300527,Sundgauer Straße,1.0,60.0,['Villa Grüntal-WG für Senioren GmbH']
+06300528,Teltower Damm,5.0,546.0,"['Residenz Zehlendorf', 'Heinrich-Grüber-Haus und Margarete-Grüber-Haus', 'Pflegewohnheim Haus Luther', 'Seniorenhaus Waldfriede gGmbH', 'Ev. Pflegewohnheim Schönow']"
+06300629,Botanischer Garten,1.0,95.0,['Aquinata-Pflegeeinrichtungen örtl. Bereiche Knesebeckstr. 1 und Pfleiderer Str. 3-4']
+06300630,Hindenburgdamm,1.0,180.0,['Fürsorge im Alter Seniorenresidenz Haus Steglitz']
+06300631,Goerzwerke,,,
+06300632,Schweizer Viertel,2.0,177.0,"['Haus Wiesengrund', 'Johanniter-Stift Berlin-Lichterfelde']"
+06300633,Augustaplatz,,,
+06300634,Lichterfelde West,1.0,189.0,['Domicil-Seniorenpflegeheim Lichterfelde-West GmbH']
+06400735,Wannsee,4.0,363.0,"['Psychiatrisches Zentrum für Betreuung und Pflege am Sandwerder Berlin-Wannsee', 'Vitanas Senioren Centrum Schäferberg', 'Seniorenheim Haus Hartwig', 'Psychiatrische Pflegeeinrichtung Wannsee']"
+06400736,Düppel,,,
+06400737,Nikolassee,4.0,185.0,"['König Seniorenheim', 'Haus Waldow', 'Pflege & Wohnen Hubertus', 'Haus der Betreuung und Pflege Schlachtensee']"
+06400838,Krumme Lanke,1.0,55.0,['Mathildenhof Seniorenzentrum']
+06400839,Fischerhüttenstraße,1.0,137.0,['Seniorenheim Fürstenstr. GmbH']
+06400840,Fischtal,,,
+06400841,Zehlendorf Eiche,2.0,195.0,"['Haus der Betreuung und Pflege Nansen', 'Rosenhof Berlin-Zehlendorf']"
+06400842,Hüttenweg,,,
+06400843,Thielallee,1.0,62.0,['Seniorenzentrum Curamus']
+06400844,Dahlem,1.0,120.0,['Residenz Dahlem']
+07100101,Wittenbergplatz,2.0,133.0,"['Fugger-Klinik', 'Residenzwohnen  Passauer Straße']"
+07100102,Kalckreuthstraße,,,
+07100103,Frobenstraße,1.0,44.0,"[""Pflegeheim Heinz Gärtner GmbH 'Ruhesitz am Tiergarten'""]"
+07100204,Barbarossaplatz,,,
+07100205,Alvenslebenstraße,,,
+07100206,Großgörschenstraße,,,
+07200307,Bayerischer Platz,,,
+07200308,Volkspark (Rudolph-Wilde-Park),,,
+07200409,Belziger Straße,1.0,97.0,['Seniorenheim St. Josef']
+07200410,Feurigstraße,1.0,62.0,['Immanuel Seniorenzentrum Schöneberg']
+07200411,Julius-Leber-Brücke,,,
+07200412,Schöneberger Linse,,,
+07200413,Cheruskerstraße,,,
+07200414,Hohenfriedbergstraße,,,
+07300515,Taunusstraße,,,
+07300516,Odenwaldstraße,,,
+07300517,Perelsplatz,2.0,182.0,"['Evangelisches Seniorenheim Albestraße', 'KATHARINENHOF in Friedenau']"
+07300618,Ceciliengärten,,,
+07300619,Grazer Platz,,,
+07400720,Gontermannstraße,,,
+07400721,Paradestraße,,,
+07400822,Lindenhofsiedlung,,,
+07400823,Wittekindstraße,1.0,44.0,['Seniorendomizil am Alboinplatz']
+07400824,Bosepark,,,
+07400825,Friedrich-Karl-Straße,,,
+07400826,Marienhöhe,,,
+07400927,Rathaus Tempelhof,2.0,228.0,"['Fürsorge im Alter Seniorenresidenz Haus Bavaria', 'Hauptstadtpflege Haus Franckepark']"
+07400928,Germaniagarten,,,
+07501029,Ringstraße,,,
+07501030,Machonstraße,3.0,312.0,"['Senioren-Residenz Ullsteinstraße', 'REMEO Center Berlin', 'Domicil - Seniorenpflegeheim Küterstraße GmbH']"
+07501031,Eisenacher Straße,1.0,80.0,['Haus Lerchenweg']
+07501032,Imbrosweg,,,
+07501133,Fritz-Werner-Straße,3.0,227.0,"['Seniorenwohnanlage Rosenhof Berlin-Mariendorf', 'Domizil Alt-Mariendorf', 'Friedrich Küter Pflegewohnpark']"
+07501134,Hundsteinweg,2.0,197.0,"['DRK Kliniken Berlin I Pflege & Wohnen Mariendorf', 'Wohnstift Otto Dibelius']"
+07501135,Birnhornweg,,,
+07601236,Marienfelder Allee Nordwest,,,
+07601237,Kirchstraße,,,
+07601238,Marienfelde Nordost,,,
+07601339,Tirschenreuther Ring West,,,
+07601340,Tirschenreuther Ring Ost,1.0,110.0,['Senioren-Residenz Hildburghauser Straße']
+07601341,Diedersdorfer Weg,,,
+07601442,Kettinger Straße,1.0,145.0,['Alexa Seniorenresidenz Berlin-Lichtenrade']
+07601443,Töpchiner Weg,,,
+07601544,John-Locke-Straße,1.0,48.0,['St. Elisabeth Haus Lichtenrade -Behindertenpflegewohnheim-']
+07601545,Nahariyastraße,,,
+07601546,Franziusweg,,,
+07601547,Horstwalder Straße,1.0,168.0,['Lore-Lipschitz-Haus']
+07601548,Wittelsbacherstraße,,,
+08100101,Hasenheide,,,
+08100102,Schillerpromenade Nord,,,
+08100103,Schillerpromenade Süd,,,
+08100104,Wartheplatz,,,
+08100105,Silbersteinstraße,1.0,148.0,['Pflege & Wohnen Sunpark']
+08100206,Flughafenstraße,,,
+08100207,Rollberg,,,
+08100208,Körnerpark,1.0,62.0,"[""Sozialpsychiatrisches Pflegezentrum 'Am Körnerpark'""]"
+08100209,Glasower Straße,1.0,314.0,"[""Seniorenheim am Lietzensee GmbH 'Haus Rixdorf'""]"
+08100310,Maybachufer,,,
+08100311,Reuterplatz,,,
+08100312,Weichselplatz,1.0,145.0,['Pflegezentrum Sonnenallee']
+08100313,Bouchéstraße,,,
+08100314,Donaustraße,,,
+08100415,Ganghoferstraße,,,
+08100416,Alt-Rixdorf,,,
+08100417,Braunschweiger Straße,1.0,68.0,['Seniorenheim  St. Richard']
+08100418,Hertzbergplatz,1.0,194.0,['Haus am Weigandufer Berlin-Rixdorf']
+08100419,Treptower Straße Nord,,,
+08100520,Weiße Siedlung,,,
+08100521,Schulenburgpark,1.0,113.0,['Erich-Raddatz-Haus']
+08200622,Jahnstraße,,,
+08200623,Park am Buschkrug,,,
+08200624,Tempelhofer Weg,1.0,131.0,['KATHARINENHOF Alt Britz']
+08200725,Mohriner Allee Nord,,,
+08200726,Hufeisensiedlung,,,
+08200727,Parchimer Allee Süd,2.0,213.0,"['Hermann-Radtke-Haus', 'Haus Simeon']"
+08200728,Ortolanweg,1.0,100.0,['Hauptstadtpflege Haus Britz']
+08200729,Britzer Garten,,,
+08200730,Handwerker-Siedlung,,,
+08200831,Buckow West,,,
+08200832,Buckow Mitte,,,
+08200833,Buckow Ost,,,
+08300934,Gropiusstadt Nord-West,,,
+08300935,Gropiusstadt Süd-West,,,
+08301036,Gropiusstadt Mitte,1.0,97.0,['Haus Rudow']
+08301037,Gropiusstadt Süd-Ost,1.0,156.0,"[""Senioren-Residenz 'Kurt-Exner-Haus'""]"
+08401138,Goldhähnchenweg,,,
+08401139,Vogelviertel Süd,1.0,112.0,['Haus Ida-Wolff']
+08401140,Vogelviertel Nord,,,
+08401241,Blumenviertel,,,
+08401242,Zittauer Straße,,,
+08401243,Alt-Rudow,,,
+08401244,Waßmannsdorfer Chaussee,,,
+08401245,Frauenviertel,1.0,195.0,['Haus Gartenstadt Berlin-Rudow']
+08401246,Waltersdorfer Chaussee Ost,,,
+09100101,Alt-Treptow,1.0,97.0,['Pflegewohnheim Alt Treptow']
+09100202,Plänterwald West,,,
+09100203,Plänterwald Ost,,,
+09100304,Baumschulenweg West,3.0,383.0,"['Pflege- und Gesundheitszentrum Treptow', 'DOMICIL-Seniorenpflegeheim Baumschulenweg', 'domino-world Club Treptow']"
+09100305,Baumschulenweg Ost,1.0,140.0,['Pflegewohnheim Am Plänterwald']
+09100306,Späthsfelde,,,
+09100407,Johannisthal West,1.0,156.0,['Pflegeeinrichtung Treptow-Johannisthal']
+09100408,Johannisthal Ost,,,
+09100409,Landschaftspark Adlershof,1.0,99.0,['Johanniter-Stift Berlin Johannisthal']
+09200510,Helmholtz-Kiez,1.0,124.0,['Haus Elisabeth']
+09200511,Griechischer Park,1.0,89.0,['Seniorenzentrum St. Konrad']
+09200512,Wuhlheide,,,
+09200613,Bahnhof Schöneweide,2.0,178.0,"['KATHARINENHOF am Spreeufer', 'Pflegeheim B. Effinger']"
+09200614,Oberspree,,,
+09200715,Wista,,,
+09200716,Dörpfeldstraße West,,,
+09200717,Dörpfeldstraße Ost,,,
+09200818,Spindlersfeld,,,
+09200819,Köllnische Vorstadt,,,
+09300920,Dorf Altglienicke,1.0,140.0,['Haus Spreetalhof Berlin-Glienicke']
+09300921,Preußen Siedlung,,,
+09300922,Kosmos Viertel,,,
+09300923,Kölner Viertel,,,
+09301024,Falkenberg,1.0,100.0,['Seniorenzentrum St.Michael']
+09301025,Alt-Bohnsdorf,,,
+09301126,Grünau,,,
+09301227,Karolinenhof,,,
+09301228,Schmöckwitz/Rauchfangswerder,,,
+09401329,Kietzer Feld/Nachtheide,,,
+09401330,Wendenschloß,,,
+09401431,Allende I,2.0,222.0,"['Stephanus gGmbH Haus Zur Brücke', 'Stephanus gGmbH Haus Müggelspree']"
+09401432,Siedlung Kämmereiheide,,,
+09401433,Allende II,2.0,299.0,"['Seniorenzentrum Bethel Köpenick', 'Seniorenheim Müggelschlößchenweg']"
+09401534,Altstadt Köpenick,,,
+09401635,Müggelheim,,,
+09501736,Hirschgarten,,,
+09501737,Alt-Friedrichshagen,2.0,496.0,"['Seniorenzentrum Köpenick- Haus I, II, III', 'ProCurand Seniorenresidenz Bölschestraße']"
+09501838,Rahnsdorf,1.0,95.0,['Stephanus gGmbH Seniorenzentrum Ulmenhof']
+09501939,Bahnhofstraße,1.0,149.0,['Vitanas Senioren Centrum Bellevue']
+09501940,Güterbahnhof Köpenick,,,
+09501941,Friedrichshagener Straße,,,
+09502042,Mittelheide,,,
+09502043,Dammheide,,,
+10100101,Marzahn West,,,
+10100102,Rosenbecker Straße,,,
+10100103,Wittenberger Straße,1.0,150.0,['Pflegeeinrichtung Marzahn']
+10100104,Golliner Straße,,,
+10100205,Gewerbegebiet Bitterfelder Straße,,,
+10100206,Wuhletalstraße,1.0,125.0,['Seniorenheim Schleusinger Straße']
+10100207,Ahrensfelder Berge,,,
+10100208,Bürgerpark,1.0,95.0,"[""Senioren-Residenz 'POLIMAR'""]"
+10100209,Lea-Grundig-Straße,,,
+10100210,Marzahner Promenade,1.0,115.0,['Seniorenwelt Zühlsdorfer Straße']
+10100311,Marzahner Chaussee,,,
+10100312,Springpfuhl,1.0,153.0,['Kursana Domizil Berlin-Marzahn']
+10100313,Alt-Marzahn,,,
+10100314,Auersbergstraße,,,
+10100315,Bärenstein,,,
+10100316,Landsberger Tor,1.0,99.0,['Kursana Domizil Berlin-HausLandsberger Tor']
+10200417,Zossener Straße,,,
+10200418,Kyritzer Straße,1.0,164.0,"[""Seniorenbetreuung 'Haus Kyritz' und Seniorenbetreuung Haus Kyritz - Neubau - Betreuung für demente Bewohner""]"
+10200419,Havelländer Ring,,,
+10200420,Gut Hellersdorf,,,
+10200421,Helle Mitte,,,
+10200422,Hellersdorfer Promenade,,,
+10200423,Böhlener Straße,,,
+10200524,Adele-Sandrock-Straße,,,
+10200525,Schleipfuhl,,,
+10200526,Boulevard Kastanienallee,,,
+10200627,Am Kienberg,,,
+10200628,Neue Grottkauer Straße,,,
+10200629,Teterower Ring,1.0,296.0,['Pflegewohnzentrum Wuhlepark']
+10200630,Cecilienplatz,1.0,145.0,['Pflegewohnheim am Cecilienplatz']
+10300731,Oberfeldstraße,1.0,106.0,['Senioren Centrum  Haus Pappelhof']
+10300732,Buckower Ring,1.0,119.0,['Seniorenheim Buckower Ring Am Auwald']
+10300733,Alt-Biesdorf,1.0,150.0,['Haus der Betreuung und Pflege Am Grabensprung']
+10300734,Biesdorf Süd,2.0,292.0,"['Haus der Betreuung und Pflege Biesdorf-Süd', 'Fürsorge im Alter Seniorenresidenz Biesdorfer Höhe']"
+10400835,Kaulsdorf Nord,,,
+10400836,Alt-Kaulsdorf,1.0,147.0,['Hauptstadtpflege Haus Kaulsdorf']
+10400837,Kaulsdorf Süd,,,
+10400938,Mahlsdorf Nord,2.0,132.0,"['Wohnpark am Rohrpfuhl, WG f. pflegeb.ältere Menschen', 'APE Hausgemeinschaftswohnen Mahlsdorf']"
+10400939,Alt-Mahlsdorf,,,
+10400940,Elsensee,,,
+10400941,Pilgramer Straße,,,
+11100101,Dörfer Malchow-Wartenberg,,,
+11100102,Dorf Falkenberg,,,
+11100203,Falkenberg Ost,1.0,144.0,['PARITÄTISCHES Seniorenwohnen Vincent van Gogh']
+11100204,Falkenberg West,,,
+11100205,Wartenberg Süd,,,
+11100206,Wartenberg Nord,2.0,302.0,"['Pflegeeinrichtung Käthe Kern', 'Seniorenheim Helmut-Böttcher-Haus']"
+11100307,Zingster Straße Ost,1.0,150.0,['St. Alexius Seniorenpflegeheim']
+11100308,Zingster Straße West,,,
+11100309,Mühlengrund,,,
+11200410,Malchower Weg,,,
+11200411,Hauptstraße,2.0,204.0,"['Seniorenheim St. Albertus', 'Paritätisches Seniorenwohnen am Heckelberger Ring']"
+11200512,Orankesee,1.0,165.0,['Vitanas Senioren Domicil Am Obersee']
+11200513,Große-Leege-Straße,,,
+11200514,Landsberger Allee,1.0,144.0,"[""Paritätisches Seniorenwohnen 'Dr.Victor Aronstein'""]"
+11200515,Weiße Taube,,,
+11300616,Hohenschönhauser Straße,1.0,122.0,"[""Verbund Lichtenberger Seniorenheime Seniorenheim 'Judith-Auer-Straße'""]"
+11300617,Fennpfuhlpark,,,
+11300618,Storkower Bogen,1.0,11.0,"[""Zentrum f. Beatmung und Intensivpflege im 'Storkower Bogen' GmbH""]"
+11300619,Rudolf-Seiffert-Park,,,
+11300620,Fennpfuhl Ost,1.0,120.0,"[""Seniorenzentrum Lichtenberg 'Prof. Dr. Kurt Winter'""]"
+11300721,Herzbergstraße,3.0,202.0,"['Wohn- und Pflegezentrum am Landschaftspark Herzberge', 'Wohngruppe für geistig behinderte Menschen mit erhöhtem Pflegebedarf', 'Hauptstadtpflege Haus Rhinstraße']"
+11300722,Rathaus Lichtenberg,3.0,498.0,"['Seniorenheim Alfred-Jung', 'Senioren-Wohnpark Lichtenberg GmbH', 'Seniorenzentrum Haus am Loeperplatz']"
+11300723,Bornitzstraße,,,
+11300724,Roedeliusplatz,,,
+11300725,Nibelungenviertel,1.0,174.0,['DOMICIL-Seniorenpflegeheim Gotlindestraße GmbH']
+11300826,Frankfurter Allee Süd,,,
+11400927,Victoriastadt,,,
+11400928,Nöldnerplatz,,,
+11400929,Weitlingkiez,,,
+11400930,Zachertstraße,,,
+11400931,Massower Straße,,,
+11401032,Rosenfelder Ring,,,
+11401033,Gensinger Straße,1.0,148.0,['Kursana Domizil Berlin-Lichtenberg']
+11401034,Tierpark,1.0,174.0,['Domicil - Seniorenpflegeheim Am Schloss Friedrichsfelde GmbH']
+11401135,Dolgenseestraße,,,
+11401136,Volkradstraße,1.0,113.0,['Haus Abendsonne']
+11401137,Erieseering,1.0,144.0,"[""Seniorenheim 'Am Tierpark'""]"
+11501238,Rummelsburg,,,
+11501339,Karlshorst West,,,
+11501340,Karlshorst Nord,2.0,125.0,"['mevanta Haus Rheingold', 'Seniorenstift St. Antonius']"
+11501341,Karlshorst Süd,,,
+12100101,Letteplatz,,,
+12100102,Hausotterplatz,2.0,243.0,"['Hauptstadtpflege Haus Sommerstraße', 'Domicil - Seniorenpflegeheim Amendestraße']"
+12100103,Breitkopfbecken,,,
+12100204,Schäfersee,2.0,350.0,"['Vitanas Senioren Centrum Am Schäfersee', 'DOMICIL-Seniorenpflegeheim Residenzstrasse']"
+12100205,Teichstraße,2.0,316.0,"['Haus am Kienhorstpark Berlin-Reinickendorf', 'Hauptstadtpflege Haus Teichstraße']"
+12100206,Humboldtstraße,,,
+12200307,Reinickes Hof,,,
+12200308,Meller Bogen,,,
+12200309,Scharnweberstraße,,,
+12200310,Klixstraße,,,
+12200411,Schumacher-Quartier,,,
+12200412,Waldidyll/Flughafensee,,,
+12200413,Tegel Süd,,,
+12200414,TXL,,,
+12200515,Alt-Tegel,3.0,437.0,"['RENAFAN ServiceLeben-Tegel', 'domino-world Club Tegel', 'Johanniter-Stift Berlin-Tegel']"
+12400616,Konradshöhe/Tegelort,1.0,44.0,['AGAPLESION Bethanien Havelstrand']
+12400617,Alt-Heiligensee,,,
+12400618,Heiligensee Nord,,,
+12400619,Heiligensee,,,
+12400720,Frohnau West,2.0,232.0,"['Haus und Villa Friedenshöhe', 'Vitanas Senioren Centrum Frohnau']"
+12400721,Frohnau Ost,,,
+12400722,Hermsdorf West,,,
+12400723,Hermsdorf Ost/Waldsee,,,
+12500824,Ziekowstraße/Freie Scholle,,,
+12500825,Borsigwalde,,,
+12500926,Wittenau Mitte,2.0,350.0,"['DOMICIL-Seniorenpflegeheim Techowpromenade GmbH', 'Hauptstadtpflege Haus John F. Kennedy']"
+12500927,Wittenau Nord,,,
+12500928,Waidmannslust,1.0,90.0,['Franz-Jordan-Stift']
+12500929,Lübars,,,
+12500930,Wittenau Süd,1.0,156.0,['Pro seniore Krankenheim Eichborndamm']
+12601031,Lübarser Straße,,,
+12601032,Rollbergesiedlung,,,
+12601133,Treuenbrietzener Straße,1.0,101.0,"[""Senioren-Residenz 'Märkisches Viertel'""]"
+12601134,Märkisches Zentrum,1.0,175.0,['Vitanas Senioren Centrum Märkisches Viertel']
+12601235,Dannenwalder Weg,,,
+12601236,Schorfheidestraße,,,
