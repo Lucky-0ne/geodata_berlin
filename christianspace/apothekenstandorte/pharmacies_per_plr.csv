@@ -1,0 +1,543 @@
+PLR_ID,PLR_NAME,pharmacy_count,pharmacy_names
+01100101,Stülerstraße,,
+01100102,Großer Tiergarten,1.0,['Pluspunkt Apotheke Potsdamer Platz']
+01100103,Lützowstraße,,
+01100104,Körnerstraße,2.0,"['Humboldt-Apotheke', 'Potsdamer-Apotheke']"
+01100205,Wilhelmstraße,2.0,"['Apotheke am Leipziger Platz', 'Apotheke im Regierungsviertel']"
+01100206,Unter den Linden,4.0,"['Brandenburger Tor Apotheke', 'Apotheke Q 205', 'Dorotheenstadt Apotheke', 'Aschenbachs Apotheke']"
+01100207,Leipziger Straße,2.0,"['Leipziger Apotheke', 'Friedrichstadt Apotheke']"
+01100308,Charitéviertel,2.0,"['Galenus-Apotheke', 'MediosApotheke an der Charité']"
+01100309,Oranienburger Straße,3.0,"['MediosApotheke Oranienburger Tor', 'Apotheke am Koppenplatz', 'MediosApotheke Hackescher Markt']"
+01100310,Alexanderplatzviertel,5.0,"['Panorama-Apotheke', 'Merlin-Apotheke', 'Apotheke Rosa-Luxemburg-Platz', 'Apotheke Hackesches Quartier', 'BezirksApotheke']"
+01100311,Karl-Marx-Allee,2.0,"['Neptun Apotheke im S-Bahnhof Alexanderplatz', 'Alexa-Apotheke']"
+01100312,Heine-Viertel West,1.0,['Fischerinsel-Apotheke']
+01100313,Heine-Viertel Ost,1.0,['Apotheke am Engelbecken']
+01100414,Nordbahnhof,1.0,['Feuerland Apotheke']
+01100415,Invalidenstraße,4.0,"['Achat Apotheke', 'Sophien Apotheke', 'Nordland Apotheke', 'Humboldt-Apotheke']"
+01100416,Arkonaplatz,3.0,"['Sanimedius-Apotheke Rosenthaler Platz', 'Arkona Apotheke', 'Adonis Apotheke']"
+01200517,Huttenkiez,,
+01200518,Beusselkiez,,
+01200519,Emdener Straße,2.0,"['Oldenburger Apotheke', 'Apollo-Apotheke']"
+01200520,Bremer Straße,3.0,"['Arminius-Apotheke', 'Turm-Apotheke', 'apotheke 4.0']"
+01200521,Zwinglistraße,2.0,"['Hutten-Apotheke', 'die Neue Apotheke']"
+01200522,Elberfelder Straße,2.0,"['Jagow Apotheke', 'Ludwigs-Apotheke']"
+01200623,Stephankiez,1.0,['Nord-West-Apotheke']
+01200624,Heidestraße,,
+01200625,Lübecker Straße,2.0,"['Apotheke im Schultheiss Quartier', 'Alte Roland-Apotheke']"
+01200626,Thomasiusstraße,2.0,"['Spree-Apotheke Moabit', 'Moabiter Apotheke']"
+01200627,Zillesiedlung,,
+01200628,Lüneburger Straße,1.0,['Apotheke Berlin Hauptbahnhof']
+01200629,Hansaviertel,1.0,['Apotheke am Hansaplatz']
+01300730,Drontheimer Straße,1.0,['Kolonie-Apotheke']
+01300731,Koloniestraße,1.0,['Wollank Apotheke']
+01300732,Soldiner Straße,,
+01300733,Gesundbrunnen,4.0,"['Apotheke im Gesundbrunnen-Center', 'Jülicher Apotheke', 'Brunnen-Apotheke', 'Die Herz Apotheke 12']"
+01300834,Brunnenstraße,3.0,"['+1 Apotheke', 'Jasmin-Apotheke', 'Nordkreuz Apotheke']"
+01300835,Humboldthain Süd,2.0,"['Vineta Apotheke', 'Apotheke am Gartenplatz']"
+01300836,Humboldthain Nordwest,5.0,"['Gesundbrunnen Apotheke', 'Die Herz Apotheke', 'Bad-Apotheke', 'Kolberger Apotheke', 'Lessing-Apotheke']"
+01400937,Afrikanische Straße,1.0,['Steinbock-Apotheke']
+01400938,Kameruner Straße,2.0,"['Kleo Apotheke', 'Virchow-Apotheke']"
+01400939,Glasgower Straße,1.0,['Paul Gerhardt Apotheke']
+01400940,Schillerpark,,
+01400941,Londoner Straße,,
+01400942,Westliche Müllerstraße,3.0,"['Leo-Apotheke', 'WEDDING APOTHEKE', 'Diana Apotheke Müllerstraße']"
+01401043,Antonstraße,1.0,['Zieten Apotheke Wedding']
+01401044,Uferstraße,1.0,"[""Dr. Gropler's Apotheke""]"
+01401045,Schwedenstraße,1.0,['Dafne Apotheke Wedding']
+01401046,Nordufer,1.0,['Apotheke am Augustenburger Platz']
+01401047,Sparrplatz,1.0,['Müller-Apotheke']
+01401048,Leopoldplatz,3.0,"['Regenbogen Apotheke Berlin', 'DOC+ APOTHEKE', 'Märkische Apotheke']"
+01401049,Schulstraße,2.0,"['Utrechter Apotheke', 'Apotheke am Nauener Platz']"
+02100101,Askanischer Platz,,
+02100102,Mehringplatz,3.0,"['Hölderlin-Apotheke', 'Apotheke am Mehringplatz Berlin', 'Axels Apotheke']"
+02100103,Am Berlin Museum,1.0,['Linden Apotheke']
+02100104,Moritzplatz,2.0,"['Apotheke am Moritzplatz', 'Apotheke zum Schwan']"
+02100105,Prinzenstraße,1.0,['Prinzen Apotheke Kreuzberg']
+02100106,Wassertorplatz,,
+02200207,Gleisdreieck,,
+02200208,Rathaus Yorckstraße,2.0,"['Zieten-Apotheke', 'Rathaus-Apotheke Kreuzberg']"
+02200209,Viktoriapark,1.0,['Kur-Apotheke']
+02200210,Urbanstraße,1.0,['Apotheke zum Goldenen Einhorn']
+02200211,Chamissokiez,2.0,"['Kaiser-Apotheke', 'Kreuzberg-Apotheke']"
+02200212,Graefekiez Süd,3.0,"['Sternlicht Apotheke', 'Urban-Apotheke', 'Apotheke im Karstadt Hermannplatz']"
+02200213,Graefekiez Nord,5.0,"['Körte-Apotheke', 'Cottbuserdamm-Apotheke', 'Grimm Apotheke', 'Lazarus-Apotheke', 'Pasteur-Apotheke']"
+02300314,Oranienplatz,1.0,['Berg-Apotheke']
+02300315,Lausitzer Platz,3.0,"['Eick-Apotheke', 'Springers Apotheke', 'Wrangel-Apotheke']"
+02300316,Köpenicker Straße,1.0,['Apotheke am Schlesischen Tor']
+02300417,Reichenberger Straße West,3.0,"['Paul-Lincke-Apotheke', 'Vital-Apotheke', 'Mozart-Apotheke']"
+02300418,Reichenberger Straße Ost,1.0,['Reichenberger Apotheke']
+02300419,Wrangelkiez,3.0,"['Fürst-Bismarck-Apotheke', 'Lukas Apotheke', 'Palmen-Apotheke']"
+02400520,Barnimkiez,1.0,['City Apotheke']
+02400521,Friedenstraße,1.0,['Apotheke am Friedrichshain']
+02400522,Richard-Sorge-Viertel,2.0,"['Petersburger-Apotheke', 'Fräulein Beckers Lieblingsapotheke']"
+02400623,Andreasviertel,2.0,"['Apotheke am Strausberger Platz', 'Bahnhof Apotheke Friedrichshain']"
+02400624,Weberwiese,3.0,"['BezirksApotheke Friedrichshain', 'Apotheke am Frankfurter Tor', 'Europa Apotheke']"
+02400625,Wriezener Bahnhof,1.0,['Arena-Apotheke']
+02500726,Hausburgviertel,1.0,['Ahorn-Apotheke']
+02500727,Forckenbeckplatz,,
+02500728,Samariterviertel,1.0,['Mirbach-Apotheke']
+02500729,Pettenkofer Straße,2.0,"['Apotheke im Ring-Center I', 'Apotheke im Ring-Center II']"
+02500830,Niederbarnimstraße,,
+02500831,Wismarplatz,2.0,"['Löwen-Apotheke', 'Frankfurter Apotheke']"
+02500832,Traveplatz,1.0,['Friedrich Apotheke']
+02500833,Boxhagener Platz,2.0,"['Seume-Apotheke', 'Grünberger Apotheke']"
+02500834,Revaler Straße,2.0,"['Apotheke am Ostkreuz', 'Warschauer Apotheke e.K.']"
+02500835,Stralauer Kiez,1.0,['Stralauer-Apotheke']
+02500836,Stralauer Halbinsel,,
+03100101,Bucher Forst,,
+03100102,Klinikum Buch,1.0,['Troll Apotheke']
+03100103,Karower Chaussee,3.0,"['Viereck-Apotheke', 'Ginkgo-Apotheke', 'Schlosspark-Apotheke']"
+03200204,Blankenfelde,,
+03200205,Uhlandstraße,1.0,['Nordend-Apotheke']
+03200206,Pastor-Niemöller-Platz,2.0,"['Apotheke am Schlosspark', 'Mariannen-Apotheke']"
+03200207,Herthaplatz,2.0,"['Lavendel-Apotheke', 'Apotheke im Pankeviertel']"
+03200308,Nisbléstraße,,
+03200309,Eddastraße,,
+03200310,Krugpfuhl,2.0,"['Buchholzer Apotheke', 'Apotheke am Hugenottenplatz']"
+03300411,Karow Nord,2.0,"['Achilles-Apotheke', 'Karow-Apotheke']"
+03300412,Karow Bahnhof,1.0,['Birken-Apotheke']
+03300413,Karow Ost,,
+03300514,Blankenburg,1.0,['Löwenburg-Apotheke']
+03300515,Blankenburger Süden,,
+03300516,Heinersdorf,1.0,['Apotheke im Kaufland']
+03300517,Märchenland,,
+03400618,Rosenthal,1.0,['Kastanien-Apotheke']
+03400619,Wilhelmsruh,2.0,"['Edelweiß Apotheke', 'Wilhelmsruher Apotheke']"
+03400620,Schönholz,,
+03400721,Florakiez,1.0,['Eulen Apotheke']
+03400722,Parkstraße,1.0,['Koala-Apotheke']
+03400723,Garbátyplatz,3.0,"['Ahorn-Apotheke', 'MediosApotheke Pankow', 'Adler-Apotheke']"
+03400724,Wolfshagener Straße,1.0,['Mendel-Apotheke']
+03400725,Schlosspark,1.0,['Apotheke in der Galenusstraße']
+03400826,Tiroler Viertel,,
+03400827,Trelleborger Viertel,1.0,['Bartels-Apotheke']
+03400828,Spiekermann Straße,,
+03400829,Arnold-Zweig-Straße,1.0,['Center-Apotheke']
+03400830,Kissingenviertel,1.0,['Pankow-Apotheke']
+03400831,Pankower Tor,,
+03500932,Bühringstraße,,
+03500933,Weißer See,2.0,"['Flora-Apotheke seit 1880', 'Weissenseer-Apotheke']"
+03500934,Weißenseer Spitze,2.0,"['Reseda-Apotheke', 'Sonnen-Apotheke']"
+03500935,Behaimstraße,2.0,"['Katharinen Apotheke', 'Apotheke am Antonplatz']"
+03500936,Komponistenviertel Weißensee,1.0,['Medicus-Apotheke']
+03501037,Rathaus Weißensee,3.0,"['Rennbahn-Apotheke', 'Falken-Apotheke Weißensee', 'Amalien-Apotheke']"
+03501038,Hansastraße,1.0,['Apotheke am Weißen See']
+03601139,Norweger Viertel,,
+03601140,Malmöer Straße,1.0,['Driesener Apotheke']
+03601141,Arnimplatz,1.0,['Vita-Apotheke']
+03601142,Falkplatz,2.0,"['Nordring Apotheke', 'Cecilien Apotheke']"
+03601243,Rodenbergstraße,3.0,"[""Prenz'l Apotheke"", 'Arcaden Apotheke', 'Wisbyer Apotheke']"
+03601244,Humannplatz,1.0,['Rialto-Apotheke']
+03601245,Ostseestraße,3.0,"['pro-samed Apotheke', 'Herzpunkt Apotheke', 'Neue Ostsee-Apotheke']"
+03601346,Gethsemanekirche,1.0,['Gethsemane-Apotheke']
+03601347,Helmholtzplatz,2.0,"['Apotheke am Helmholtzplatz', 'Schönhauser Apotheke']"
+03601348,Senefelderstraße,1.0,['Elisabeth Apotheke']
+03601449,Michelangelostraße,2.0,"['Mühlenberg-Apotheke', 'easyApotheke Prenzlauer Berg']"
+03601450,Volkspark Prenzlauer Berg,1.0,['Haus-Apotheke']
+03601451,Anton-Saefkow-Park,1.0,['Lorbeer-Apotheke']
+03601452,Velodrom,,
+03601453,Alter Schlachthof,1.0,['Apotheke am S-Bahnhof Storkower Straße']
+03701554,Teutoburger Platz,1.0,['Arminius Apotheke']
+03701555,Sredzkistraße,1.0,['Prenzlauer Apotheke']
+03701556,Kollwitzplatz,1.0,['Kollwitz Apotheke']
+03701657,Thälmannpark,,
+03701658,Christburger Straße,1.0,['Wins-Apotheke']
+03701659,Immanuelkirchstraße,2.0,"['Greifswalder-Apotheke', 'Immanuel-Apotheke']"
+03701660,Bötzowstraße,2.0,"['Esmarch-Apotheke', 'Schwanen-Apotheke']"
+04100101,Jungfernheide/Plötzensee,2.0,"['Apotheke Charlottenburg-Nord', 'Siemensstadt-Apotheke']"
+04100102,Paul-Hertz-Siedlung,1.0,['Apotheke am Heckerdamm']
+04200203,Olympiagelände,,
+04200204,Angerburger Allee,1.0,['Masuren-Apotheke']
+04200205,Flatowallee,,
+04200206,Kranzallee,,
+04200207,Eichkamp,,
+04200308,Branitzer Platz,2.0,"['Westend Apotheke', 'Apotheke am Steubenplatz']"
+04200309,Neu Westend,1.0,['Raphael-Apotheke']
+04200310,Fürstenplatz,6.0,"['LILIEN APOTHEKE', 'Quant-Apotheke Charlottenburg', 'Reichs-Apotheke', 'Apotheke Reichsstrasse 100', 'Fürstenplatz-Apotheke', 'Kranich-Apotheke']"
+04200311,Königin-Elisabeth-Straße,2.0,"['Witzleben Apotheke 26', 'Witzleben Apotheke 24']"
+04300412,Schlossgarten,,
+04300413,Klausenerplatz,3.0,"['Apotheke am Klausener Platz', 'Borussia-Apotheke', 'Falken-Apotheke']"
+04300414,Schloßstraße,2.0,"['Columbia-Apotheke', 'Apotheke am Sophie-Charlotte-Platz']"
+04300415,Lietzensee,1.0,['Apotheke am Funkturm']
+04300416,Amtsgerichtsplatz,3.0,"['Cäcilien-Apotheke am Amtsgerichtsplatz', 'Suarez-Apotheke', 'Pestalozzi-Apotheke']"
+04300517,Tegeler Weg,2.0,"['AIDA Apotheke', 'Kristall-Apotheke']"
+04300518,Kaiserin-Augusta-Allee,1.0,['Apotheke am Mierendorffplatz']
+04300619,Alt-Lietzow,,
+04300620,Spreestadt,1.0,['Hubertus Apotheke am Salzufer']
+04300621,Richard-Wagner-Straße,5.0,"['Flora-Apotheke', 'Atlantis-Apotheke', 'Königliche Hof-Apotheke', 'Apotheke im Bismarck-Karrée', 'Opernviertel-Apotheke']"
+04300622,Ernst-Reuter-Platz,,
+04300623,Karl-August-Platz,7.0,"['easyApotheke Wilmersdorfer', 'Apotheke an der Oper', 'Stern-Apotheke', 'Grüne Apotheke62', 'Minerva-Apotheke', 'Goethe-Apotheke', 'Bong-Apotheke']"
+04300624,Savignyplatz,4.0,"['Wotan-Apotheke', 'Leibniz Apotheke Berlin', 'Lilas Apotheke', 'Apotheke Carmer-7']"
+04400725,Güterbahnhof Grunewald,,
+04400726,Bismarckallee,,
+04400727,Flinsberger Platz,3.0,"['Hagen-Apotheke', 'Hohenzollerndamm-Apotheke', 'Karlsbader Apotheke']"
+04400728,Hagenplatz,1.0,['Apotheke am Bahnhof Grunewald']
+04400729,Hundekehle,,
+04400830,Forckenbeckstraße,2.0,"['Grüne Apotheke Schmargendorf', 'Rathaus-Apotheke']"
+04400831,Messelpark,1.0,['Alexandrinen-Apotheke']
+04400832,Breite Straße,3.0,"['Möwen-Apotheke', 'Schmargendorfer Apotheke', 'Neue Apotheke Schmargendorf']"
+04400833,Schlangenbader Straße,1.0,['St. Rochus Apotheke']
+04400834,Binger Straße,,
+04400835,Rüdesheimer Platz,1.0,['Rheinland Apotheke']
+04500936,Droysenstraße,1.0,['Brillant Apotheke']
+04500937,Halensee,1.0,"[""easyApotheke Ku'damm""]"
+04500938,Hochmeisterplatz,4.0,"['Galenus-Apotheke', 'Waage Apotheke', 'Apotheke am Hochmeisterplatz', 'Grunewald-Apotheke']"
+04500939,Eisenzahnstraße,2.0,"['Brandenburg-Apotheke', 'Erasmus-Apotheke']"
+04501040,Hindemithplatz,3.0,"['Insel-Apotheke', 'Apotheke am Adenauerplatz', 'Gervinus-Apotheke']"
+04501041,George-Grosz-Platz,5.0,"['Fontane Apotheke', 'Apotheke am Kurfürstendamm', 'Bio 7.0 Apotheke e.K.', 'M.C. Apotheke', 'Hermes-Apotheke']"
+04501042,Breitscheidplatz,4.0,"['Luitpold-Apotheke', 'Apotheke in der Metropole', 'Apotheke am Zoo', 'Apotheke des Westens']"
+04501043,Preußenpark,4.0,"['Apotheke am Olivaer Platz', 'Saint Charles Apotheke', 'Cornelia-Apotheke', 'Konstanzer Apotheke']"
+04501044,Ludwigkirchplatz,2.0,"['Emser-Apotheke', 'Apotheke am Ludwigkirchplatz']"
+04501045,Schaperstraße,3.0,"['Jakobus-Apotheke', 'Ranke Apotheke', 'Fasanen-Apotheke']"
+04501146,Barstraße,,
+04501147,Leon-Jessel-Platz,3.0,"['Fortuna-Apotheke', 'Sylter Apotheke', 'Josephinen-Apotheke']"
+04501148,Brabanter Platz,1.0,['Preussen-Apotheke']
+04501149,Nikolsburger Platz,,
+04501150,Wilhelmsaue,,
+04501151,Hildegardstraße,3.0,"['Apotheke am Bundesplatz 3', 'Park-Apotheke', 'Thüringer Apotheke']"
+04501152,Prager Platz,1.0,['Prager Apotheke']
+04501153,Babelsberger Straße,2.0,"['Bundes-Apotheke', 'Blitz-Apotheke']"
+05100101,Hakenfelde Nord,,
+05100102,Am Forstacker,,
+05100103,Mertensstraße,1.0,['Kopsch Apotheke Hakenfelde']
+05100104,Maselake,2.0,"['Askanier-Apotheke', 'Kiwi-Apotheke']"
+05100105,Amorbacher Weg,1.0,['Engel-Apotheke']
+05100206,Griesingerstraße,,
+05100207,An der Tränke,,
+05100208,Im Spektefeld,1.0,['Damian-Apotheke']
+05100209,Westerwaldstraße,,
+05100210,Germersheimer Platz,1.0,['Atlas-Apotheke']
+05100211,An der Kappe,1.0,['Falken-Apotheke Spandau']
+05100312,Eckschanze,1.0,['Eva-Apotheke']
+05100313,Eiswerder,1.0,['Uferpalais-Apotheke']
+05100314,Kurstraße,2.0,"['Kur-Apotheke', 'Kronen-Apotheke']"
+05100315,Ackerstraße,1.0,['Spandauer Apotheke']
+05100316,Carl-Schurz-Straße,7.0,"['Preussen Apotheke Spandau', 'Altstadt-Apotheke', 'Privilegierte Adler Apotheke', 'Die Apotheke am Bahnhof Spandau', 'Löwen-Apotheke', 'Fontane Apotheke', 'Seegefelder Apotheke']"
+05100317,Freiheit,,
+05200418,Isenburger Weg,1.0,['Stadt-Apotheke Staaken']
+05200419,Am Heideberg,,
+05200420,Staakener Straße,,
+05200421,Spandauer Straße,,
+05200422,Werkstraße,,
+05200423,Magistratsweg,2.0,"['Mariannen-Apotheke', 'Mumm-Apotheke']"
+05200524,Döberitzer Weg,1.0,['Glückskind-Apotheke']
+05200525,Pillnitzer Weg,,
+05200526,Rudolf-Wissell-Großsiedlung,1.0,['Apotheke Heerstraße Nord']
+05200527,Maulbeerallee,2.0,"['Apotheke am Kaufland Wilhelmstraße', 'Zentrum-Apotheke']"
+05200528,Weinmeisterhornweg,1.0,['Nicolai-Apotheke']
+05200629,Borkumer Straße,4.0,"['Die Herz Apotheke Spandau', 'Kloster-Apotheke', 'Hauptstadt Apotheke', 'Arcaden-Apotheke Spandau']"
+05200630,Wilhelmstadt West,4.0,"['Melanchthon-Apotheke', 'Adam-Apotheke', 'Hohenzollern-Apotheke', 'Jäger-Apotheke']"
+05200631,Wilhelmstadt Ost,2.0,"['Pichelsdorf-Apotheke', 'Hansa-Apotheke']"
+05200632,Tiefwerder,,
+05200633,Graetschelsteig,,
+05200634,Börnicker Straße,1.0,['Marien-Apotheke']
+05300735,Haveleck,,
+05300736,Zitadellenweg,1.0,['easyApotheke Spandau']
+05300737,Gartenfelder Straße,1.0,['Haselhorster Apotheke']
+05300838,Gartenfeld,,
+05300839,Rohrdamm,,
+05300840,Nonnendammallee,,
+05300841,Siemensdamm,3.0,"['Apotheke im Kaufzentrum', 'Apotheke 97', 'Central-Apotheke Siemensstadt']"
+05400942,Alt-Gatow,,
+05400943,Jägerallee,1.0,['Havelland-Apotheke']
+05400944,Kladower Damm,1.0,['Märkische Apotheke Kladow']
+05400945,Kafkastraße,,
+06100101,Fichtenberg,2.0,"['Albrecht-Apotheke Steglitz', 'Forst-Apotheke']"
+06100102,Schloßstraße,5.0,"['Kreisel-Apotheke', 'Germania Apotheke', 'Christophorus-Apotheke', 'Berlinda-Apotheke ""Das Schloss""', 'Schildhorn-Apotheke']"
+06100103,Markelstraße,3.0,"['Diana Apotheke Schloßstraße', 'Titania-Apotheke', 'easyApotheke im Forum Steglitz']"
+06100204,Munsterdamm,1.0,['Brigitten-Apotheke']
+06100205,Südende,1.0,['Südend-Apotheke']
+06100206,Stadtpark,4.0,"[""Grosscurth's Apotheke"", 'Tannenberg-Apotheke', 'Sedan-Apotheke', 'Markus-Apotheke Steglitz']"
+06100207,Mittelstraße,2.0,"['Kronen-Apotheke', 'Aktiv Apotheke Steglitz']"
+06100208,Bergstraße,2.0,"['Althoff Apotheke', 'Stadtpark-Apotheke']"
+06100209,Feuerbachstraße,,
+06100210,Bismarckstraße,,
+06200311,Alt-Lankwitz,,
+06200312,Komponistenviertel Lankwitz,,
+06200313,Lankwitz Kirche,3.0,"['Flora-Apotheke', 'Lankwitz-Apotheke', 'Thalia-Apotheke']"
+06200314,Kaiser-Wilhelm-Straße,2.0,"['Seydlitz-Apotheke', 'Marien-Apotheke']"
+06200315,Gallwitzallee,,
+06200316,Belßstraße,1.0,['Sertürner-Apotheke']
+06200317,Lankwitz Süd,,
+06200418,Landweg,,
+06200419,Thermometersiedlung,,
+06200420,Lichterfelde Süd,1.0,['Linden-Apotheke Lichterfelde']
+06200421,Königsberger Straße,2.0,"['Aktiv Apotheke Lichterfelde', 'Königsberger Apotheke']"
+06200422,Oberhofer Platz,2.0,"['Gertruden-Apotheke', 'Hedwig-Apotheke am Markt']"
+06200423,Schütte-Lanz-Straße,1.0,['Panther Apotheke']
+06300524,Berlepschstraße,1.0,['Düppel-Apotheke']
+06300525,Zehlendorf Süd,1.0,['Süd-Apotheke']
+06300526,Zehlendorf Mitte,3.0,"['Adler-Apotheke', 'Zehlendorf Apotheke', 'Stadt-Apotheke']"
+06300527,Sundgauer Straße,,
+06300528,Teltower Damm,1.0,['Friedrich-Apotheke']
+06300629,Botanischer Garten,1.0,['Apotheke am Asternplatz']
+06300630,Hindenburgdamm,,
+06300631,Goerzwerke,,
+06300632,Schweizer Viertel,1.0,['Apotheke im Schweizer Viertel']
+06300633,Augustaplatz,3.0,"['Laurentius-Apotheke', 'Eichen Apotheke', 'Central-Apotheke']"
+06300634,Lichterfelde West,2.0,"['Curtius-Apotheke', 'Finckenstein-Apotheke']"
+06400735,Wannsee,2.0,"['Stolpe-Apotheke', 'Wannsee Apotheke']"
+06400736,Düppel,1.0,['Die Dorotheen Apotheke']
+06400737,Nikolassee,1.0,['Apotheke in Nikolassee']
+06400838,Krumme Lanke,2.0,"['Schlachtensee-Apotheke', 'Neue Apotheke am See']"
+06400839,Fischerhüttenstraße,2.0,"['Krumme Lanke Apotheke', 'Augusta-Apotheke']"
+06400840,Fischtal,1.0,['Barbara-Apotheke']
+06400841,Zehlendorf Eiche,3.0,"['Staufen-Apotheke', 'Sundgau-Apotheke', 'Berolina Apotheke']"
+06400842,Hüttenweg,2.0,"['Oskar Helene Apotheke', 'Bären Apotheke']"
+06400843,Thielallee,1.0,['Apotheke Dahlem-Dorf']
+06400844,Dahlem,2.0,"['Zwilling-Apotheke', 'Korso-Apotheke']"
+07100101,Wittenbergplatz,6.0,"['Ansbacher Apotheke', 'Apotheke am Viktoria-Luise-Platz', 'Bavaria-Apotheke', 'Apotheke am Wittenbergplatz', 'Apotheke im KaDeWe', 'Roland Apotheke']"
+07100102,Kalckreuthstraße,4.0,"['Quartier Apotheke Nolleturm', 'Quartier Apotheke Motzstraße', 'ViaPharm-Apotheke', 'Magnus Apotheke']"
+07100103,Frobenstraße,3.0,"['Königin-Luise-Apotheke', 'Quartier Apotheke Maaßenstraße', 'Bülow-Apotheke']"
+07100204,Barbarossaplatz,1.0,['Apotheke Goltzstraße']
+07100205,Alvenslebenstraße,1.0,['Kurmark-Apotheke']
+07100206,Großgörschenstraße,1.0,['Goeben-Apotheke']
+07200307,Bayerischer Platz,4.0,"['Unsere Apotheke', 'Regina-Apotheke', 'Apotheke am Bayerischen Platz', 'Meraner Apotheke']"
+07200308,Volkspark (Rudolph-Wilde-Park),1.0,['Ahorn-Apotheke']
+07200409,Belziger Straße,2.0,"['St. Annen-Apotheke', 'Akazien-Apotheke']"
+07200410,Feurigstraße,3.0,"['Kaiser-Wilhelm-Apotheke', 'Dominicus Apotheke', 'Feurig-Apotheke']"
+07200411,Julius-Leber-Brücke,1.0,['Pommern-Apotheke']
+07200412,Schöneberger Linse,,
+07200413,Cheruskerstraße,2.0,"['Zedern-Apotheke', 'Apotheke im Bahnhof Südkreuz']"
+07200414,Hohenfriedbergstraße,,
+07300515,Taunusstraße,3.0,"['Apotheke am Schillerplatz', 'Rheingau-Apotheke', ""Dr. Rude's Apotheke""]"
+07300516,Odenwaldstraße,2.0,"['Helianthus Apotheke', 'Burger Apotheke']"
+07300517,Perelsplatz,3.0,"['Rathaus-Apotheke Friedenau', 'Stier-Apotheke', 'Lauter-Apotheke']"
+07300618,Ceciliengärten,1.0,['Dr. Krachts Apotheke']
+07300619,Grazer Platz,3.0,"['Apotheke im Polikum Friedenau', 'Cranach-Apotheke', 'Apotheke zum Zirkel']"
+07400720,Gontermannstraße,2.0,"['Apotheke am Flughafen', 'Richthofen-Apotheke']"
+07400721,Paradestraße,,
+07400822,Lindenhofsiedlung,,
+07400823,Wittekindstraße,2.0,"['Manteuffel-Apotheke', 'Wittekind-Apotheke am Attilaplatz']"
+07400824,Bosepark,2.0,"['Pelikan Discount Apotheke Tempelhof', 'Viktoria-Apotheke']"
+07400825,Friedrich-Karl-Straße,2.0,"['Apotheke am T-Damm', 'Konradin-Apotheke']"
+07400826,Marienhöhe,,
+07400927,Rathaus Tempelhof,4.0,"['Arcaden-Apotheke am Tempelhofer Hafen', 'Hafen-Apotheke', 'Pelikan Apotheke', 'Albrecht-Apotheke']"
+07400928,Germaniagarten,,
+07501029,Ringstraße,2.0,"['easyApotheke  Mariendorf', 'St. Hildegard-Apotheke']"
+07501030,Machonstraße,3.0,"['Preussen Apotheke Kurfürsten', 'Fortunatus  Apotheke', 'Markt-Apotheke']"
+07501031,Eisenacher Straße,1.0,['Akazien Apotheke']
+07501032,Imbrosweg,1.0,['OLMS-Apotheke']
+07501133,Fritz-Werner-Straße,1.0,['PARK-Apotheke']
+07501134,Hundsteinweg,3.0,"['Tauern-Apotheke', 'Fritz Apotheke', 'Apotheke zum Stift']"
+07501135,Birnhornweg,,
+07601236,Marienfelder Allee Nordwest,,
+07601237,Kirchstraße,3.0,"['Anker-Apotheke', 'Ursus-Apotheke', 'St. Hubertus-Apotheke']"
+07601238,Marienfelde Nordost,,
+07601339,Tirschenreuther Ring West,2.0,"['Burg-Apotheke', 'Oleander-Apotheke']"
+07601340,Tirschenreuther Ring Ost,1.0,['Helgoland-Apotheke']
+07601341,Diedersdorfer Weg,,
+07601442,Kettinger Straße,2.0,"['Tulpen Apotheke', 'Grüne Apotheke Lichtenrade']"
+07601443,Töpchiner Weg,2.0,"['Apotheke Alt-Lichtenrade', 'Apotheke am Lichtenrader Damm']"
+07601544,John-Locke-Straße,5.0,"['Goethe-Apotheke', 'Tempelritter-Apotheke', 'Lichtenrader Apotheke', 'Bahnhof-Apotheke', 'Linden-Apotheke']"
+07601545,Nahariyastraße,1.0,['TELTOW-Apotheke']
+07601546,Franziusweg,1.0,['Schwarze Adler-Apotheke']
+07601547,Horstwalder Straße,1.0,['Puls Apotheke']
+07601548,Wittelsbacherstraße,,
+08100101,Hasenheide,,
+08100102,Schillerpromenade Nord,3.0,"['Apotheke am Herrfurthplatz', 'Die City-Apotheke', 'Werbellin-Apotheke']"
+08100103,Schillerpromenade Süd,1.0,['Ulrich-Apotheke']
+08100104,Wartheplatz,1.0,['Tasmania-Apotheke']
+08100105,Silbersteinstraße,1.0,['Hermann-Apotheke']
+08100206,Flughafenstraße,4.0,"['Arminius-Apotheke', 'Libertas Apotheke', 'Forum-Apotheke', 'easyApotheke Neukölln Arcaden']"
+08100207,Rollberg,2.0,"['Wilhelm Busch Apotheke', 'Apotheke zum Elefanten']"
+08100208,Körnerpark,2.0,"['Euro-Apotheke', 'Bären-Apotheke am Karl-Marx-Platz']"
+08100209,Glasower Straße,4.0,"['atoll-Apotheke', 'Ringbahn-Apotheke', 'Dafne Apotheke am Neuköllner Tor', 'Glasow-Apotheke']"
+08100310,Maybachufer,2.0,"['easyApotheke Kottbusser Damm', 'Mauritius-Apotheke']"
+08100311,Reuterplatz,2.0,"['Pannier-Apotheke', 'Apotheke zum goldenen Anker']"
+08100312,Weichselplatz,3.0,"['Wildenbruch-Apotheke OHG', 'Helios-Apotheke', 'Lucia-Apotheke am Wildenbruchplatz']"
+08100313,Bouchéstraße,,
+08100314,Donaustraße,3.0,"['Sonnen-Apotheke', 'Apotheke am Hermannplatz', 'Apotheke Impuls']"
+08100415,Ganghoferstraße,3.0,"['Dafne Apotheke am Rathaus Neukölln', 'Rosegger-Apotheke', 'Frühlicht-Apotheke']"
+08100416,Alt-Rixdorf,,
+08100417,Braunschweiger Straße,1.0,['Hindenburg-Apotheke']
+08100418,Hertzbergplatz,,
+08100419,Treptower Straße Nord,,
+08100520,Weiße Siedlung,1.0,['Sonnenblumen-Apotheke']
+08100521,Schulenburgpark,2.0,"['Dr. Warsow-Apotheke', 'Apotheke zur Goldenen Kugel']"
+08200622,Jahnstraße,,
+08200623,Park am Buschkrug,2.0,"['Orchideen-Apotheke', 'Luisen Apotheke']"
+08200624,Tempelhofer Weg,1.0,['farma-plus Apotheke Britz']
+08200725,Mohriner Allee Nord,,
+08200726,Hufeisensiedlung,1.0,['Hufeisen-Apotheke']
+08200727,Parchimer Allee Süd,1.0,['Gerhart-Hauptmann-Apotheke']
+08200728,Ortolanweg,,
+08200729,Britzer Garten,,
+08200730,Handwerker-Siedlung,1.0,['Post-Apotheke Buckow']
+08200831,Buckow West,1.0,['PANDA-Apotheke']
+08200832,Buckow Mitte,3.0,"['Gertrauden-Apotheke', 'Apotheke Alt Buckow', 'Punkt-Apotheke']"
+08200833,Buckow Ost,,
+08300934,Gropiusstadt Nord-West,3.0,"['Apotheke am Gesundheitszentrum', 'Gropius-Apotheke', 'Elch-Apotheke']"
+08300935,Gropiusstadt Süd-West,1.0,['Centrum-Apotheke']
+08301036,Gropiusstadt Mitte,,
+08301037,Gropiusstadt Süd-Ost,1.0,['Apotheke Wutzky-Center']
+08401138,Goldhähnchenweg,2.0,"['Fontane-Apotheke Buckow', 'Pfauen-Apotheke']"
+08401139,Vogelviertel Süd,,
+08401140,Vogelviertel Nord,,
+08401241,Blumenviertel,2.0,"['Ibis-Apotheke', 'Paracelsus-Apotheke']"
+08401242,Zittauer Straße,,
+08401243,Alt-Rudow,3.0,"['Alte Kloster-Apotheke', 'Apotheke Alt-Rudow', 'Neue Apotheke']"
+08401244,Waßmannsdorfer Chaussee,1.0,['Condor-Apotheke']
+08401245,Frauenviertel,1.0,['Gartenstadt-Apotheke-Rudow']
+08401246,Waltersdorfer Chaussee Ost,,
+09100101,Alt-Treptow,4.0,"['Margareten-Apotheke', 'Blaue Apotheke', 'Bären-Apotheke Treptow', 'Die Grüne Apotheke Treptow']"
+09100202,Plänterwald West,1.0,['Luna-Apotheke']
+09100203,Plänterwald Ost,1.0,['Apotheke am Plänterwald']
+09100304,Baumschulenweg West,3.0,"['Baumschulen Apotheke', 'Stern-Apotheke', 'Mörike-Apotheke']"
+09100305,Baumschulenweg Ost,,
+09100306,Späthsfelde,,
+09100407,Johannisthal West,1.0,['Fontane-Apotheke']
+09100408,Johannisthal Ost,2.0,"['Sterndamm-Apotheke', 'Apotheke Johannisthal']"
+09100409,Landschaftspark Adlershof,,
+09200510,Helmholtz-Kiez,,
+09200511,Griechischer Park,4.0,"['Kant Apotheke', 'Wilhelminenhof-Apotheke', 'Falken Apotheke', 'Sonnen-Apotheke']"
+09200512,Wuhlheide,,
+09200613,Bahnhof Schöneweide,2.0,"['Kiez-Apotheke', 'europa apotheke']"
+09200614,Oberspree,,
+09200715,Wista,2.0,"['easyApotheke Adlershof', 'Aesculap-Apotheke']"
+09200716,Dörpfeldstraße West,1.0,['Adler Apotheke Adlershof']
+09200717,Dörpfeldstraße Ost,2.0,"['Apotheke an der Alten Schule', 'Elefanten Apotheke']"
+09200818,Spindlersfeld,,
+09200819,Köllnische Vorstadt,1.0,['Schloss-Apotheke']
+09300920,Dorf Altglienicke,2.0,"['Apotheke im Wegedorn-Zentrum', 'Normannen-Apotheke']"
+09300921,Preußen Siedlung,,
+09300922,Kosmos Viertel,1.0,['Die Gesundheits-Apotheke Altglienicke Schönefeld']
+09300923,Kölner Viertel,,
+09301024,Falkenberg,1.0,['Taut-Apotheke']
+09301025,Alt-Bohnsdorf,1.0,['SABELUS XXL Apotheke Bohnsdorf']
+09301126,Grünau,1.0,['Apotheke an der Dahme']
+09301227,Karolinenhof,,
+09301228,Schmöckwitz/Rauchfangswerder,,
+09401329,Kietzer Feld/Nachtheide,2.0,"['Süd-Apotheke', 'Flieder-Apotheke']"
+09401330,Wendenschloß,,
+09401431,Allende I,1.0,['Wilhelm Voigt Apotheke']
+09401432,Siedlung Kämmereiheide,,
+09401433,Allende II,1.0,['Amtsfeld-Apotheke']
+09401534,Altstadt Köpenick,2.0,"['Stadt-Apotheke Köpenick', 'Sano-Apotheke']"
+09401635,Müggelheim,1.0,['Müggel-Apotheke']
+09501736,Hirschgarten,,
+09501737,Alt-Friedrichshagen,3.0,"['Kristinen-Apotheke', 'Anker-Apotheke', 'Rathaus-Apotheke']"
+09501838,Rahnsdorf,3.0,"['Apotheke zum weißen Schwan', 'Rosen-Apotheke', ""Schneemann's Apotheke Rahnsdorf""]"
+09501939,Bahnhofstraße,3.0,"['DocKöpenick Apotheke', 'Dr. Rothes Apotheke', 'Apotheke im Forum Köpenick']"
+09501940,Güterbahnhof Köpenick,,
+09501941,Friedrichshagener Straße,1.0,['Pharmland Apotheke Köpenick']
+09502042,Mittelheide,,
+09502043,Dammheide,2.0,"['Apotheke im Gesundheitsforum Köpenick', 'Phönix-Apotheke']"
+10100101,Marzahn West,1.0,['Apotheke am Stadtrand']
+10100102,Rosenbecker Straße,,
+10100103,Wittenberger Straße,3.0,"['Atrium-Apotheke', 'Bärliner Apotheke Marzahn e.K.', 'Känguruh-Apotheke']"
+10100104,Golliner Straße,,
+10100205,Gewerbegebiet Bitterfelder Straße,,
+10100206,Wuhletalstraße,1.0,['Casana-Apotheke im Tal-Center']
+10100207,Ahrensfelder Berge,1.0,['Blumberger-Apotheke']
+10100208,Bürgerpark,2.0,"['Sanimedius-Apotheke im Hufeland Ärztehaus', 'Klee-Apotheke']"
+10100209,Lea-Grundig-Straße,,
+10100210,Marzahner Promenade,2.0,"['Bären-Apotheke am Marzahner Tor', 'PLUSPUNKT-Apotheke im Eastgate']"
+10100311,Marzahner Chaussee,1.0,['Brücken-Apotheke']
+10100312,Springpfuhl,5.0,"['VitaCura-Apotheke', 'Poseidon-Apotheke', 'Bromelia-Apotheke', 'Baba Jaga Apotheke', 'Apotheke am Springpfuhl']"
+10100313,Alt-Marzahn,,
+10100314,Auersbergstraße,1.0,['ABACUS Apotheke']
+10100315,Bärenstein,1.0,['Alt Marzahner Apotheke']
+10100316,Landsberger Tor,1.0,['Fasanen-Apotheke']
+10200417,Zossener Straße,1.0,['Alte Hellersdorfer Apotheke']
+10200418,Kyritzer Straße,,
+10200419,Havelländer Ring,,
+10200420,Gut Hellersdorf,1.0,['Kienberg Apotheke']
+10200421,Helle Mitte,3.0,"['Kastanien Apotheke', 'Apotheke Helle Mitte', 'VivApotheke Hellersdorf']"
+10200422,Hellersdorfer Promenade,,
+10200423,Böhlener Straße,,
+10200524,Adele-Sandrock-Straße,2.0,"['Löwenzahn-Apotheke', 'Linden-Apotheke']"
+10200525,Schleipfuhl,1.0,['Sonnenhut Apotheke']
+10200526,Boulevard Kastanienallee,,
+10200627,Am Kienberg,,
+10200628,Neue Grottkauer Straße,1.0,['Corso-Apotheke']
+10200629,Teterower Ring,2.0,"['Spree-Center-Apotheke', 'Robinson-Apotheke']"
+10200630,Cecilienplatz,1.0,['Cecilien-Apotheke']
+10300731,Oberfeldstraße,2.0,"['adler Apotheke', 'Skarabäus-Apotheke']"
+10300732,Buckower Ring,2.0,"['Apotheke am ukb', 'Wuhletal Apotheke']"
+10300733,Alt-Biesdorf,2.0,"['Apotheke Biesdorf-Süd', 'Polimedica-Apotheke']"
+10300734,Biesdorf Süd,,
+10400835,Kaulsdorf Nord,1.0,['Prinzen-Apotheke']
+10400836,Alt-Kaulsdorf,1.0,['Neue Medicus Apotheke']
+10400837,Kaulsdorf Süd,1.0,['Heide-Apotheke']
+10400938,Mahlsdorf Nord,1.0,['gesund leben Apotheke Mahlsdorf']
+10400939,Alt-Mahlsdorf,3.0,"['Neumann Apotheke', 'Georginen-Apotheke', 'Mahlsdorfer Apotheke']"
+10400940,Elsensee,,
+10400941,Pilgramer Straße,2.0,"['Sonnen-Apotheke', 'Süd-Apotheke']"
+11100101,Dörfer Malchow-Wartenberg,,
+11100102,Dorf Falkenberg,,
+11100203,Falkenberg Ost,1.0,['Brunnen-Apotheke']
+11100204,Falkenberg West,1.0,['Falken-Apotheke']
+11100205,Wartenberg Süd,1.0,['Vitalis-Apotheke']
+11100206,Wartenberg Nord,3.0,"['Amsel-Apotheke', 'Wartenberger Apotheke', 'Apotheke Hohenschönhausen']"
+11100307,Zingster Straße Ost,2.0,"['Auxilia-Apotheke', 'Lindenapotheke im Linden-Center']"
+11100308,Zingster Straße West,1.0,['Löwenzahn-Apotheke im RIZ-Center']
+11100309,Mühlengrund,,
+11200410,Malchower Weg,1.0,"[""Schneemann's Apotheke""]"
+11200411,Hauptstraße,2.0,"['Adler Apotheke', 'Apotheke im Storchenhof']"
+11200512,Orankesee,,
+11200513,Große-Leege-Straße,1.0,['Reichenberger Apotheke']
+11200514,Landsberger Allee,2.0,"['Koala-Apotheke', 'Stern-Apotheke im Allee-Center']"
+11200515,Weiße Taube,,
+11300616,Hohenschönhauser Straße,1.0,['Castello-Apotheke']
+11300617,Fennpfuhlpark,2.0,"['Apotheke am Anton-Saefkow-Platz', 'Pegasus-Apotheke']"
+11300618,Storkower Bogen,2.0,"['Rosen-Apotheke', 'Apotheke am Fennpfuhl']"
+11300619,Rudolf-Seiffert-Park,,
+11300620,Fennpfuhl Ost,1.0,['Möllendorff-Apotheke']
+11300721,Herzbergstraße,,
+11300722,Rathaus Lichtenberg,2.0,"['Apotheke am Stadtpark', 'Apotheke am Rathaus Lichtenberg']"
+11300723,Bornitzstraße,,
+11300724,Roedeliusplatz,1.0,['Rusche Apotheke']
+11300725,Nibelungenviertel,3.0,"['Oskar Ziethen Apotheke', 'APONEO Apotheke', 'Nibelungen Apotheke']"
+11300826,Frankfurter Allee Süd,2.0,"['Friedrichsberg Apotheke', 'Lichtenberg Apotheke']"
+11400927,Victoriastadt,,
+11400928,Nöldnerplatz,1.0,['Pharmland Apotheke Lichtenberg']
+11400929,Weitlingkiez,2.0,"['Elsen-Apotheke', 'Weitling-Apotheke']"
+11400930,Zachertstraße,1.0,['Berliner Bär Apotheke']
+11400931,Massower Straße,,
+11401032,Rosenfelder Ring,1.0,['Apotheke an der Rhinstraße']
+11401033,Gensinger Straße,1.0,['Bahnhof Apotheke Friedrichsfelde-Ost']
+11401034,Tierpark,,
+11401135,Dolgenseestraße,1.0,['Dolgensee-Apotheke']
+11401136,Volkradstraße,2.0,"['Apotheke in der Volkradstraße', 'Apotheke am Tierpark']"
+11401137,Erieseering,3.0,"['Apotheke 24', 'Apotheke am Bärenschaufenster', 'Jumbo-Apotheke']"
+11501238,Rummelsburg,,
+11501339,Karlshorst West,,
+11501340,Karlshorst Nord,2.0,"['Rheinstein-Apotheke', 'Treskow Apotheke']"
+11501341,Karlshorst Süd,1.0,['Sonnenschein-Apotheke']
+12100101,Letteplatz,2.0,"['Sanimedius-Apotheke Pankower Allee', 'Tilia-Apotheke']"
+12100102,Hausotterplatz,1.0,['Residenz-Apotheke']
+12100103,Breitkopfbecken,3.0,"['Neue Apotheke', 'Kopenhagener Apotheke', 'Lindauer Apotheke']"
+12100204,Schäfersee,3.0,"['Apotheke am Schäfersee', 'Wilhelm-Tell-Apotheke', 'easyApotheke Residenzstraße']"
+12100205,Teichstraße,2.0,"['Primus-Apotheke', 'Apotheke am Kutschi']"
+12100206,Humboldtstraße,,
+12200307,Reinickes Hof,1.0,['Löwen-Apotheke']
+12200308,Meller Bogen,,
+12200309,Scharnweberstraße,4.0,"['Diamant-Apotheke im Einkaufszentrum ""Der Clou""', 'Barlach-Apotheke', 'Apotheke am Markt Reinickendorf', 'Rosen-Apotheke']"
+12200310,Klixstraße,1.0,['Eichborn-Apotheke']
+12200411,Schumacher-Quartier,,
+12200412,Waldidyll/Flughafensee,,
+12200413,Tegel Süd,1.0,['Apotheke am Tegeler See']
+12200414,TXL,,
+12200515,Alt-Tegel,6.0,"['Gorki Apotheke', 'Adler-Apotheke Berlin-Tegel', 'Karolinen Apotheke', 'Schloß Apotheke Tegel', 'Alte Spree Apotheke', 'Apotheke in den Hallen am Borsigturm']"
+12400616,Konradshöhe/Tegelort,1.0,['Falken-Apotheke']
+12400617,Alt-Heiligensee,1.0,['Storchen-Apotheke']
+12400618,Heiligensee Nord,,
+12400619,Heiligensee,1.0,['Apotheke am Markt']
+12400720,Frohnau West,2.0,"['Ludolfinger Apotheke', 'Elch-Apotheke']"
+12400721,Frohnau Ost,1.0,['Park Apotheke']
+12400722,Hermsdorf West,2.0,"['Leuchtturm Apotheke', 'Hirsch-Apotheke']"
+12400723,Hermsdorf Ost/Waldsee,2.0,"['Hermsdorfer Apotheke', 'Waldsee-Apotheke']"
+12500824,Ziekowstraße/Freie Scholle,,
+12500825,Borsigwalde,1.0,['Annen-Apotheke Borsigwalde']
+12500926,Wittenau Mitte,3.0,"['Bären Apotheke', 'Birken-Apotheke Dr. Barthel', 'Oran-Apotheke']"
+12500927,Wittenau Nord,,
+12500928,Waidmannslust,2.0,"['Fleming-Apotheke', 'Octopus-Apotheke']"
+12500929,Lübars,,
+12500930,Wittenau Süd,,
+12601031,Lübarser Straße,,
+12601032,Rollbergesiedlung,2.0,"['Titisee-Apotheke', 'Sanitas Apotheke']"
+12601133,Treuenbrietzener Straße,,
+12601134,Märkisches Zentrum,3.0,"['easyApotheke Märkische Zeile', 'Großkreuz-Apotheke', 'Äskulap-Apotheke im Märkischen Zentrum']"
+12601235,Dannenwalder Weg,,
+12601236,Schorfheidestraße,,
