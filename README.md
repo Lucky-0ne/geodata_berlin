@@ -22,6 +22,7 @@ This repository features a curated set of geodata for the Berlin area, supportin
 <img src="https://github.com/Lucky-0ne/geodata_berlin/blob/main/main/python_package/usecase_example_results/proportion_age_per_LD_selective/combined_proportions.png" width="900" height="auto">
 
 ### Further Data Sets ...
+- check out **Christian Tesch's [Berlin PLR Data](https://github.com/tesch-ch/berlin_PLR_data) repository**, it contains further information and preprocessed data sets on Berlin (LOR) districts and a lot more
 
 ## Credits
 - to be added from READMEs (ODIS, Amt für Statistik Berlin-Brandenburg, Berlin Open Data, ...)
