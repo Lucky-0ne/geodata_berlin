@@ -1,4 +1,4 @@
-# Geodata Berlin
+# Geodata on Berlin urban districts
 A small python package for mapping and analyzing geospatial information across Berlin's administrative divisions.  
 This repository features a curated set of geodata for the Berlin area, supporting detailed spatial studies and visualizations at various district levels.
 
